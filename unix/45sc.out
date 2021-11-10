@@ -1,0 +1,2002 @@
+  45Sc                                                  45Sc   Adopted levels                                             Page   1
+                                                    ============================
+
+     Q(beta-)=-2062.4 5; S(n)=11324.9 20; S(p)=6889.2 9; Q(alpha)=-7935.4 11  1993AU05,1993AU07
+     Other reactions:
+       27Al(18O,xgamma) GDR: E=31.5, 44.9, 61.5, and 72.5 MeV. 1990Ki04 measured gamma's and gamma(theta=40o,60o,90o,120o,140o);
+         NaI, tof. Deduced GDR strength function.
+                    E=44.9-109.9 MeV. 1993Ki08,1993Ki12 measured gamma-spectral shapes and deduced GDR
+                      strength function and structure near GDR.
+       44Ca(d,n) E=11.7 MeV: 1965Ok01 measured sigma(En=9-14 MeV,theta)by tof technique.
+       44Ca(48Ti,47Sc) E=8-15 MeV/A: 1990Vo07 measured sigma(theta=5o); mag spect.
+       45Sc(p,2p):
+         E=385 MeV: 1969Ja12 measured sigma(Ep1,Ep2,thetap1,thetap2,phip1,phip2) with momentum analyzers and deduced
+           momentum distributions and single-particle states in 45Sc.
+         E=156 MeV: 1967Ru03 and 1964Ru05 measured sigma(Ep1+Ep2,theta) with multidetectors and detected
+           2s1/2 shell states.
+     2341 and 2352 States: There appear to be considerable
+       discrepancies in the experimental data as to the existence and gamma
+       deexcitation patterns and resultant T1/2's of these two states.
+       1983Bu21 suggested the possibility of three states between 2350 and
+       2352. However, reanalysis suggests that there is only state.
+      
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page   2
+                                                ===================================
+
+       The first problem is the placement of an  aprox2342gamma. This gamma was
+       assigned to the 2352 state by 1983Ra17 in (p,p'g) and by 1974Sc02 and
+       1974Sc07 in (p,gamma). 1975Da16, 1980Bu08, and 1985Av04 in (p,p'gamma),
+       1972Ek02 in (p,gamma), 1989Ge09 in (n,n'gamma), and 1973Ar04 in (gamma,gamma)
+       assigned it to the 2342 state. The T1/2's derived from DSA
+       measurements on this gamma seem reasonably consistent: 15 fs 10
+       (1980Bu08), 36 fs 2 (1983Ra17), and 46 fs 11 (1989Ge09).
+       T1/2<43 fs from (gamma,gamma) is also in agreement. However,
+       T1/2(2352)=42 fs +28-17 from 1631gamma DSAM (1974Sc07) is also
+       consistent with these values but inconsistent with T1/2(2352)=194
+       fs 56 based on 796gamma and 1632gamma DSAM (1980Bu08). Based on the
+       preponderance of the data, the evaluator suggests that the 2342gamma does
+       arise from the 2342 state and not the 2352, resulting in
+       T1/2(2341)=32 fs 9 (unweighted av of 1980Bu08, 1983Ra17, and
+       1989Ge09).
+       For the 2352 state there is an apparent discrepancy in the gamma
+       deexcitation patterns reported by the various authors in addition to
+       the discrepancy in T1/2's noted above. In (p,gamma) 1972Ek02 observed
+       797.29, 1378.50, and 2351.51 gamma's with relative intensities of 5.0,
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page   3
+                                                ===================================
+
+       4.4, and 5.0, respectively, and 1974Sc02 reported 797.3, 1285.7,
+       1632.4, and 2340.1 gamma's with branching ratios of 21% 4, 9.0% 18,
+       45% 9, and 25% 5, respectively. 1979Aw02, who observed gamma's below
+        aprox1.4 MeV also reported the 797gamma. The 2351gamma was not observed in
+       (gamma,gamma) and 1973Ar04 estimate gW(125o)Gamma02/Gamma<0.5 meV. In
+       (p,p'gamma) 1983Ra17 and 1985Av04 apparently reported only gamma's of
+       interest to their DSA measurements (2340 and 795, 1049, and 1632,
+       respectively); 1968Ch25 observed 1049.2, 1631.0, and 2350.4 gamma's with
+       relative branching ratios of 100 20, 56 11, and 3.0 6,
+       respectively; 1975Da16 looked for but did not observe the gamma's reported
+       by 1968Ch25; 1980Bu08 reported 796.4 and 1631.6 gamma's with photon
+       branching ratios of 37% and 63%, respectively.
+       Igamma(796)/Igamma(1632)=0.47 13 (1974Sc04) and 0.59 (1980Bu08) are
+       consistent; 1972Ek02 assigned a 1633gamma with a relative intensity of
+       31.1 as a contaminant from 20Ne; from Igamma(1632gamma) (1968Ch25) and
+       the branching ratios of 1974Sc02 the 796gamma may have been obscured by
+       background in 1968Ch25. The evaluator believes that 1049gamma reported by
+       1968Ch25 and 1985Av04 should be assigned to the 2290 state (See
+       discussion in (p,p'gamma)). Igamma(796)/Igamma(2352)=1 (1972Ek02) and
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page   4
+                                                ===================================
+
+       Igamma(796)/Igamma(2352)=8.8 34 from Igamma(796)/Igamma(1632)=0.47
+       13 (1974Sc02) and Igamma(1632)/Igamma(2352)=19 6 (1968Ch25) are
+       discrepant; however, 1974Sc02 also assigned a 2352gamma to the 2895 state
+       and this may be the major contributor to the 2352gamma intensity reported
+       by 1972Ek02. The 1378.5gamma reported by 1972Ek02 has not been confirmed
+       in any subsequent work and is, presumably, a contaminant line. The
+       discrepancy in T1/2(2352) is still unresolved and the evaluator has
+       adopted a range with the lower limit from 1974Sc07 and the upper limit
+       from the 796gamma data of 1980Bu08.
+               Proton resonance parameters: see
+       44Ca(p,p),(p,p'gamma),(p,gamma) Res
+               Isobaric analog states which contain no information
+       pertinent to the bound states of A=45 have not been included in this
+       evaluation. See 1983Bu21.
+
+                          Cross Reference XREF Flags
+                          ----- --------- ---- -----
+
+     A 45CA B- DECAY
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page   5
+                                                ===================================
+
+     B 45SC IT DECAY (318 MS)
+     C 45TI EC DECAY
+     D 28SI(19F,2PG), 30SI(18O,P2NG),
+     E 42CA(A,P)
+     F 42CA(A,PG)
+     G 43CA(3HE,P)
+     H 44CA(P,P),(P,P'G),(P,G) RES
+     I 44CA(3HE,D),(POL 3HE,D)
+     J 44CA(16O,15N)
+     K 45SC(E+,XG)
+     L 45SC(G,G),(G,G') RES
+     M 45SC(N,N'),(N,N'G)
+     N 45SC(P,P'),(D,D')
+     O 45SC(P,P'G)
+     P COULOMB EXCITATION
+     Q 46TI(D,3HE)
+     R 47TI(D,A)
+     S 48TI(P,A) E=10,12 MEV
+     T 48TI(P,A) E=40.35 MEV
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page   6
+                                                ===================================
+
+     U 48TI(POL P,A) E=79.2 MEV
+     V TI(MU-,XNG)
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 0.0              7/2-                  CDEFGHILMNOPQUVABJKRST   STABLE             J: J=7/2 from AB (1976Fu06, 1959Fr53). pi=-
+                                                                                     from L(3He,d)=3
+                                                                                    MOMM1=+4.7564866 18
+                                                                                     (1989RA17,1969LU01,1951PR02)
+                                                                                    MOMM1: NMR; 2H standard
+                                                                                    MOME2=-0.22 1 (1989RA17,1976ER01)
+                                                                                    MOME2: ABLDF; no pol correction. Other: -0.216
+                                                                                      (1971Ch25. AB)
+                                                                                    For charge and magnetization distribution, see
+                                                                                      1973DeXL, 1970De36, and 1970Th02
+ 12.40[%&] 5      3/2+                  CD F HILMNOPQUVAB K ST   318 MS 7           J: L(3He,d)=2; D,E2 gamma from 1/2- IAR
+                                                                                    T: weighted ave of 305 ms 17 in (p,p'gamma)
+                                                                                     and 0.32 s 1 in Coul. ex.; gamma(t)
+                                                                                    %IT=100
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page   7
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 376.50[ab] 12    3/2-                  CDEFGHI MNOPQ V    RS    43.3 PS 23         J: L(3He,d)=1; E2 gamma to 7/2-
+                                                                                    T: from B(E2)(up) in Coul. ex. Others: 101 ps
+                                                                                     28 (RDM), >1.1 ps (DSAM), and 3.5 ps 13
+                                                                                     (DSAM) in (p,p'gamma) and >4 ps from DSAM in
+                                                                                     (alpha,pgamma). See also discussion in
+                                                                                     (p,p'gamma)
+ 543.06[%d] 14    5/2+                  CD F H LMNOPQ      RS    5.5 PS[c] 6        J: L(d,3He)=2; E1(+M2) gamma to 7/2-
+                                                                                    T: other DSA measurements: >0.38 ps from
+                                                                                     (n,n'gamma) and >0.55 ps from (p,p'gamma).
+                                                                                     105 ps 28 (RDM) in (p,p'gamma) discrepant.
+ 720.12[ab] 14    5/2-                  C  FGHILMNOPQ V    RS    206 FS 16          J: L(d,3He)=3; D+Q gamma to 3/2+
+                                                                                    T: from (gamma,gamma). Others: 0.25 ps +8-6
+                                                                                     (DSAM) from (alpha,pgamma), 0.15 ps 10 (DSAM)
+                                                                                      from (n,n'gamma), 193 fs 22 (DSAM) from
+                                                                                     (p,p'gamma), and 0.5 ps 4 from B(E1)(up) in
+                                                                                     Coul. ex.
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page   8
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 939.24[be] 15    1/2+                     F HI MNO QU     RST   7.3 PS +6-3        T: from DSAM in (alpha,pgamma). Other: >2.6 ps
+                                                                                      (DSAM) from (p,p'gamma). <0.97 ps (DSAM)
+                                                                                     from (n,n'gamma) is discrepant
+ 974.38[%d] 15    7/2+                  CD F H LM OP        S    2.54 PS[f] 23      J: 5/2+,7/2+ from E1(+M2) gamma to 7/2-; E2
+                                                                                     gamma to 3/2+. <>5/2 from pgamma(theta) in
+                                                                                     (alpha,pgamma)
+                                                                                    T: other: >0.42 ps (DSAM) from (n,n'gamma).
+                                                                                     0.36 ps 4 from B(E1)(up)=7.5x10-6 8 in Coul.
+                                                                                     ex. Is discrepant
+ 1067.6[b] 4      3/2-                    EFGHI MNOPQ    J RS    0.28 PS[cg] 6      J: L(3He,d)=1; M1+E2 gamma to 5/2-
+ 1236.70[b] 25    11/2-                 CD FGH LMNOPQU     RST   1.80 PS[g] 10      J: pi=- from L(p,p')=2. J=7/2,11/2 from
+                                                                                     pgamma(theta) in (alpha,pgamma). J=5/2,11/2
+                                                                                     from gamma(theta) in Coul. ex.
+                                                                                    T: from (gamma,gamma). Others: 2.4 ps +10-6
+                                                                                     from (alpha,pgamma) and 1.60 ps 34 from
+                                                                                     (p,p'gamma); DSAM. 0.12 ps 8 (DSAM) from
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page   9
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                     (n,n'gamma) discrepant
+ 1303.18[be] 15   3/2+                     F H  MNO Q      RS    2.3 PS +7-4        J: L(d,3He)=2; gamma from 1/2- IAR
+                                                                                    T: weighted ave of 2.4 ps +12-7 from
+                                                                                     (alpha,pgamma) and 2.3 ps +9-5 from
+                                                                                     (p,p'gamma); DSAM. >5.5 ps (1980Bu08; DSAM)
+                                                                                     discrepant in (p,p'gamma)
+ 1408.87[ab] 20   (7/2)-                C  FGHILMNOPQ      RS    257 FS[g] +23-18   XREF:I(*)
+                                                                                    J: 3/2-,5/2-,7/2- from M1+E2 gamma to 7/2- and
+                                                                                      D,E2 gamma to 3/2-; <>3/2 from pgamma(theta)
+                                                                                      in (alpha,pgamma). Member of Kpi=3/2- band
+                                                                                    T: other: 0.28 ps 14 (DSAM) from (n,n'gamma).
+                                                                                     <0.12 ps from (p,gamma) and 0.43 ps +12-8
+                                                                                     from (alpha,pgamma) are discrepant; DSAM.
+                                                                                     Note that T1/2=299 fs 19 from (gamma,gamma)
+                                                                                     assuming J=5/2 is more compatible with the
+                                                                                     adopted T1/2 than 398 fs 24 assuming 7/2
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  10
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 1433.48[%] 15    9/2+                   D F HI MNO         S    3.6 PS[f] 18       XREF:I(*)
+                                                                                    J: 7/2+,9/2+ from E2(+M3) gamma to 5/2+; D+Q
+                                                                                     gamma from 11/2+. <>7/2 from pgamma(theta) in
+                                                                                      (alpha,pgamma).
+                                                                                    T: unweighted ave of 5.4 ps +30-15 from
+                                                                                     (alpha,pgamma) and 1.9 ps 13 from
+                                                                                     (p,p'gamma); DSAM
+ 1472.5? 9        (7/2+)                        M                                   J: 3/2 to 9/2 from gamma's to 5/2-; 7/2-. 7/2+
+                                                                                      from Hauser-Feshbach in (n,n')
+ 1556.2[b] 5      (3/2)-                   FGHI MNO Q            0.28 PS +12-8      J: L(3He,d)=1. d,E2 gamma? to 5/2+
+                                                                                    T: from DSAM in (alpha,pgamma)
+ 1662.0[ab] 4     9/2-                  C  FGH LMNOP      K S    98 FS[fg] 10       J: M1+E2 gamma to 7/2-; D(+Q) gamma to 11/2-
+                                                                                    T: others: 0.14 ps +5-4 from (alpha,pgamma)
+                                                                                     and 0.13 9 from (p,gamma); DSAM
+ 1716? 30                                        N
+ 1800.0[be] 5     5/2+                  C  F H LMNO Q     KR T   65 FS[f] 15        J: L(d,3He)=2; D,E2 gamma to 7/2-
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  11
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                    T: see also discussion in (p,p'gamma)
+ 1900.7[&] 3                                 HI
+ 1930.6[&] 3      1/2,3/2,5/2+               H             R                        XREF:R(*)
+                                                                                    J: gamma to 1/2+
+ 1935.5 10                                        O        R     32 FS +16-11       XREF:R(*)
+ 1935.5?                                          O        R     61 FS +22-16       XREF:R(*)
+ 2031.2[%b] 7     11/2+                  D F H   NO        R     0.71 PS 21         J: 9/2+,11/2+ from D,E2 gamma to 11/2-;
+                                                                                     E2(+M3) gamma to 7/2+. <>9/2 from
+                                                                                     pgamma(theta) in (alpha,pgamma)
+                                                                                    T: other: 1.1 ps +6-3
+ 2090             15/2-                                      T
+ 2093.0[b] 5      5/2                      FGH LMNO        R     8.3 FS[h] 21       J: D(+Q) gamma's to 3/2- and 7/2-
+                                                                                    T: others: <35 fs from (alpha,pgamma), 21 fs 9
+                                                                                      from (n,n'gamma), and <7.6 fs from
+                                                                                     (p,p'gamma); DSAM. 85 milliev 9 in
+                                                                                     (gamma,gamma). See also discussion in
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  12
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                     (p,p'gamma)
+ 2106.2[&] 5      LE 7/2                     H                                      J: gamma to 3/2-
+ 2106.27[i] 12    15/2-                  D F     NO  U           1.4 PS GT          J: From pgamma(theta) and linear polarization
+                                                                                     in (alpha,pgamma). 1981Bo37 in (pol p,alpha)
+                                                                                     noted that there may be significant
+                                                                                     fragmentation of the ((nu f7/2)+2(pi f7/2))
+                                                                                     pickup strength to 15/2- states in 45Sc.
+                                                                                    T: other: >6 ps (DSAM) from (alpha,pgamma)
+ 2138.4[&] 5      3/2-,5/2                   H    O        R     0.31 PS +9-7       XREF:R(*)
+                                                                                    J: D gamma to (3/2)-; D,E2 gamma to 7/2-
+ 2151.0[&] 5      (1/2,3/2,5/2)[j]           H   N         R     60 FS +17-12       XREF:R(*)N(*)
+                                                                                    J: <=7/2+ from D,E2 gamma's to 3/2+. gamma
+                                                                                     from 3/2(-) res.
+ 2152.0?          [j]                            NO        R                        XREF:R(*)N(*)
+ 2221.8[&] 5      (3/2-,5/2)                 H             R                        XREF:R(*)
+                                                                                    J: gamma to 3/2+; gamma?'s to 7/2- and from
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  13
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                     1/2-,3/2-
+ 2224.2 5         5/2+,7/2+                     MNO        R                        XREF:R(*)
+                                                                                    J: gamma's to 9/2+ and 3/2+
+                                                                                    T: 69 fs 14 from (n,n'gamma) and 0.41 ps 17
+                                                                                     from (p,p'gamma) are discrepant; DSAM
+ 2288.5 6         (7/2-,9/2)                  I  NO         S    0.21 PS 7          XREF:I(*)S(*)
+                                                                                    J: 7/2-,9/2,11/2- from D,E2 gamma's to 7/2-
+                                                                                     and 11/2-. D,E2 gamma? to 7/2+
+                                                                                    T: see also discussion in (p,p'gamma)
+ 2303.8[&] 5      (5/2-)[kl]                GHI M O Q       S    55 FS[h] +35-17    XREF:I(*)S(*)Q(*)
+                                                                                    J: 1/2,3/2,5/2 from D,E2 gamma's to 3/2- and
+                                                                                     3/2+. 5/2- from D,E2 gamma? to 9/2-.
+                                                                                     L(3He,d)=1 for E=2290
+                                                                                    T: other: 0.83 ps 83 (DSAM) from (n,n'gamma).
+                                                                                     See also discussion in (p,p'gamma)
+ 2321.5 10        3/2-,5/2,7/2+[kl]           I   O Q            45 FS +11-7        XREF:I(*)Q(*)
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  14
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                    J: D,E2 gamma's to 7/2- and 3/2+. L(3He,d)=1
+                                                                                     for E=2290
+ 2341.0[b] 4      (7/2-)[l]                 GHILMNO         S    31 FS[m] 7         XREF:G(*)I(*)S(*)
+                                                                                    J: 3/2-,5/2,7/2- from D,E2 gamma to 7/2- and
+                                                                                     D,E2 gamma from 3/2- IAR. 7/2,9/2,11/2- from
+                                                                                     Hauser-Feshbach in (p,p')
+ 2352.2[&] 5      3/2-,5/2[l]               GHI  NO         S    [m]                XREF:G(*)I(*)S(*)
+                                                                                    T GE 42 FS +28-17 LE 194 FS 56
+                                                                                    J: gamma's to 3/2-, 3/2+, and 7/2-
+ 2385? 7                                         N
+ 2531.0[&] 5      (1/2+,3/2,5/2)             H   NO                                 J: gamma's to 3/2+ and 5/2+ and from 3/2(-)
+                                                                                     res
+                                                                                    T: 81 fs +38-17 from (p,gamma) and 21 fs 5
+                                                                                     from (p,p'gamma) are discrepant; DSAM
+ 2563.2[%] 3      (13/2+)                D F     N               1.4 PS +6-4        J: 9/2,11/2+,13/2+ from D,E2 gamma's to 9/2+,
+                                                                                     11/2+, and 11/2-; pi=+ if J=11/2 from M1+E2
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  15
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                     gamma to 9/2+. Member of pi=+ band
+                                                                                    T: from DSAM in (alpha,pgamma)
+ 2590.0[&] 6      3/2-,5/2,7/2-[l]          GH L NO              35 FS[h] 8         XREF:G(*)N(*)
+                                                                                    J: D,E2 gamma's to 3/2- and 7/2-
+                                                                                    T: other: 10 fs 5 from DSAM in (p,p'gamma)
+                                                                                     depending on placement of 2590gamma
+ 2601.4[&] 5      1/2+,3/2,5/2[l]           GH   N                                  XREF:G(*)N(*)
+                                                                                    J: gamma's to 3/2- and 5/2+ and from 3/2+ res
+                                                                                    T: see comment on preceding T1/2
+ 2634? 7                                         N
+ 2700? 7                                         N
+ 2747.0[&] 10     5/2-,7/2-                 GHI  N       J   T
+ 2778.7[&] 8      (1/2-,3/2,5/2)             H  MNO                                 J: gamma's to 3/2+ and 5/2- and from 3/2(-)
+                                                                                     res
+                                                                                    T: 13 fs 4 from (p,gamma) and 69 fs 14 from
+                                                                                     (n,n'gamma) are discrepant; DSAM. Other: <20
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  16
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                     fs from (p,p'gamma), DSAM
+ 2860.7?[&]       (1/2-,3/2,5/2)             H                                      J: gamma?'s to 3/2+ and 5/2- and from 3/2- IAR
+ 2895.2[&] 5      1/2+,3/2,5/2               H                   7 FS[h] 4          J: D,E2 gamma to 5/2+ and gamma's from 3/2+
+                                                                                     res and 3/2(-) res
+ 2903.8[&] 7      3/2+,5/2+                 GH      Q
+ 2943[d] 7        (5/2)+                    G    N           T                      J: pi=+ from L(p,p')=3; Jpi=5/2+ from DWBA in
+                                                                                     (p,alpha)
+ 2960? 30         (9/2+,11/2-)                       U      S                       XREF:S(*)
+                                                                                    J: from DWBA in (pol p,alpha)
+ 2964.0?[&] 15    (3/2+,5/2+)                H              S                       XREF:S(*)
+                                                                                    J: gamma?'s to 1/2+ and 7/2+
+ 2979.8[&] 18     3/2-                    E GHI  N          S                       XREF:S(*)
+                                                                                    J: L(3He,d)=1; L(alpha,p)=1. 3/2 from
+                                                                                     empirical J dependence in (alpha,p)
+ 3025.5[&] 6      1/2-,3/2-                 GHI  NO
+ 3059? 7                                         N
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  17
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 3092.0[&] 8      1/2+,3/2,5/2               HI                                     XREF:I(*)
+                                                                                    J: gamma's to 3/2- and 5/2+ and from 3/2+ res
+ 3104[&]          (3/2,5/2)[n]               HI  N                                  XREF:I(*3104,3119)N(*)
+                                                                                    J: 3/2,5/2,7/2 from gamma's from 3/2- and to
+                                                                                     7/2-. <>7/2 from sigma(theta) and p-wave
+                                                                                     formation in p res.
+ 3111.2[&] 8      7/2+                       HI  N                                  XREF:I(*3119)N(*)
+                                                                                    J: gamma's to 11/2+ and from 3/2+ res
+ 3136.3[&] 7      5/2-,7/2-,9/2-[n]         GHI                                     XREF:I(*3119,3150)
+                                                                                    J: multiply-placed gamma from 7711+7713+7715
+                                                                                     triplet might exclude 9/2-
+ 3159.1 5                                  F  I  N                                  XREF:I(*3150)
+ 3198[o] 9                                    I  N
+ 3224? 7                                         N
+ 3283[o] 7        (+)                       G    N                                  J: L(p,p')=(1)
+ 3294.8[%] 8      (15/2+)                D                                          E: from (HI,xngamma)
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  18
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                    J: 9/2-,11/2,13/2,15/2+ from gamma's to
+                                                                                     (13/2+) and 15/2-. 15/2 from syst of decays
+                                                                                     of lower state members of the positive parity
+                                                                                      band
+ 3329 7           +[p]                      G    N                                  XREF:G(*)
+ 3349 7           (+)                       G    N                                  XREF:G(*)
+                                                                                    J: L(p,p')=(1)
+ 3366.4[&] 8      (5/2)-                    GHI                                     J: 5/2-,7/2-,9/2- from L(3He,p)=0+2.
+                                                                                     <>7/2-,9/2- from gamma from 3/2+ rES
+ 3400[o] 8        1/2-,3/2-                   I  N
+ 3443 7           +[p]                           N
+ 3457[&]          (5/2)-[n]               E GH                                      XREF:G(*)
+                                                                                    J: L(alpha,p)=3; empirical J dependence of
+                                                                                     sigma(theta) In(alpha,p)
+ 3462.1[&] 8      5/2-,7/2-[q]              GH                                      J: gamma's to 3/2- and from 3/2+ res
+ 3475[&]          3/2+,5/2+                  H      Q
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  19
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 3487.4[&] 8      3/2-                       HI  N                                  J: L(3He,d)=1; <>1/2- from gamma to 7/2-
+ 3525.2[&] 8      3/2-,5/2                   H                                      J: gamma's to (3/2)- and 7/2- and from 3/2+
+                                                                                     res
+ 3548.5[&] 8      1/2+,3/2,5/2,7/2+          H                                      J: gamma's to 3/2+ and 5/2+
+ 3569.8[i] 8      (17/2-)                D                                          E: from (HI,xngamma)
+                                                                                    J: 13/2 to 17/2 from D gamma to 15/2-; 17/2
+                                                                                     from gamma(theta) if J(3693)=19/2; 13/2,17/2
+                                                                                     if J(3693)=15/2. >=17/2 from lack of gamma to
+                                                                                     11/2-. pi=- from band membership
+ 3581 15          5/2-,7/2-,9/2-[n]         G I                                     XREF:I(*)
+ 3584[&] 1        1/2,3/2,5/2+               HI                                     XREF:I(*)
+                                                                                    J: gamma to 1/2+
+ 3606 7           +[p]                      G I  N                                  XREF:I(*)
+ 3692.86[i] 14    (19/2-)                D           U       T                      E: from (HI,xngamma)
+                                                                                    J: <=19/2 from pgamma-coin. 15/2,19/2 from
+                                                                                     gamma(theta) to (15/2-); >=17/2 from lack of
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  20
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                     gamma to 11/2-. pi=- from band membership
+ 3714.3[&] 8      1/2,3/2,5/2[kr]           GHI  N  Q        T   13 FS[h] +14-10    XREF:I(*)N(*)Q(*)
+                                                                                    J: D,E2 gamma to (3/2)- and gamma from 3/2+
+                                                                                     res
+ 3722.3[&] 10     [kr]                      GHI  N  Q                               XREF:I(*)N(*)Q(*)
+ 3776 13          (+)[p]                      I  N
+ 3864.0?[&] 15                               H
+ 3882[o] 11       (1/2-)[s]               E GHI                                     J: L(3He,d)=(1) and isotropic gamma(theta) to
+                                                                                     3/2-
+ 3890? 30         +[p]                           N
+ 3916[o] 7        1/2-,3/2-[s]                I  N
+ 3938 15          5/2-,7/2-,9/2-[q]         G
+ 3982[o] 7        3/2+,5/2+                  HI  N  Q
+ 4031 7           +[p]                           N
+ 4034[o] 11       5/2-,7/2-,9/2-[q]         G I
+ 4084.9[&] 10     (1/2-,3/2-)               GH   N                                  J: 1/2,3/2,5/2+ from gamma to 1/2+. (5/2 to
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  21
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                     9/2)- or (1/2,3/2)- from (3He,p)
+ 4129[d] 7                                    I  N
+ 4178[o] 11                                 G I     Q
+ 4244[o] 11                                 G I
+ 4307[o] 13       -                           I  N                                  J: L(p,p')=2
+ 4360 15          3/2+,5/2+                   I     Q                               E: from (3He,d)
+ 4424 15                                      I  N                                  XREF:N(*)
+ 4464 15                                    G I  N                                  XREF:N(*)G(*)
+ 4505 15          1/2-,3/2-                 GHI                                     XREF:G(*)
+                                                                                    E: from (3He,d)
+ 4546[o] 11                                 G I
+ 4610? 30         (13/2-,15/2+)                      U                              J: from sigma(theta) and analyzing power in
+                                                                                     (pol p,alpha)
+ 4610[o] 11                                 G I
+ 4662[o] 11       (1/2,3/2)                 GHI                                     J: from gamma(theta) in (p,gamma)
+ 4690? 30         (13/2+,15/2-)                      U                              J: from sigma(theta) and analyzing power in
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  22
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                     (pol p,alpha)
+ 4713 15                                    G I                                     XREF:G(*)
+ 4739 15                                    G I     Q                               XREF:G(*)Q(*)
+ 4774 15                                    G I     Q                               XREF:Q(*)G(*)
+ 4801 15                                    G I                                     XREF:G(*)
+ 4824[o] 11                                 G I
+ 4869 15                                      I
+ 4919[o] 11       (1/2-,3/2-)               G I                                     J: L(3He,p)=2
+ 4950? 30         (17/2+)                            U                              J: from sigma(theta) and analyzing power in
+                                                                                     (pol p,alpha)
+ 4965[o] 11       5/2-,7/2-,9/2-[q]         G I
+ 5009 15                                      I
+ 5049 15                                      I
+ 5084 15                                      I
+ 5125 15                                      I
+ 5169 15          [t]                         I      U                              XREF:U(*)
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  23
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 5219 15          [t]                         I      U                              XREF:U(*)
+ 5261[o] 11                                 G I
+ 5299[o] 11                                 G I     Q                               XREF:Q(*)
+                                                                                    In 1983Bu21 this state was reported as a
+                                                                                     doublet. However, there is no reason for this
+                                                                                      assumption.
+ 5374 15                                      I     Q                               XREF:Q(*)
+ 5418.8 11        (23/2-)                D           U                              E: from (HI,xngamma)
+                                                                                    J: <=23/2 from pgamma-coin in (19F,2pgamma).
+                                                                                     gamma to (19/2-); J>=21/2 from lack of
+                                                                                     feeding to <=19/2 states. In back-angle
+                                                                                     spectra in (pol p,alpha), this was the second
+                                                                                      strongest line; two-step reaction
+                                                                                     calculation with a 2+ inelastic excitation
+                                                                                     and a Jpi=19/2- three-nucleon transfer showed
+                                                                                      preference for Jpi=23/2- (1981Bo37)
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  24
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 5419? 15                                     I
+ 5444 15                                      I
+ 5504 15                                      I
+ 5574 15                                      I
+ 5604 15                                      I
+ 5669[o] 12       3/2+,5/2+                 G I     Q                               In 1983Bu21 this state was reported as a
+                                                                                     doublet. However, there is no reason for this
+                                                                                      assumption.
+ 5774 20                                    G I
+ 5810 20                                    G I                                     XREF:G(*)
+ 5834 20                                    G I                                     XREF:G(*)
+ 5931 20                                      I
+ 5964 20                                      I
+ 5971 20                                      I
+ 6004 20                                      I
+ 6031 20                                      I
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  25
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 6119[o] 17                                 G I
+ 6179 20                                      I
+ 6202 20                                      I
+ 6244 20                                      I
+ 6332[o] 13       [n]                       G I
+ 6369 15          3/2+,5/2+[n]              G       Q                               E: from (3He,p)
+ 6438[o] 12                                 G I
+ 6476 15                                    G
+ 6551 15          5/2-,7/2-,9/2-[q]         G
+ 6609 15                                    G
+ 6667 15          (5/2-,7/2-,9/2-)[q]       G                T                      XREF:T(*)
+ 6699 15          7/2-                      G                T                      XREF:T(*)
+                                                                                    J: L(3He,p)=0
+ 6.75E+3          3/2+,5/2+                         Q
+ 6751 15          (5/2-,7/2-,9/2-)[q]       G
+ 6820 15          5/2-,7/2-,9/2-[q]         G
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  26
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 7.65E+3?                                           Q
+ 7711.0 18        [u]                        H
+ 7713.2 18        [u]                        H
+ 7715.7 18        [u]                        H
+ 7724.9 18        3/2(-)                     H                                      J: J from gamma(theta) in (p,gamma); pi from
+                                                                                     inhibition of M2 transitions for 1f7/2
+                                                                                     nuclides
+ 7775.1 18        3/2(+)                     H                                      J: 3/2 from gamma(theta) in (p,gamma); gamma
+                                                                                     to 7/2+
+ 8112.3[v] 10     3/2-                       H                   37 EV 9            J: from gamma(theta) and p-wave formation in p
+                                                                                      resonance studies
+                                                                                    WIDTHP=36 EV 9$WIDTHG=1.3 EV 4
+ 8119                                        H                   20 EV +8-18        WIDTHP=20 EV +8-18
+ 8128.4[v] 10     3/2-                       H                   23 EV 7            J: from gamma(theta) and p-wave formation in p
+                                                                                      resonance studies
+                                                                                    WIDTHP=22 EV 7$WIDTHG=0.87 EV 24
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  27
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 8437             3/2-,5/2                   H                                      J: gamma's to 3/2-, 3/2+, and 7/2-
+ 8472             5/2+                       H                                      J: gamma's to 1/2+, 7/2-, and 7/2+
+ 8476.4           (3/2)-                     H                   12 EV 5            WIDTHP=12 EV 5$WIDTHG=0.42 EV
+ 8485.0           (3/2)-                     H                   25 EV 7            WIDTHP=25 EV$WIDTHG=0.17 EV
+ 8492             3/2-                       H                                      WIDTHG GE 0.35 EV 10
+ 8498.3           3/2-                       H                   80 EV 15           WIDTHP=80 EV 15$WIDTHG=0.45 EV
+ 8503.9[w]        3/2-                       H                   400 EV 40          WIDTHP=400 EV 40$WIDTHG=0.41 EV
+ 8510             3/2-                       H
+ 8516.5[w]        3/2-                       H                   60 EV 10           WIDTHP=60 EV 10$WIDTHG=0.34 EV
+ 8519.9[w]        3/2-                       H                   30 EV 7            WIDTHP=30 EV 7$WIDTHG=0.32 EV
+ 8529.0[w]        (3/2)-                     H                   7 EV 5             WIDTHP=7 EV 5$WIDTHG=0.16 EV
+ 8529.8[w]        (3/2)-                     H                   5 EV 3             WIDTHP=5 EV 3$WIDTHG=0.16 EV
+ 8533.7[w]        3/2-                       H                   10 EV 5            J: 1/2+,3/2,5/2+ from D,E2 gamma to 5/2+ and
+                                                                                     gamma to 1/2+
+                                                                                    WIDTHP=10 EV 5$WIDTHG=0.11 EV
+ 8543.8[w]        3/2-                       H                   10 EV 5            J: 3/2,5/2+ from D,E2 gamma's to 1/2+, 5/2-,
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  28
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+                                                                                     and 5/2+. (3/2)- from line-shape analysis in
+                                                                                     p res
+                                                                                    WIDTHP=10 EV 5$WIDTHG=0.32 EV
+ 8553.2[y]        (1/2)-                     H                   10 EV 5            WIDTHP=10 EV 5$WIDTHG=0.28 EV
+ 8580.7[y]        1/2-                       H                   50 EV 10           WIDTHP=50 EV 10$WIDTHG=0.13 EV
+ 8592.0[y]        (1/2)-                     H                   15 EV 5            WIDTHP=15 EV 5$WIDTHG=0.12 EV
+ 8607             5/2                        H                                      J: gamma's to 3/2-, 3/2+, 7/2-, and 7/2+
+ 8616.7[y]        1/2-                       H                   40 EV 10           WIDTHP=40 EV 10$WIDTHG=0.37 EV
+ 8658.7[y]        (1/2)-                     H                   26 EV 7            WIDTHP=25 EV 7$WIDTHG=0.79 EV
+ 8665.5[y]        (1/2)-                     H                   5 EV 3             WIDTHP=5 EV 3$WIDTHG=0.23 EV$WIDTHP'=0.003 EV
+ 8675.1[y]        (1/2)-                     H                   15 EV 5            WIDTHP=15 EV 5$WIDTHG=0.19 EV
+ 8697.0[y]        1/2-                       H                   36 EV 7            WIDTHP=35 EV 7$WIDTHG=0.51 EV$WIDTHP'=0.002 EV
+ 8712.2[y]        (1/2)-                     H                   15 EV 5            WIDTHP=15 EV 5$WIDTHG=0.46 EV$WIDTHP'=0.003 EV
+ 8716.6[y]        (1/2)-                     H                   26 EV 7            WIDTHP=25 EV 7$WIDTHG=0.85 EV$WIDTHP'=0.005 EV
+ 8736.1[y]        1/2-                       H                   60 EV 10           WIDTHP=60 EV 10$WIDTHG=0.33 EV
+ 8749.7[y]        (1/2)-                     H                   11 EV 5            WIDTHP=10 EV 5$WIDTHG=0.91 EV$WIDTHP'=0.009 EV
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  29
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 8755.0[z]        1/2-                       H                   100 EV 15          Probable doublet
+                                                                                    WIDTHP=100 EV 15$WIDTHG=0.28 EV$WIDTHP'=0.006
+                                                                                     EV
+ 8766.8[z]        1/2-                       H                   52 EV 10           WIDTHP=50 EV 10$WIDTHG=1.61 EV$WIDTHP'=0.021
+                                                                                     EV
+ 8794.8[z]        1/2-                       H                   76 EV 15           WIDTHP=75 EV 15$WIDTHG=0.56 EV$WIDTHP'=0.042
+                                                                                     EV
+ 8807.5[z]        1/2-                       H                   35 EV 7            WIDTHP=35 EV 7$WIDTHG=0.32 EV$WIDTHP'=0.008 EV
+ 8813.9[z]        (1/2)-                     H                   21 EV 5            WIDTHP=20 EV 5$WIDTHG=1.38 EV$WIDTHP'=0.004 EV
+ 8824.7[z]        (1/2)-                     H                   11 EV 5            Probable doublet
+                                                                                    WIDTHP=10 EV 5$WIDTHG=0.52 EV$WIDTHP'=0.038 EV
+ 8838.2[z]        1/2-                       H                   400 EV 40          WIDTHP=400 EV 40$WIDTHG=0.29 EV$WIDTHP'=0.018
+                                                                                     EV
+ 8845.0[z]        1/2-                       H                   35 EV 7            WIDTHP=35 EV 7$WIDTHG=0.10 EV$WIDTHP'=0.005 EV
+ 8863.3[z]        1/2-                       H                   175 EV 20          WIDTHP=175 EV 20$WIDTHG=0.28 EV$WIDTHP'=0.010
+                                                                                     EV
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  30
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 8871.1[z]        1/2-                       H                   241 EV 25          WIDTHP=241 EV 25$WIDTHG=0.40 EV$WIDTHP'=0.099
+                                                                                     EV
+ 8886.2[z]        1/2-                       H                   54 EV 10           WIDTHP=53 EV 10$WIDTHG=0.50 EV$WIDTHP'=0.267
+                                                                                     EV
+ 8888.9[z]        1/2-                       H                   351 EV 35          WIDTHP=350 EV 25$WIDTHG=0.31 EV$WIDTHP'=0.207
+                                                                                     EV
+ 8892.2[z]        1/2-                       H                   64 EV 10           WIDTHP=63 EV 10$WIDTHG=0.61 EV$WIDTHP'=0.180
+                                                                                     EV
+ 8908.7[z]        1/2-                       H                   243 EV 25          WIDTHP=242 EV 25$WIDTHG=0.75 EV$WIDTHP'=0.568
+                                                                                     EV
+ 8917.7[z]        1/2-                       H                   36 EV 7            Probable doublet
+                                                                                    WIDTHP=35 EV 7$WIDTHG=0.86 EV$WIDTHP'=0.068 EV
+ 8935.5[z]        1/2-                       H                   64 EV 10           WIDTHP=63 EV 10$WIDTHG=0.61 EV$WIDTHP'=0.082
+                                                                                     EV
+ 8948.2[z]        (1/2)-                     H                   20 EV 5            WIDTHP=19 EV 5$WIDTHG=0.55 EV$WIDTHP'=0.150 EV
+ 8949.4[z]        (1/2)-                     H                   16 EV 5            WIDTHP=15 EV 5$WIDTHG=0.61 EV$WIDTHP'=0.220 EV
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  31
+                                                ===================================
+
+
+   E(level)[*]           Jpi[#]                  XREF                 T1/2[@]                          Comments                    
+ --------------   -------------------   ----------------------   ----------------   ---------------------------------------------- 
+ 8961.7[z]        1/2-                       H                   60 EV 10           WIDTHP=60 EV 10$WIDTHG=0.29 EV$WIDTHP'=0.066
+                                                                                     EV
+ 8965.8[z]        1/2-                       H                   31 EV 7            WIDTHP=30 EV 7$WIDTHG=0.81 EV$WIDTHP'=0.061 EV
+ 8983.0[z]        1/2-                       H                   49 EV 10           WIDTHP=48 EV 10$WIDTHG=0.55 EV$WIDTHP'=0.016
+                                                                                     EV
+ 8996.8[z]        1/2-                       H                   40 EV 10           WIDTHP=40 EV 10$WIDTHG=0.26 EV$WIDTHP'=0.024
+                                                                                     EV
+ 9017.5[z]        (1/2)-                     H                   12 EV 5            WIDTHP=11 EV 5$WIDTHG=0.38 EV$WIDTHP'=0.165 EV
+
+ [*] Bound state excitation energies were derived by a
+     least-squares adjustment to the Egamma's, except as noted in the
+     footnotes, comments, or XREF Reference column (these energies were
+     held fixed in the adjustment). Excitation energies of the resonances
+     are from (p,gamma) and were not included in the adjustment
+ [#] From angular momentum transfer in (3He,d) or (d,3He)
+     for Ex<7 MeV and from line shape analysis in p resonances for
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  32
+                                                ===================================
+
+     Ex>7 MeV, except as noted
+ [@] T1/2's are from DSAM in (p,p'gamma), except as noted, and
+     resonant Gamma's are from p resonance studies
+ [%] 3/2(202) BAND.
+     Based on J(J+1) energy dependence and enhanced B(E2)(W.u.)'s for
+     J<=11/2
+ [&] Excitation energy is from (p,gamma)
+ [a] KPI=3/2- BAND.
+     Based on J(J+1) energy dependence and enhanced B(E2)(W.u.)'s
+ [b] Excitation energy is an average of the following data:
+      Adopted    ec Decay    (alpha,pgamma)          (p,gamma)
+       (gamma,gamma)     (p,p'gamma)
+     376.50 12   376.1 5   376.8 3    376.5 2
+     376.4 1    376.58 33  Weighted
+     720.12 14   719.6 3   720.6 5    720.1 2  720.2 1
+     720.0 10   720.34 15  Unweighted
+     939.24 15             939.5 5    938.9 2  939.1 1
+     939.5 5    Unweighted
+     1067.6 4              1068.6 10  1067.2 3 1067.2 2
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  33
+                                                ===================================
+
+     1067.6 5    Unweighted
+     1236.70 25  1236.4 5  1237.5 5   1235.8 6 1236.4 2
+     1237.0 20  1237.09 18  Unweighted
+     1303.18 15            1303.5 5   1303.1 3 1303.2 2
+     1302.9 5    Weighted
+     1408.87 20  1408.1 3  1409.5 5   1408.5 3 1409.0 2
+     1409.0 10  1409.1 4    Unweighted
+     1556.2 5              1557.1 10  1555.1 2 1556.3 3
+     1556.4 3               Unweighted
+     1662.0 4    1661.0 3  1662.0 5            1661.5 5
+     1663.0 20  1662.5 5    Unweighted
+     1800.0 5              1800.7 10  1800.0 5 1800.6 3
+     1798.0 20  1800.2 5    Unweighted
+     2030.2 7              2031.6 5   2028.6 8 2029.6 3
+     2030.9 5    Unweighted
+     2093.0 5              2092.3 10  2092.2 4 2092.2 5
+     2093.1 20  2094.9 10   Unweighted
+     2341.0 4                                  2341.2 5  2341.1 20
+     2340.8 6    Weighted
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  34
+                                                ===================================
+
+ [c] The half-life is a weighted average of the following
+     data:
+     Ex     (alpha,pgamma)      (gamma,gamma)     (p,p'gamma)    Coul. ex.
+           DSAM (ps)     (meV)     DSAM (ps)  BElambda(up) (ps)
+     543  6.4 +47-23   0.086 24  4.5 10        6.0 9
+     6.9 +23-16
+     1068  0.35 +12-8             0.76 35
+     0.76 ps 35 excluded
+     0.22 +7-5
+     0.38 +14-9
+ [d] Excitation energy is from (p,p'gamma) or (p,p')
+ [e] 1/2(200) BAND
+ [f] The half-life is an unweighted average of the following
+     data:
+     Ex    (alpha,pgamma)    (gamma,gamma)      (p,p'gamma)     |   Ex    (alpha,pgamma)
+     (p,gamma)    (gamma,gamma)  (n,n'gamma)    (p,p'gamma)
+     DSAM                  DSAM      |          DSAM      DSAM
+     DSAM      DSAM
+             (ps)     (meV)        (ps)      |
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  35
+                                                ===================================
+
+       (ps)      (fs)     (meV)   (fs)      (ps)
+     974  2.6 +6-5  0.233 30  2.1 +5-4      |  1800  0.11 4
+     66 +63-35  20 6    45 7    0.076 +12-7
+     3.2 +8-5      |  2031  1.1 +6-3
+     0.37 19
+     1662            5.0 6     0.076 21      |
+     0.66 25
+     0.080 11      |  2341  0.046 11
+     0.026 11
+     0.100 +20-15  |
+     0.015 10
+     0.103 8       |
+     0.036 12
+ [g] T1/2 from BE2lambda(up) in Coulomb excitation not included in
+     the evaluated value since 1986Ta14 noted that the compound nuclear
+     contribution was  aprox50%.
+ [h] From DSAM in (p,gamma)
+ [i] NEGATIVE-PARITY YRAST BAND.
+     The positions of the high-spin, negative-parity states may be
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  36
+                                                ===================================
+
+     reasonably accounted for in terms of a spherical shell model, also
+     in the limit of a pure configuration=(nu f7/2)+5. Alternatively,
+     they fit into a K=1/2 rotational band with a decoupling parameter,
+     a aprox1. Both models, however, seem to be inadequate for the
+     negative-parity states with J<=7/2.
+ [j] (1/2-),1/2+ from Hauser-Feshbach analysis in (p,p')
+ [k] L(d,3He)=1 for 2.3-MeV multiplet and 2 for 3.7-MeV
+     multiplet
+ [l] L(3He,p)=2 for the multiplet
+ [m] See discussion at beginning of table on the 2341 and 2352
+     states
+ [n] L(3He,p)=0+2 or (0+2) for the multiplet
+ [o] Excitation energy is an average of the following data:
+     Adopted   (3He,p)  (3He,d)  (p,p')               |  Adopted
+     (3He,p)  (3He,d)
+                 +-15      +-15
+     |              +-15
+     3198 9              3189    3206 7   Unweighted  |
+     4662 11    4660    4664 15  Weighted
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  37
+                                                ===================================
+
+     3283 7     3290             3281 7   Weighted    |
+     4824 11    4822    4826 15  Weighted
+     3400 8              3407    3392 7   Unweighted  |
+     4919 11    4920    4917 15  Weighted
+     3882 11    3883     3881    3914 7   Weighted    |
+     4965 11    4970    4959 15  Weighted
+     3982 7              3989    3975 7   Unweighted  |
+     5261 11    5268    5254 15  Weighted
+     4034 11    4034     4034             Weighted    |
+     5299 11    5288    5309 15  Weighted
+     4178 11    4176     4179             Weighted    |
+     5669 12    5661    5684 20  Weighted
+     4244 11    4240     4249             Weighted    |
+     6119 17    6102    6136 20  Unweighted
+     4307 13             4309    4299 30  Weighted    |
+     6332 13    6344    6319 20  Unweighted
+     4546 11    4542     4549             Weighted    |
+     6438 12    6441    6434 20  Weighted
+     4610 11    4601     4619             Weighted    |
+  45Sc                                              45Sc   Adopted levels (cont)                                          Page  38
+                                                ===================================
+
+ [p] L(p,p')=3
+ [q] L(3He,p)=0+2 or (0+2)
+ [r] L(3He,d)=1 for the multiplet
+ [s] L=(1), Jpi=(3/2-) in (alpha,p) for the doublet
+ [t] (11/2-,13/2+) for the multiplet from sigma(theta) and
+     analyzing power in (pol p,alpha)
+ [u] Possibly 3/2,5/2+ from multiply placed gamma's to 1/2+, 5/2-,
+     and 5/2+
+ [v] Fragments of 45Ca 1435, 3/2-, IAR
+ [w] Fine structure of the 45Ca 1904, 3/2-, IAR
+ [y] Background 1/2- states
+ [z] Fine structure of the 45Ca 2251, 1/2-, IAR
+
+
+
+
+
+
+
+  45Sc                                             45Sc   Adopted gamma-radiations                                        Page  39
+                                               ======================================
+
+     Other reactions:
+       27Al(18O,xgamma) GDR: E=31.5, 44.9, 61.5, and 72.5 MeV. 1990Ki04 measured gamma's and gamma(theta=40o,60o,90o,120o,140o);
+         NaI, tof. Deduced GDR strength function.
+                    E=44.9-109.9 MeV. 1993Ki08,1993Ki12 measured gamma-spectral shapes and deduced GDR
+                      strength function and structure near GDR.
+       44Ca(d,n) E=11.7 MeV: 1965Ok01 measured sigma(En=9-14 MeV,theta)by tof technique.
+       44Ca(48Ti,47Sc) E=8-15 MeV/A: 1990Vo07 measured sigma(theta=5o); mag spect.
+       45Sc(p,2p):
+         E=385 MeV: 1969Ja12 measured sigma(Ep1,Ep2,thetap1,thetap2,phip1,phip2) with momentum analyzers and deduced
+           momentum distributions and single-particle states in 45Sc.
+         E=156 MeV: 1967Ru03 and 1964Ru05 measured sigma(Ep1+Ep2,theta) with multidetectors and detected
+           2s1/2 shell states.
+     2341 and 2352 States: There appear to be considerable
+       discrepancies in the experimental data as to the existence and gamma
+       deexcitation patterns and resultant T1/2's of these two states.
+       1983Bu21 suggested the possibility of three states between 2350 and
+       2352. However, reanalysis suggests that there is only state.
+      
+       The first problem is the placement of an  aprox2342gamma. This gamma was
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  40
+                                           =============================================
+
+       assigned to the 2352 state by 1983Ra17 in (p,p'g) and by 1974Sc02 and
+       1974Sc07 in (p,gamma). 1975Da16, 1980Bu08, and 1985Av04 in (p,p'gamma),
+       1972Ek02 in (p,gamma), 1989Ge09 in (n,n'gamma), and 1973Ar04 in (gamma,gamma)
+       assigned it to the 2342 state. The T1/2's derived from DSA
+       measurements on this gamma seem reasonably consistent: 15 fs 10
+       (1980Bu08), 36 fs 2 (1983Ra17), and 46 fs 11 (1989Ge09).
+       T1/2<43 fs from (gamma,gamma) is also in agreement. However,
+       T1/2(2352)=42 fs +28-17 from 1631gamma DSAM (1974Sc07) is also
+       consistent with these values but inconsistent with T1/2(2352)=194
+       fs 56 based on 796gamma and 1632gamma DSAM (1980Bu08). Based on the
+       preponderance of the data, the evaluator suggests that the 2342gamma does
+       arise from the 2342 state and not the 2352, resulting in
+       T1/2(2341)=32 fs 9 (unweighted av of 1980Bu08, 1983Ra17, and
+       1989Ge09).
+       For the 2352 state there is an apparent discrepancy in the gamma
+       deexcitation patterns reported by the various authors in addition to
+       the discrepancy in T1/2's noted above. In (p,gamma) 1972Ek02 observed
+       797.29, 1378.50, and 2351.51 gamma's with relative intensities of 5.0,
+       4.4, and 5.0, respectively, and 1974Sc02 reported 797.3, 1285.7,
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  41
+                                           =============================================
+
+       1632.4, and 2340.1 gamma's with branching ratios of 21% 4, 9.0% 18,
+       45% 9, and 25% 5, respectively. 1979Aw02, who observed gamma's below
+        aprox1.4 MeV also reported the 797gamma. The 2351gamma was not observed in
+       (gamma,gamma) and 1973Ar04 estimate gW(125o)Gamma02/Gamma<0.5 meV. In
+       (p,p'gamma) 1983Ra17 and 1985Av04 apparently reported only gamma's of
+       interest to their DSA measurements (2340 and 795, 1049, and 1632,
+       respectively); 1968Ch25 observed 1049.2, 1631.0, and 2350.4 gamma's with
+       relative branching ratios of 100 20, 56 11, and 3.0 6,
+       respectively; 1975Da16 looked for but did not observe the gamma's reported
+       by 1968Ch25; 1980Bu08 reported 796.4 and 1631.6 gamma's with photon
+       branching ratios of 37% and 63%, respectively.
+       Igamma(796)/Igamma(1632)=0.47 13 (1974Sc04) and 0.59 (1980Bu08) are
+       consistent; 1972Ek02 assigned a 1633gamma with a relative intensity of
+       31.1 as a contaminant from 20Ne; from Igamma(1632gamma) (1968Ch25) and
+       the branching ratios of 1974Sc02 the 796gamma may have been obscured by
+       background in 1968Ch25. The evaluator believes that 1049gamma reported by
+       1968Ch25 and 1985Av04 should be assigned to the 2290 state (See
+       discussion in (p,p'gamma)). Igamma(796)/Igamma(2352)=1 (1972Ek02) and
+       Igamma(796)/Igamma(2352)=8.8 34 from Igamma(796)/Igamma(1632)=0.47
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  42
+                                           =============================================
+
+       13 (1974Sc02) and Igamma(1632)/Igamma(2352)=19 6 (1968Ch25) are
+       discrepant; however, 1974Sc02 also assigned a 2352gamma to the 2895 state
+       and this may be the major contributor to the 2352gamma intensity reported
+       by 1972Ek02. The 1378.5gamma reported by 1972Ek02 has not been confirmed
+       in any subsequent work and is, presumably, a contaminant line. The
+       discrepancy in T1/2(2352) is still unresolved and the evaluator has
+       adopted a range with the lower limit from 1974Sc07 and the upper limit
+       from the 796gamma data of 1980Bu08.
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 12.40 5      12.4               100             (M2)                        632 71   DE=+1-2$EKC=474 53$BM2W=0.042 18
+                                                                                      E,RI: from ec decay
+                                                                                      M: D,Q from comparison to RUL.
+                                                                                       DeltaJpi=2,yes from level scheme
+                                                                                      CC: from alpha(K)exp assuming K/L+=3.
+                                                                                       alpha(K)exp is an unweighted average of 429
+                                                                                        117 from ec decay, 413 37 from
+                                                                                       (p,p'gamma), and 580 120 from Coul. ex.
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  43
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 376.50 12    364.19[%] 14       100.00 20       (E1(+M2))    -0.01 8                 M: D(+Q) from gamma(theta) in
+                                                                                       (alpha,pgamma). Deltapi=no from level
+                                                                                       scheme
+                                                                                      CC=5.2E-4$BE1W=2.34E-4 13
+              377.1[&] 4         9.11 20         E2(+M3)      -0.01 2                 RI: weighted ave of
+                                                                                       Igamma(377gamma)/Igamma(364gamma)=0.087 13
+                                                                                       from (p,gamma), 0.094 7 from
+                                                                                       (alpha,pgamma), 0.088 5 from (p,p'gamma),
+                                                                                       and 0.0958 21 from Coul. ex.
+                                                                                      M: from gamma(theta) in (alpha,pgamma) and
+                                                                                       comparison to RUL
+                                                                                      BE2W=14.9 9
+ 543.06 14    166.4              0.7 4           (E1)[a]                              E,RI: from Coulomb excitation
+                                                                                      BE1W=9.E-5 5
+              530.65[&] 15       100.0 7         M1+E2[b]     -0.55 +11-18            BM1W=0.0120 +23-18$BE2W=35 +18-12
+              543.14[%] 14       70.5 7          E1(+M2)      0.014 LT                RI: unweighted ave of
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  44
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                       Igamma(543gamma)/(531gamma)=0.719 16 from
+                                                                                       (p,gamma), 0.684 0.019 from (p,p'gamma),
+                                                                                       and 0.710 10 from Coul. ex.
+                                                                                      M: from gamma(theta) in (alpha,pgamma) and
+                                                                                       Coul. ex.
+                                                                                      MR: from comparison to RUL.
+                                                                                       delta(543gamma)=-0.04 6 from gamma(theta)
+                                                                                       in (alpha,pgamma)
+                                                                                      BE1W=0.00025 3
+ 720.12 14    708.2[c]           3.6[c] 6        (E1(+M2))    0.024 LT                RI: other
+                                                                                       Igamma(708gamma)/Igamma(720gamma)=0.007 3
+                                                                                       from Coul. ex.
+                                                                                      M: D+Q from gamma(theta) in Coul. ex.
+                                                                                       Deltapi=yes from level scheme
+                                                                                      MR: from comparison to RUL.
+                                                                                       delta(708gamma)=+1.2 +14-5 from
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  45
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                       gamma(theta) in Coul. ex.
+                                                                                      BE1W=0.00025 5
+              720.22[%] 17       100.0[c] 6      M1+E2        +0.14 5                 M: from gamma(theta) in (alpha,pgamma) and
+                                                                                       Coul. ex.
+                                                                                      MR: unweighted av of +0.09 6 from
+                                                                                       (alpha,pgamma) and +0.18 3 from Coul. ex.;
+                                                                                       gamma(theta)
+                                                                                      BM1W=0.271 22$BE2W=28 20
+ 939.24 15    562.7[c]           20.9[c] 8       (E1)[a]                              BE1W=7.1E-5 +4-7
+              926.8[&l] 4        100.0[cl] 8     D,E2
+ 974.38 15    431.77[&] 11       17.7[d] 10      M1+E2[b]     -0.24 +12-16            BM1W=0.0105 14$BE2W=62 +78-62
+              962.01[%] 11       54.0[d] 14      E2[e]                                BE2W=8.9 9
+              974.42[%] 15       100.0[d] 5      E1+M2[e]     0.042 LT                MR: from comparison to RUL. delta(974)=+0.09
+                                                                                        +17-12 from gamma(theta) in (alpha,pgamma)
+                                                                                        and -0.32 +6-11 from gamma(theta) in Coul.
+                                                                                        ex.
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  46
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                      BE1W=0.000133 12
+ 1067.6 4     347.36[d] 33       31 4            (M1(+E2))    +0.04 13                M: D(+Q) from gamma(theta) in
+                                                                                       (alpha,pgamma). Deltapi=no from level
+                                                                                       scheme
+                                                                                      BM1W=0.43 12$BE2W<120
+              691.11[d] 49       100 10          M1+E2[b]     -0.11 5                 BM1W=0.17 5$BE2W=12 12
+              1067               4.1 8           (E2)                                 M: D,E2 from comparison to RUL. DeltaJ=2
+                                                                                       from level scheme
+                                                                                      BE2W=4.7 14
+ 1236.70 25   1237.07[%] 20      100             E2[e]                                BE2W=11.4 7
+ 1303.18 15   760.2[d] 7         100 14          D+Q[b]                               MR: -0.27 15 or -2.0 6 from gamma(theta) in
+                                                                                       (alpha,pgamma)
+              926.8[dl] 5        45[dl]          (E1)[a]                              BE1W=6.0E-5 +12-19
+              1289.6[d] 8        74 14           (E2)                                 RI: unweighted ave of
+                                                                                       Igamma(1290gamma)/Igamma(760gamma)=0.56 12
+                                                                                       from (p,gamma) and 1.1 4 from Coul. ex.
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  47
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                      M: D,E2 from comparison to RUL. DeltaJ=2
+                                                                                       from level scheme
+                                                                                      BE2W=2.5 +7-9
+ 1408.87 20   688.9[d] 5         7.4 12          D,E2                                 RI: from Coulomb excitation
+              1032.4[%l] 4       4.9[l] 5        D,E2                                 RI: from Coulomb excitation
+              1408.6[%] 5        100.0 5         M1+E2        -2.62 62                RI: from Coulomb excitation
+                                                                                      M: from gamma(theta) in Coul. ex. And Coul.
+                                                                                       ex.
+                                                                                      MR: from gamma(theta) in Coul. ex.
+                                                                                       delta=+0.05 +13-9 if J=7/2 or -0.9 4 if
+                                                                                       J=5/2 in (alpha,pgamma) discrepant
+                                                                                      BM1W=0.0035 15$BE2W=32 4
+ 1433.48 15   197.53[dm] 29      4[d]            (E1)                                 M: D from comparison to RUL. Deltapi=yes
+                                                                                       from level scheme
+                                                                                      BE1W=0.0005 3
+              459.06[&] 17       27[d] 8         M1+E2[b]     -0.24 6                 BM1W=0.011 7$BE2W=8 6
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  48
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              890.9[%] 8         100[d] 13       E2(+M3)[e]   +0.03 6                 BE2W=20 11
+              1435.4[%] 16       17.0[d] 19      (E1(+M2))    -0.11 +20-24            M: D(+Q) from gamma(theta) in
+                                                                                       (alpha,pgamma). Deltapi=yes from level
+                                                                                       scheme
+                                                                                      BE1W=6.E-6  3$BM2<2
+ 1472.5? 9    752[m] 1                                                                E: from (n,n'gamma)
+              1474[m] 2                                                               E: from (n,n'gamma)
+ 1556.2 5     488.5[c] 10        100 11          (M1)[f]                              M: D from comparison to RUL. Deltapi=no from
+                                                                                        level scheme.
+                                                                                      BM1W=0.54 +18-25
+              616.3[m]           8.9 16          (E1)                                 M: D from comparison to RUL. Deltapi=yes
+                                                                                       from level scheme
+                                                                                      BE1W=0.0006 3
+              1013.8[cm]         20[c] LT
+              1179.02[m]         5.7 12          D,E2
+ 1662.0 4     253.8[dm] 5        13[d] 3         M1                                   BM1W=1.2 4
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  49
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              425.1[&] 3         19[d] 4         (M1(+E2))    -0.03 13                M: D(+Q) from gamma(theta) in
+                                                                                       (alpha,pgamma). Deltapi=no from level
+                                                                                       scheme
+                                                                                      BM1W=0.38 10$BE2W<60
+              942.0[dm] 6        14[d] 8         (E2)                                 M: D,E2 from comparison to RUL. DeltaJ=2
+                                                                                       from level scheme
+                                                                                      BE2W=8.E+1 5
+              1662.4[%] 6        100[d] 5        M1+E2[b]     -0.47 5                 BM1W=0.027 4$BE2W=5.9 13
+ 1800.0 5     497.7[dm]          31[d]           (M1)                                 M: D from comparison to RUL. Deltapi=no from
+                                                                                        level scheme
+                                                                                      BM1W=0.34 8
+              733.3[dm]          8[d]            (E1)[a]                              BE1W=0.00066 16
+              1080.9[dm]         8[d]            (E1)[a]                              BE1W=0.00021 5
+              1257.2[d] 5        62[c] 3         D+Q[g]                               MR: 0.0 2 or +1.4 9 from gamma(theta) in
+                                                                                       (alpha,pgamma)
+              1424.5[dm]         23[d]           (E1)[a]                              BE1W=0.00026 6
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  50
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              1788.1[d] 6        100[c] 3        D+Q[g]                               MR: -0.20 9 or -1.3 3 from gamma(theta) in
+                                                                                       (alpha,pgamma)
+              1800.1[d] 6        22.1 22         (E1)[a]                              BE1W=0.00012 3
+ 1900.7 3     833.45             100
+ 1930.6 3     991.49             100
+ 1935.5 10    1935.5[d] 10       100[d]          D,E2
+ 1935.5?      1559[dm]           100[d]          D,E2
+ 2031.2 7     597.4[d] 5         100             M1+E2[b]     -0.19 7                 BM1W=0.067 22$BE2W=18 15
+              794.2[d] 5         12 5            (E1)[a]                              RI: weighted ave of
+                                                                                       Igamma(794gamma)/Igamma(597gamma)=0.15 10
+                                                                                       from (alpha,pgamma) and 0.10 6 from
+                                                                                       (p,p'gamma)
+                                                                                      BE1W=9.E-5 5
+              1056.14[d] 23      98 29           E2(+M3)[e]   0.0017 LT               RI: unweighted ave of
+                                                                                       Igamma(1056gamma)/597gamma)=0.56 10 from
+                                                                                       (HI,xngamma), 1.54 24 from (alpha,pgamma),
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  51
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                       and 0.8 5 from (p,p'gamma)
+                                                                                      MR: from comparison to RUL.
+                                                                                       delta(1057gamma)=+0.03 3 from gamma(theta)
+                                                                                       in (alpha,pgamma)
+                                                                                      BE2W=30 14
+ 2093.0 5     788.8[cm]          30[c] LT
+              1023.7[c]          12.0[c] 24      D(+Q)[g]     -0.05 20                FL=1067.6
+              1715.5[c]          8.4[c] 24       D,E2
+              2094.0[%] 10       100.0[c] 24     D(+Q)[g]     -0.05 6
+ 2106.2 5     1038.98            100
+ 2106.27 12   869.57[%] 13       100[c]          E2[e]                                BE2W<86
+ 2138.4 5     583.24             40 12           D
+              2138.29            1.0E2 3         D,E2
+ 2151.0 5     847.4              11.1 23         D,E2
+              2138.5[l]          100[l] 10       D,E2
+ 2152.0?      596.4[dm]          100[d]
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  52
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 2152.0?      1084.0[dm]         52[d]
+              1608.8[dm]         98[d]
+ 2221.8 5     2209.42            100[d] 16
+              2220.6[dm] 18      47[d] 16
+ 2224.2 5     790.7[d]           56[d]
+              920.8[d]           26[d]
+              1504.0[d]          100[d]
+              1681.2[d]          74[d]
+              2212[m]
+              2224[m]
+ 2288.5 6     1049.2[d] 10       82[d]           D,E2
+              1316.0[m] 5        58 11           D,E2
+              2289.7[d] 7        100[d] 13       D,E2
+ 2303.8 5     641.1[dm] 5        25[d] 8         (E2)                                 BE2W=9.E+2 +4-7
+              1235.8             100 21          D,E2
+              1926.7             92 19           D,Q
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  53
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              2290.7             71 13           (E1)[a]                              BE1W=0.00020 +8-14
+ 2321.5 10    2308.8[d] 13       100[d] 12       D,E2
+              2321.7[d] 14       45[d] 12        D,E2
+ 2341.0 4     931.34[dmn] 32     100[dn] LE      D
+              1622.5[lm]         42.95[l]        D,E2                                 FL=720.12
+              2341.6[d] 10       1.0E2 3         D,E2
+ 2352.2 5     797.3[h]           47 9
+              1285.7[h]          20 4
+              1632.4[h]          100 20
+              2340.1[h]          56 12
+              2350.4[d] 10       5.4[d] 11
+ 2531.0 5     1227.6             28 6
+              1988.1             100 20          [i]
+              2516.3             72 14                                                FL=12.40
+ 2563.2 3     531.7[c]           44[c] 11        D,E2
+              1129.8[c] 3        100[c] 11       D,E2                                 M,MR: D(+Q), -0.1<=delta<=+1.1 if
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  54
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                       J(2563)=9/2. M1+E2, +0.42 11 if
+                                                                                       J(2563)=11/2. E2(+M3), 0.00 4 if
+                                                                                       J(2563)=13/2 from gamma(theta) in
+                                                                                       (alpha,pgamma) and comparison to RUL
+              1325.8[c]          33[c] 12        D,E2
+ 2590.0 6     1032.8[dlm] 4      35[dl] LE
+              1524.5[dm] 4       61[d] 18        D,E2
+              1869.7[dm] 15      17[d] 13
+              2212.7[d] 13       100 20          D,E2
+              2590[l]            67[l] 14        D,E2[i]
+ 2601.4 5     1045.4             30 6
+              1534.2             100 10          [i]
+              2059.28[m]         35 15                                                FL=543.06
+              2224.30            56 12
+              2590.45[lm]        1.0E2[l] 5                                           FL=12.40
+ 2778.7 8     2058.6             47 9            [i]
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  55
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 2778.7 8     2402               100 21
+ 2860.7?      1558[m]
+              2140[mo]
+ 2895.2 5     2352.1 5           100             D,E2
+ 2903.8 7     1836.4             100 20
+              2361               61 13
+ 2964.0? 15   1990[m]
+              2027[m]
+ 2979.8 18    1425               100 20
+              2605.5             92 20
+ 3025.5 6     803.5[dm] 6        18[d] 7
+              933.4[mn]          5.2[n] 10
+              2305.9             19 4
+              2648.73[m]         100
+ 3092.0 8     2024.4             100 21
+              2550.3             72 14
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  56
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 3104         3104[m]            100
+ 3111.2 8     1082.6             100                                                  FL=2031.2
+ 3159.1 5     1052.8[c] 5        100[c]                                               FL=2106.27
+ 3294.8 8     732[j]             100[j] 13
+              1263[j]            62[j] 25
+ 3366.4 8     1957.9             100
+ 3457         2216[m]                                                                 Placement of 2216gamma or 2520gamma is
+                                                                                       suspect since they feed 11/2- and 1/2+
+                                                                                       states, respectively
+                                                                                      FL=1236.70
+              2520[m]                                                                 See comment on 2216gamma
+ 3462.1 8     3085.5             100
+ 3487.4 8     2766.8             89 19
+              3110.7             74 16
+              3488.3             100 21
+ 3525.2 8     1969.6             43 9
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  57
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 3525.2 8     3525               100 20
+ 3548.5 8     3005.4             100 20
+              3536.4             75 16
+ 3569.8 8     1463.3[j]          100[j]          D                                    M: from gamma(theta) in (19F,2pgamma)
+                                                                                      FL=2106.27
+ 3584 1       2645               100
+ 3692.86 14   122.9[j]           28[j] 4         D                                    M: from gamma(theta) in (19F,2pgamma)
+              1586.56[j] 2       100[j] 7        Q                                    M: from gamma(theta) in (19F,2pgamma)
+                                                                                      FL=2106.27
+ 3714.3 8     1621.8[l]          64[jl] 14       D,E2
+              2158.6             100[j] 20       D,E2
+ 3722.3 10    3345.7             100
+ 3882 11      2580               79
+              3507               100             [f]
+ 4084.9 10    3146.5 10          100
+ 4505 15      1398               100             [i]                                  FL=3104
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  58
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 4505 15      3436               64
+ 4662 11      4298               100                                                  FL=376.50
+ 5418.8 11    1725.5[j]          100[j]
+ 7711.0 18    3991[n]            17[n] 4
+              4225[n]            3.3[n] 7
+              4577[n]            6.7[n] 14
+              4614[n]            3.3[n] 7                                             FL=3104
+              4731[n]            17[n] 4
+              4809[n]            3.3[n] 7
+              4818[n]            6.7[n] 14
+              4934[n]            23[n] 5
+              5111[n]            3.3[n] 7
+              5123[n]            10.0[n] 20
+              5182[n]            10.0[n] 20
+              5361[n]            3.3[n] 7
+              5410[n]            6.7[n] 14
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  59
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              5562[n]            3.3[n] 7                                             FL=2152.0
+              5562[n]            3.3[n] 7                                             FL=2151.0
+              5621[n]            6.7[n] 14                                            FL=2093.0
+              6410[n]            3.3[n] 7
+              6645[n]            10.0[n] 20
+              6774[n]            100[n] 20
+              6992[n]            33[n] 7
+              7170[n]            20[n] 4
+              7336[n]            17[n] 4
+              7700[n]            23[n] 5
+ 7713.2 18    3991[n]            17[n] 4
+              4225[n]            3.3[n] 7
+              4577[n]            6.7[n] 14
+              4614[n]            3.3[n] 7                                             FL=3104
+              4731[n]            17[n] 4
+              4809[n]            3.3[n] 7
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  60
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 7713.2 18    4818[n]            6.7[n] 14
+              4934[n]            23[n] 5
+              5111[n]            3.3[n] 7
+              5123[n]            10.0[n] 20
+              5182[n]            10.0[n] 20
+              5361[n]            3.3[n] 7
+              5410[n]            6.7[n] 14
+              5562[n]            3.3[n] 7                                             FL=2152.0
+              5562[n]            3.3[n] 7                                             FL=2151.0
+              5621[n]            6.7[n] 14                                            FL=2093.0
+              6410[n]            3.3[n] 7
+              6645[n]            10.0[n] 20
+              6774[n]            100[n] 20
+              6992[n]            33[n] 7
+              7170[n]            20[n] 4
+              7336[n]            17[n] 4
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  61
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 7713.2 18    7700[n]            23[n] 5
+ 7715.7 18    3991[n]            17[n] 4
+              4225[n]            3.3[n] 7
+              4577[n]            6.7[n] 14
+              4614[n]            3.3[n] 7                                             FL=3104
+              4731[n]            17[n] 4
+              4809[n]            3.3[n] 7
+              4818[n]            6.7[n] 14
+              4934[n]            23[n] 5
+              5111[n]            3.3[n] 7
+              5123[n]            10.0[n] 20
+              5182[n]            10.0[n] 20
+              5361[n]            3.3[n] 7
+              5410[n]            6.7[n] 14
+              5562[n]            3.3[n] 7                                             FL=2152.0
+              5562[n]            3.3[n] 7                                             FL=2151.0
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  62
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              5621[n]            6.7[n] 14                                            FL=2093.0
+              6410[n]            3.3[n] 7
+              6645[n]            10.0[n] 20
+              6774[n]            100[n] 20
+              6992[n]            33[n] 7
+              7170[n]            20[n] 4
+              7336[n]            17[n] 4
+              7700[n]            23[n] 5
+ 7724.9 18    3742[m]            20 4
+              4003               33 7
+              4359               27 6
+              4589               20 4
+              4633               27 6
+              4830               27 6
+              4947               53 11
+              5124               20 4
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  63
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 7724.9 18    5135               33 7
+              5194               33 7
+              5422               60 12
+              5574[mn]           20[n] 4         [f]                                  FL=2152.0
+              5574[mn]           20[n] 4         [f]                                  FL=2151.0
+              5633               40 8                                                 FL=2093.0
+              6170               3.3 7
+              6422               3.3 7
+              6658               20 4
+              6786               20 4            D+Q[k]                               MR: +0.03 6 or -1.7 1
+              7005               40 8            D+Q[k]                               MR: -0.08 5 or -2.6 12
+              7182               100 20          D+Q[k]                               MR: -0.13 +3-1 or -2.9 +4-3
+              7348               60 12
+              7713               6.7 14
+ 7775.1 18    3690               7.1 15
+              3911[m]            21 5
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  64
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 7775.1 18    4061               36 7
+              4191               14 3
+              4226               14 3
+              4250               14 3
+              4287               21 5
+              4313               14 3
+              4408               7.1 15
+              4664               14 3
+              4676[m]            21 5                                                 FL=3104
+              4683               7.1 15
+              4749               43 9
+              4793               14 3
+              4811[m]            7.1 15
+              4873               36 7
+              4880               7.1 15
+              4996               7.1 15
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  65
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 7775.1 18    5173               29 6
+              5244               14.3 15
+              5422               57 12
+              5472               21 5
+              5624[mn]           29[n] 6         [f]                                  FL=2152.0
+              5624[mn]           29[n] 6         [f]                                  FL=2151.0
+              5682               14 3                                                 FL=2093.0
+              5975               7.1 15
+              6219               21 5
+              6471               7.1 15
+              6707               21 5            D+Q[k]                               MR: +2.4 4 or +0.14 6
+              6836               100 22          D+Q[k]                               MR: +0.03 2 or -1.9 1
+              7054               29 6            D+Q[k]                               MR: -0.4 1 or -1.6 4
+              7231               29 6            D+Q[k]                               MR: -0.07 +5-3 or -3.50 +4-5
+              7398               29 6
+              7762               29 6            D+Q[k]                               MR: -0.19 6 or >+12
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  66
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 8112.3 10    3439               59 9            D+Q[k]       +0.07 3                 FL=4662
+              3611               55 9            (M1+E2)      -0.06 3                 M: D+Q from gamma(theta) in (p,gamma).
+                                                                                       Deltapi=no from level scheme
+                                                                                      BM1W=0.1627 6$BE2W=0.12 +13-12
+              4230               100 14          (M1+E2)      +0.09 2                 M: D+Q from gamma(theta) in (p,gamma).
+                                                                                       Deltapi=no from level scheme
+                                                                                      BM1W=0.1847 7$BE2W=0.23 10
+              6021               91 14           D+Q[k]       -0.09 4                 FL=2093.0
+              7174               23              [E1]                                 BE1W=0.000211
+              7393               27
+              7739               41
+              8101               50 9            (E1+M2)      -0.03 3                 M: D+Q from gamma(theta) in (p,gamma).
+                                                                                       Deltapi=yes from level scheme
+                                                                                      BE1W=0.0003216 6$BM2W=0.02 +4-2
+ 8128.4 10    3456               77 12           D+Q[k]       +0.03 3                 FL=4662
+              3628               92 16           (M1+E2)      0.00 3                  M: D+Q from gamma(theta) in (p,gamma).
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  67
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                       Deltapi=no from level scheme
+                                                                                      BM1W=0.21140 18
+                                                                                      FL=4505
+              4247               100 16          (M1+E2)      +0.05 2                 M: D+Q from gamma(theta) in (p,gamma).
+                                                                                       Deltapi=no from level scheme
+                                                                                      BM1W=0.1424 3$BE2W=0.05 5
+              6038               69 12           D+Q[k]       +0.06 5                 FL=2093.0
+              7410               8
+              7587               23              [E1]
+              8118               15              [E1]                                 BE1W=7.63E-5
+ 8437         7895               100
+              8060               58
+              8424               42
+              8436               42
+ 8472         7406               69
+              7498               59
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  68
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 8472         7531               62
+              7930               23
+              8095               36
+              8459               100
+              8471               33
+ 8476.4       6135               18              D,E2                                 WIDTHG=0.011 EV
+              7408               82              D,E2                                 WIDTHG=0.051 EV
+              7536               73              (E1)[a]                              BE1W=0.00012
+                                                                                      WIDTHG=0.045 EV
+              7755               34              D,E2                                 WIDTHG=0.021 EV
+              7933               100             (E1)[a]                              BE1W=0.00015
+                                                                                      WIDTHG=0.062 EV
+              8099               37              D,E2                                 WIDTHG=0.023 EV
+              8463               95              (E1)[a]                              BE1W=0.00011
+                                                                                      WIDTHG=0.059 EV
+ 8485.0       7417               100             D,E2                                 WIDTHG=0.025 EV
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  69
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              7941               40              D,Q                                  WIDTHG=0.010 EV
+              8472               16              [E1]                                 BE1W=7.7E-6
+                                                                                      WIDTHG=0.004 EV
+ 8492         7772               94              D,E2
+              8115               100             D,E2                                 WIDTHG=0.15 EV 5
+              8491               39              (E2)                                 WIDTHG=0.06 EV 2
+                                                                                      BE2W=0.17735 23
+ 8498.3       5042[m]            11 LT
+              5473[m]            11 LT
+              5535[m]            14
+              5590[m]                                                                 FL=2903.8
+              5637[m]            11
+              6147[m]            11
+              6157[m]            37              D,E2                                 WIDTHG=0.039 EV
+              6343[m]            4
+              6943               32              D(+Q)[k]
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  70
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 8498.3       7196               25              D(+Q)[k]     -0.5 +5-2
+              7430               41              D,E2                                 WIDTHG=0.043 EV
+              7529[m] 5          25 3
+              7561[m]            22              D+Q[k]       +0.10 +17-8
+              7777               100             D,E2                                 WIDTHG=0.105 EV
+              7954               39              (E1)[a]                              BE1W=9.6E-5
+                                                                                      WIDTHG=0.041 EV
+              8121               83              D,E2                                 WIDTHG=0.087 EV
+              8485               29              D+Q[ak]                              MR: -0.3 +5-0 or -2.4 +8-14
+                                                                                      WIDTHG=0.030 EV
+ 8503.9       4783[m]            3 LT
+              5027[m]            3 LT
+              5477[m]            3 LT
+              6152[m]            18
+              6163[m]            14              D,E2                                 WIDTHG=0.039 EV
+              6946[m]            3 LT
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  71
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              7436               10              D,E2                                 WIDTHG=0.043 EV
+              7564               100             (E1+M2)                              M: D+Q from gamma(theta) in (p,gamma).
+                                                                                       Deltapi=yes from level scheme
+                                                                                      MR: -0.10 +3-7 or -1.7 +3-4
+              7783               38              D,E2                                 WIDTHG=0.105 EV
+              7960               14              (E1)[a]                              BE1W=4.65E-5
+                                                                                      WIDTHG=0.041 EV
+              8126               19              D,E2                                 WIDTHG=0.087 EV
+              8491               17              (E1)[a]                              BE1W=5.55E-5
+                                                                                      WIDTHG=0.030 EV
+              8504[m]            74
+ 8510         5534[m]
+              5765[m]
+              5910[m]            21
+              6170[m]            21
+              6208[m]            6
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  72
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 8510         6711[m]            29
+              7102[m]            17
+              7208[m]            6
+              7444[m]            33
+              7537[m]            2
+              7572[m]            46
+              7792               10
+              7968[m]            12
+              8135               100
+              8499               58
+              8511               29
+ 8516.5       6175               17              D,E2                                 WIDTHG=0.025 EV
+              7577               100             (E1)[a]                              BE1W=0.000407
+                                                                                      WIDTHG=0.151 EV
+              7796               19              D,E2                                 WIDTHG=0.029 EV
+              8139               14              D,E2                                 WIDTHG=0.021 EV
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  73
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              8503               2               [E1]                                 BE1W=5.7E-6
+                                                                                      WIDTHG=0.003 EV
+ 8519.9       6179               20              D,E2                                 WIDTHG=0.019 EV
+              7799               100             D,E2                                 WIDTHG=0.096 EV
+              8142               43              D,E2                                 WIDTHG=0.041 EV
+              8507               60              (E1)[a]                              BE1W=0.000110
+                                                                                      WIDTHG=0.058 EV
+ 8529.0       7461               56              D,E2                                 WIDTHG=0.019 EV
+              7808               32                                                   WIDTHG=0.011 EV
+              7985               100             (E1)[a]                              BE1W=7.8E-5
+                                                                                      WIDTHG=0.034 EV
+              8152               21                                                   WIDTHG=0.007 EV
+              8516               44              [E1]                                 BE1W=2.9E-5
+                                                                                      WIDTHG=0.015 EV
+ 8529.8       6189               100             D,E2                                 WIDTHG=0.018 EV
+              7590               28              [E1]                                 BE1W=1.3E-5
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  74
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                      WIDTHG=0.005 EV
+              8152               33                                                   WIDTHG=0.006 EV
+              8516               17              [E1]                                 BE1W=5.69E-6
+                                                                                      WIDTHG=0.003 EV
+ 8533.7       7466               40              D,E2                                 WIDTHG=0.021 EV
+              7594               17              [E1]                                 BE1W=2.4E-5
+                                                                                      WIDTHG=0.009 EV
+              7990               100             (E1)[a]                              BE1W=0.00012
+                                                                                      WIDTHG=0.052 EV
+ 8543.8       7476               63              D,E2                                 WIDTHG=0.039 EV
+              7604               100             (E1)[a]                              BE1W=0.000165
+                                                                                      WIDTHG=0.062 EV
+              7823               52              D,E2                                 WIDTHG=0.032 EV
+              8000               82              D,E2                                 WIDTHG=0.051 EV
+              8166               11                                                   WIDTHG=0.007 EV
+              8530               10              [E1]                                 BE1W=1.1E-5
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  75
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                      WIDTHG=0.006 EV
+ 8553.2       7485               100             D,E2                                 WIDTHG=0.031 EV
+              7613               35              [E1]                                 BE1W=2.9E-5
+                                                                                      WIDTHG=0.011 EV
+              8176               19                                                   WIDTHG=0.006 EV
+              8540               45              [E1]                                 BE1W=2.63E-5
+                                                                                      WIDTHG=0.014 EV
+ 8580.7       7513               100             D,E2                                 WIDTHG=0.053 EV
+              7641               26              [E1]                                 BE1W=3.7E-5
+                                                                                      WIDTHG=0.014 EV
+              8567               23              [E1]                                 BE1W=2.2E-5
+                                                                                      WIDTHG=0.012 EV
+ 8592.0       7524               60              D,E2                                 WIDTHG=0.018 EV
+              7652               100             (E1)[a]                              BE1W=7.8E-5
+                                                                                      WIDTHG=0.030 EV
+              8215               91                                                   WIDTHG=0.011 EV
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  76
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              8579               91              [E1]                                 BE1W=2.2E-5
+                                                                                      WIDTHG=0.012 EV
+ 8607         7633               50
+              8230               100
+              8594               91
+              8606               91
+ 8616.7       7313               12              (E1)[a]                              BE1W=4.5E-5
+                                                                                      WIDTHG=0.015 EV
+              8239               100                                                  WIDTHG=0.125 EV
+              8603               36              (E1)[a]                              BE1W=8.3E-5
+                                                                                      WIDTHG=0.045 EV
+ 8658.7       7591               38              D,E2                                 WIDTHG=0.022 EV
+              7719               100             (E1)[a]                              BE1W=0.00015
+                                                                                      WIDTHG=0.058 EV
+ 8665.5       7725               10              [E1]                                 BE1W=1.5E-5
+                                                                                      WIDTHG=0.006 EV
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  77
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              8288               22                                                   WIDTHG=0.013 EV
+              8652               100             (E1)[a]                              BE1W=0.00011
+                                                                                      WIDTHG=0.059 EV
+ 8675.1       7371               43              (E1)[a]                              BE1W=5.3E-5
+                                                                                      WIDTHG=0.018 EV
+              7607               79              D,E2                                 WIDTHG=0.033 EV
+              7735               100             (E1)[a]                              BE1W=0.00011
+                                                                                      WIDTHG=0.042 EV
+              8298               33                                                   WIDTHG=0.014 EV
+              8662               64              [E1]                                 BE1W=4.9E-5
+                                                                                      WIDTHG=0.027 EV
+ 8697.0       7629               100             D,E2                                 WIDTHG=0.137 EV
+              7757               13              (E1)[a]                              BE1W=4.5E-5
+                                                                                      WIDTHG=0.018 EV
+              8319               31              D,E2                                 WIDTHG=0.042 EV
+              8684               61              (E1)[a]                              BE1W=0.00015
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  78
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                      WIDTHG=0.084 EV
+ 8712.2       7408               100             (E1)[a]                              BE1W=0.00028
+                                                                                      WIDTHG=0.099 EV
+              7772               33              (E1)[a]                              BE1W=8.2E-5
+                                                                                      WIDTHG=0.033 EV
+              8335               27              D,E2                                 WIDTHG=0.027 EV
+              8699               32              (E1)[a]                              BE1W=5.7E-5
+                                                                                      WIDTHG=0.032 EV
+ 8716.6       7777               22              (E1)[a]                              BE1W=0.00013
+                                                                                      WIDTHG=0.051 EV
+              8339               26              D,E2                                 WIDTHG=0.062 EV
+              8703               100             (E1)[a]                              BE1W=0.000421
+                                                                                      WIDTHG=0.237 EV
+ 8736.1       7432               100             (E1)[a]                              BE1W=0.00016
+                                                                                      WIDTHG=0.056 EV
+              7668               30              D,E2                                 WIDTHG=0.017 EV
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  79
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              7796               46              (E1)[a]                              BE1W=6.4E-5
+                                                                                      WIDTHG=0.026 EV
+              8359               48              D,E2                                 WIDTHG=0.027 EV
+              8723               30              [E1]                                 WIDTHG=0.017 EV
+                                                                                      BE1W=3.0E-5
+ 8749.7       7446               5               (E1)[a]                              BE1W=9.6E-5
+                                                                                      WIDTHG=0.034 EV
+              7810               8               (E1)[a]                              BE1W=0.00014
+                                                                                      WIDTHG=0.058 EV
+              8736               100             (E1)[a]                              BE1W=0.00124
+                                                                                      WIDTHG=0.706 EV
+ 8755.0       7687               16              D,E2                                 WIDTHG=0.026 EV
+              7815               5               [E1]                                 BE1W=2.0E-5
+                                                                                      WIDTHG=0.008 EV
+              8377               9                                                    WIDTHG=0.014 EV
+              8742               100             (E1)[a]                              BE1W=0.000288
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  80
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                      WIDTHG=0.164 EV
+ 8766.8       7462               100             (E1)[a]                              BE1W=0.000899
+                                                                                      WIDTHG=0.319 EV
+              7699               28              D,E2                                 WIDTHG=0.089 EV
+              7827               91              (E1)[a]                              BE1W=0.000709
+                                                                                      WIDTHG=0.290 EV
+              8389               56              D,E2                                 WIDTHG=0.179 EV
+              8753               34              (E1)[a]                              BE1W=0.000189
+                                                                                      WIDTHG=0.108 EV
+ 8794.8       7491               100             (E1)[a]                              BE1W=0.000962
+                                                                                      WIDTHG=0.345 EV
+              7727               11              D,E2                                 WIDTHG=0.037 EV
+              7855               4               [E1]                                 BE1W=3.1E-5
+                                                                                      WIDTHG=0.013 EV
+              8417               3                                                    WIDTHG=0.012 EV
+              8781               2               [E1]                                 BE1W=1.2E-5
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  81
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                      WIDTHG=0.007 EV
+ 8807.5       7503               100             (E1)[a]                              BE1W=0.000333
+                                                                                      WIDTHG=0.120 EV
+              7867               22              (E1)[a]                              BE1W=6.2E-5
+                                                                                      WIDTHG=0.026 EV
+              8794               42              (E1)[a]                              BE1W=8.8E-5
+                                                                                      WIDTHG=0.051 EV
+ 8813.9       8800               100             (E1)[a]                              BE1W=0.00138
+                                                                                      WIDTHG=0.805 EV
+ 8824.7       7521               100             (E1)[a]                              BE1W=0.00018
+                                                                                      WIDTHG=0.067 EV
+              7757               96              D,E2                                 WIDTHG=0.064 EV
+              7885               46              (E1)[a]                              BE1W=7.4E-5
+                                                                                      WIDTHG=0.031 EV
+              8447               40              D,E2                                 WIDTHG=0.027 EV
+              8811               79              (E1)[a]                              BE1W=9.1E-5
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  82
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                      WIDTHG=0.053 EV
+ 8838.2       7898               100             (E1)[a]                              BE1W=0.000497
+                                                                                      WIDTHG=0.209 EV
+              8825               18              (E1)[a]                              BE1W=6.3E-5
+                                                                                      WIDTHG=0.037 EV
+ 8845.0       8467               46                                                   WIDTHG=0.006 EV
+              8832               100             [E1]                                 BE1W=2.21E-5
+                                                                                      WIDTHG=0.013 EV
+ 8863.3       7559               100             (E1)[a]                              BE1W=0.00018
+                                                                                      WIDTHG=0.065 EV
+              7795               48              D,E2                                 WIDTHG=0.031 EV
+              8486               91              D,E2                                 WIDTHG=0.059 EV
+              8850               57              (E1)[a]                              BE1W=6.3E-5
+                                                                                      WIDTHG=0.037 EV
+ 8871.1       7567               100             (E1)[a]                              BE1W=0.000311
+                                                                                      WIDTHG=0.115 EV
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  83
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              7803               30              D,E2                                 WIDTHG=0.035 EV
+              7932               65              D,E2                                 WIDTHG=0.075 EV
+              8494               64              D,E2                                 WIDTHG=0.074 EV
+              8858               16              [E1]                                 BE1W=3.0E-5
+                                                                                      WIDTHG=0.018 EV
+ 8886.2       7582               14              (E1)[a]                              BE1W=6.4E-5
+                                                                                      WIDTHG=0.024 EV
+              8873               100             (E1)[a]                              BE1W=0.000280
+                                                                                      WIDTHG=0.167 EV
+ 8888.9       7585               100             (E1)[a]                              BE1W=0.000236
+                                                                                      WIDTHG=0.088 EV
+              7949               94              (E1)[a]                              BE1W=0.00019
+                                                                                      WIDTHG=0.083 EV
+              8511               92              D,E2                                 WIDTHG=0.081 EV
+              8875               10              [E1]                                 BE1W=1.5E-5
+                                                                                      WIDTHG=0.009 EV
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  84
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+ 8892.2       7588               12              (E1)[a]                              BE1W=4.3E-5
+                                                                                      WIDTHG=0.016 EV
+              7824               50              D,E2                                 WIDTHG=0.070 EV
+              7952               38              (E1)[a]                              BE1W=0.00012
+                                                                                      WIDTHG=0.053 EV
+              8515               100             D,E2                                 WIDTHG=0.139 EV
+              8879               45              (E1)[a]                              BE1W=0.00010
+                                                                                      WIDTHG=0.062 EV
+ 8908.7       7841               12              D,E2                                 WIDTHG=0.038 EV
+              8531               100             D,E2                                 WIDTHG=0.309 EV
+              8895               14              (E1)[a]                              WIDTHG=0.042 EV
+                                                                                      BE1W=7.0E-5
+ 8917.7       7613               17              (E1)[a]                              BE1W=0.00021
+                                                                                      WIDTHG=0.079 EV
+              7978               11              (E1)[a]                              BE1W=0.00011
+                                                                                      WIDTHG=0.049 EV
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  85
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              8540               7               D,E2                                 WIDTHG=0.033 EV
+              8904               100             (E1)[a]                              BE1W=0.000754
+                                                                                      WIDTHG=0.454 EV
+ 8935.5       7631               39              (E1)[a]                              BE1W=7.4E-5
+                                                                                      WIDTHG=0.028 EV
+              7995               100             (E1)[a]                              BE1W=0.00016
+                                                                                      WIDTHG=0.072 EV
+              8922               7               [E1]                                 BE1W=8.2E-6
+                                                                                      WIDTHG=0.005 EV
+ 8948.2       7644               100             (E1)[a]                              BE1W=0.000806
+                                                                                      WIDTHG=0.307 EV
+              8571               3                                                    WIDTHG=0.009 EV
+              8935               13              (E1)[a]                              BE1W=6.6E-5
+                                                                                      WIDTHG=0.040 EV
+ 8949.4       7645               92              (E1)[a]                              BE1W=6.0E-5
+                                                                                      WIDTHG=0.023 EV
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  86
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+              7881               68              D,E2                                 WIDTHG=0.017 EV
+              8572               100             D,E2                                 WIDTHG=0.025 EV
+              8936               52              [E1]                                 BE1W=2.1E-5
+                                                                                      WIDTHG=0.013 EV
+ 8961.7       8584               35              D,E2                                 WIDTHG=0.064 EV
+              8948               100             (E1)[a]                              BE1W=0.000299
+                                                                                      WIDTHG=0.183 EV
+ 8965.8       8026               58              (E1)[a]                              BE1W=0.000240
+                                                                                      WIDTHG=0.106 EV
+              8588               9                                                    WIDTHG=0.017 EV
+              8952               100             (E1)[a]                              BE1W=0.000299
+                                                                                      WIDTHG=0.183 EV
+ 8983.0       7679               19              (E1)[a]                              BE1W=0.00011
+                                                                                      WIDTHG=0.043 EV
+              7915               14              D,E2                                 WIDTHG=0.033 EV
+              8043               51              (E1)[a]                              BE1W=0.000264
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  87
+                                           =============================================
+
+
+    Level           Eg[*]            Ig[*]        Mult.[#]      Delta[@]      Alpha                     Comments                   
+ ----------   ----------------   -------------   ----------   ------------   ------   -------------------------------------------- 
+                                                                                      WIDTHG=0.117 EV
+              8605               100             D,E2                                 WIDTHG=0.230 EV
+ 8996.8       7693               20              (E1)[a]                              BE1W=6.4E-5
+                                                                                      WIDTHG=0.025 EV
+              8057               100             (E1)[a]                              BE1W=0.000276
+                                                                                      WIDTHG=0.123 EV
+              8984               22                                                   WIDTHG=0.027 EV
+ 9017.5       8077               11              [E1]                                 BE1W=2.9E-5
+                                                                                      WIDTHG=0.013 EV
+              9004               100             (E1)[a]                              BE1W=0.000193
+                                                                                      WIDTHG=0.120 EV
+
+ [*] From (p,gamma), except as noted. Igamma are given as relative
+     photon branchings from each level
+ [#] From comparison to RUL, except as noted
+ [@] From gamma(theta) in (alpha,pgamma) for Ex<7 MeV and (p,gamma) for
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  88
+                                           =============================================
+
+     Ex>7 MeV, except as noted
+ [%] Gamma energy is an unweighted average of the following
+     data:
+     Adopted    ec Decay   (19F,2pgamma)   (alpha,pngamma)
+     (gamma,gamma)   (n,n'gamma)    (p,p'gamma)     (mu,Xngamma)
+     364.19 14   364 1     364.55 25
+     363.8 5   364.35 33  364.23 13
+     543.14 14   543 1     542.8 9     543.2 2   543 2
+     543.2 5   543.09 23
+     720.22 17   719.6 3               720.6 5   720 1
+     720.3 5   720.34 15  719.9 4
+     869.57 13             869.44 15   869.7 2
+     890.9 8               889.8 3     891.0 3
+     893 1     889.8 6
+     962.01 11   961.6 6   962.03 20   962.4 2   962 2
+     962 1     962.02 14
+     974.42 15   974.0 5   974.64 20   974.7 3   974 2
+     974.8 5   974.39 14
+     1032.4 4    1032.1 5
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  89
+                                           =============================================
+
+     1032.79 39
+     1237.07 20  1236.5 5  1237.25 30  1237.4 2
+     1237.13 18
+     1408.6 5    1408.1 3
+     1409.08 42
+     1435.4 16                         1433.8 1          1437 2
+     1662.4 6    1660.9 3              1662.4 3  1663 2
+     1664 2    1661.9 10
+     2094.0 10                                   2093 2
+     2094.9 10
+ [&] Gamma energy is a weighted average of the following data:
+      Adopted    ec Decay  (19F,2pgamma)    (alpha,pgamma)
+      (gamma,gamma)   (n,n'gamma)   (p,p'gamma)    Coul. ex.
+     377.1 4                                            377.3 5
+     376.94 49
+     425.1 3     425 1                425.4 5           426 1
+     425.4 5
+     431.77 11            432 1       431.9 2
+     431.71 13
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  90
+                                           =============================================
+
+     459.06 17                        459.0 2
+     459.2 3
+     530.65 15   530 1    530.95 15   530.7 2    531 2
+     530.6 5   530.66 17
+     926.8 4                                            926.7 5
+     926.8 5
+     2341.5 9                                    2341 2
+     2341.6 10
+ [a] D,E2 from comparison to RUL. Deltapi=yes from the level scheme
+ [b] D+Q from gamma(theta) in (alpha,pgamma). <>E1+M2 from delta and
+     comparison to RUL
+ [c] From (alpha,pgamma)
+ [d] From (p,p'gamma)
+ [e] From gamma(theta) and linear polarization in (alpha,pgamma)
+ [f] Isotropic gamma(theta) in (p,gamma)
+ [g] From gamma(theta) in (alpha,pgamma)
+ [h] See discussion at beginning of the adopted levels table on
+     the 2341 and 2352 states
+ [i] Anisotropic gamma(theta) in (p,gamma)
+  45Sc                                         45Sc   Adopted gamma-radiations (cont)                                     Page  91
+                                           =============================================
+
+ [j] From (19F,2pgamma)
+ [k] From gamma(theta) in (p,gamma)
+ [l] Multiply placed; intensity suitably divided.
+ [m] Placement of transition in the level scheme is uncertain.
+ [n] Multiply placed; undivided intensity given.
+ [o] Multiply placed.
+
+
+
+
+
+
+
+
+
+
+
+
+[END OF TREND LISTING] Version 8.20    12-Apr-2000    

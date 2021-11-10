@@ -1,0 +1,2232 @@
+ 45SC    ADOPTED LEVELS, GAMMAS                                  92NDS+95 199506
+ 45SC  H TYP=ERR$COM=ADDED FL= 12/96$                                           
+ 45SC  H TYP=FUL$AUT=T. W. BURROWS$CIT=NDS 65,1 (1992)$CUT=27-Nov-1991$         
+ 45SC  H TYP=UPD$AUT=T. Burrows$CUT=19-Jun-1995$                                
+ 45SC d  1995: replaced 1993AuZZ with 1993Au05 and 1993Au07. Clarified          
+ 45SC2d  ambiguous final levels. Corrected 668.8|g to 788.8, 4773|g to 4783 and 
+ 45SC3d  5470|g to 5477. Corrected misordered |g's for 8498 state. Some         
+ 45SC4d  reorganization of |g footnotes and comments.                           
+ 45SC d  1993: added references to other reactions:                             
+ 45SC d  1992: reformatted comments and changed band footnotes for IAR's to     
+ 45SC2d  energy footnotes                                                       
+ 45SC  Q -2062.4    511324.9 206889.2  9 -7935.4 11    1993AU05,1993AU07        
+ 45SC t  {TV}Other reactions:                                                   
+ 45SC2t    {TV}{+27}Al({+18}O,x|g) GDR: E=31.5, 44.9, 61.5, and 72.5 MeV. 1990Ki
+ 45SC+t  04
+ 45SC+t   measured |g's and |g(|q=40{+o},60{+o},90{+o},120{+o},140{+o});        
+ 45SC3t      {TV}NaI, tof. Deduced GDR strength function.                       
+ 45SC4t                 E=44.9-109.9 MeV. 1993Ki08,1993Ki12 measured |g-spectral
+ 45SC+t   shapes and deduced GDR                                                
+ 45SC5t                   strength function and structure near GDR.             
+ 45SC4t    {TV}{+44}Ca(d,n) E=11.7 MeV: 1965Ok01 measured |s(E{-n}=9-14 MeV,|q) 
+ 45SC+t  by
+ 45SC+t   tof technique.                                                        
+ 45SC5t    {TV}{+44}Ca({+48}Ti,{+47}Sc) E=8-15 MeV/A: 1990Vo07 measured         
+ 45SC+t   |s(|q=5{+o}); mag spect.                                              
+ 45SC6t    {TV}{+45}Sc(p,2p):                                                   
+ 45SC7t      {TV}E=385 MeV: 1969Ja12 measured                                   
+ 45SC+t   |s(E{-p1},E{-p2},|q{-p1},|q{-p2},|f{-p1},|f{-p2}) with momentum       
+ 45SC+t   analyzers and deduced                                                 
+ 45SC7t        {TV}momentum distributions and single-particle states in {+45}Sc.
+ 45SC8t      {TV}E=156 MeV: 1967Ru03 and 1964Ru05 measured                      
+ 45SC+t   |s(E{-p1}+E{-p2},|q) with multidetectors and detected                 
+ 45SC9t        {TV}2s{-1/2} shell states.                                       
+ 45SC c  {U2341 and 2352 States}: There appear to be considerable               
+ 45SC2c  discrepancies in the experimental data as to the existence and gamma   
+ 45SC3c  deexcitation patterns and resultant T{-1/2}'s of these two states.     
+ 45SC4c  1983Bu21 suggested the possibility of three states between 2350 and    
+ 45SC5c  2352. However, reanalysis suggests that there is only state.           
+ 45SC+c  {                                                                     }
+ 45SC6c  {TV15}The first problem is the placement of an |?2342|g. This |g was   
+ 45SC7c  assigned to the 2352 state by 1983Ra17 in (p,p'g) and by 1974Sc02 and  
+ 45SC8c  1974Sc07 in (p,|g). 1975Da16, 1980Bu08, and 1985Av04 in (p,p'|g),      
+ 45SC9c  1972Ek02 in (p,|g), 1989Ge09 in (n,n'|g), and 1973Ar04 in (|g,|g)      
+ 45SCAc  assigned it to the 2342 state. The T{-1/2}'s derived from DSA          
+ 45SCBc  measurements on this |g seem reasonably consistent: 15 fs {I10}        
+ 45SCCc  (1980Bu08), 36 fs {I2} (1983Ra17), and 46 fs {I11} (1989Ge09).         
+ 45SCDc  T{-1/2}<43 fs from (|g,|g) is also in agreement. However,              
+ 45SCEc  T{-1/2}(2352)=42 fs {I+28-17} from 1631|g DSAM (1974Sc07) is also      
+ 45SCFc  consistent with these values but inconsistent with T{-1/2}(2352)=194   
+ 45SCGc  fs {I56} based on 796|g and 1632|g DSAM (1980Bu08). Based on the       
+ 45SCHc  preponderance of the data, the evaluator suggests that the 2342|g does 
+ 45SCIc  arise from the 2342 state and not the 2352, resulting in               
+ 45SCxc  T{-1/2}(2341)=32 fs {I9} (unweighted av of 1980Bu08, 1983Ra17, and     
+ 45SCxc  1989Ge09).                                                             
+ 45SCJc  {TV15}For the 2352 state there is an apparent discrepancy in the |g    
+ 45SCKc  deexcitation patterns reported by the various authors in addition to   
+ 45SCLc  the discrepancy in T{-1/2}'s noted above. In (p,|g) 1972Ek02 observed  
+ 45SCMc  797.29, 1378.50, and 2351.51 |g's with relative intensities of 5.0,    
+ 45SCNc  4.4, and 5.0, respectively, and 1974Sc02 reported 797.3, 1285.7,       
+ 45SCOc  1632.4, and 2340.1 |g's with branching ratios of 21% {I4}, 9.0% {I18}, 
+ 45SCPc  45% {I9}, and 25% {I5}, respectively. 1979Aw02, who observed |g's below
+ 45SCQc  |?1.4 MeV also reported the 797|g. The 2351|g was not observed in      
+ 45SCRc  (|g,|g) and 1973Ar04 estimate gW(125{+o})|G{-0}{+2}/|G<0.5 meV. In     
+ 45SCSc  (p,p'|g) 1983Ra17 and 1985Av04 apparently reported only |g's of        
+ 45SCTc  interest to their DSA measurements (2340 and 795, 1049, and 1632,      
+ 45SCUc  respectively); 1968Ch25 observed 1049.2, 1631.0, and 2350.4 |g's with  
+ 45SCVc  relative branching ratios of 100 {I20}, 56 {I11}, and 3.0 {I6},        
+ 45SCWc  respectively; 1975Da16 looked for but did not observe the |g's reported
+ 45SCXc  by 1968Ch25; 1980Bu08 reported 796.4 and 1631.6 |g's with photon       
+ 45SCYc  branching ratios of 37% and 63%, respectively.                         
+ 45SCZc  I{-|g}(796)/I{-|g}(1632)=0.47 {I13} (1974Sc04) and 0.59 (1980Bu08) are 
+ 45SCac  consistent; 1972Ek02 assigned a 1633|g with a relative intensity of    
+ 45SCbc  31.1 as a contaminant from {+20}Ne; from I{-|g}(1632|g) (1968Ch25) and 
+ 45SCcc  the branching ratios of 1974Sc02 the 796|g may have been obscured by   
+ 45SCdc  background in 1968Ch25. The evaluator believes that 1049|g reported by 
+ 45SCec  1968Ch25 and 1985Av04 should be assigned to the 2290 state (See        
+ 45SCfc  discussion in (p,p'|g)). I{-|g}(796)/I{-|g}(2352)=1 (1972Ek02) and     
+ 45SCgc  I{-|g}(796)/I{-|g}(2352)=8.8 {I34} from I{-|g}(796)/I{-|g}(1632)=0.47  
+ 45SChc  {I13} (1974Sc02) and I{-|g}(1632)/I{-|g}(2352)=19 {I6} (1968Ch25) are  
+ 45SCic  discrepant; however, 1974Sc02 also assigned a 2352|g to the 2895 state 
+ 45SCjc  and this may be the major contributor to the 2352|g intensity reported 
+ 45SCkc  by 1972Ek02. The 1378.5|g reported by 1972Ek02 has not been confirmed  
+ 45SClc  in any subsequent work and is, presumably, a contaminant line. The     
+ 45SCmc  discrepancy in T{-1/2}(2352) is still unresolved and the evaluator has 
+ 45SCnc  adopted a range with the lower limit from 1974Sc07 and the upper limit 
+ 45SCoc  from the 796|g data of 1980Bu08.                                       
+ 45SC cL $          Proton resonance parameters: see                            
+ 45SC2cL {+44}Ca(p,p),(p,p'|g),(p,|g) Res                                       
+ 45SC cL $          Isobaric analog states which contain no information         
+ 45SC2cL pertinent to the bound states of A=45 have not been included in this   
+ 45SC3cL evaluation. See 1983Bu21.                                              
+ 45SC PN                                                                     6  
+ 45SC  XC45TI EC DECAY                                                          
+ 45SC  XD28SI(19F,2PG), 30SI(18O,P2NG),                                         
+ 45SC  XE42CA(A,P)                                                              
+ 45SC  XF42CA(A,PG)                                                             
+ 45SC  XG43CA(3HE,P)                                                            
+ 45SC  XH44CA(P,P),(P,P'G),(P,G) RES                                            
+ 45SC  XI44CA(3HE,D),(POL 3HE,D)                                                
+ 45SC  XL45SC(G,G),(G,G') RES                                                   
+ 45SC  XM45SC(N,N'),(N,N'G)                                                     
+ 45SC  XN45SC(P,P'),(D,D')                                                      
+ 45SC  XO45SC(P,P'G)                                                            
+ 45SC  XPCOULOMB EXCITATION                                                     
+ 45SC  XQ46TI(D,3HE)                                                            
+ 45SC  XU48TI(POL P,A) E=79.2 MEV                                               
+ 45SC  XVTI(MU-,XNG)                                                            
+ 45SC  XA45CA B- DECAY                                                          
+ 45SC  XB45SC IT DECAY (318 MS)                                                 
+ 45SC  XJ44CA(16O,15N)                                                          
+ 45SC  XK45SC(E+,XG)                                                            
+ 45SC  XR47TI(D,A)                                                              
+ 45SC  XS48TI(P,A) E=10,12 MEV                                                  
+ 45SC  XT48TI(P,A) E=40.35 MEV                                                  
+ 45SC cL E         Bound state excitation energies were derived by a            
+ 45SC2cL least-squares adjustment to the E|g's, except as noted in the          
+ 45SC3cL footnotes, comments, or XREF Reference column (these energies were     
+ 45SC4cL held fixed in the adjustment). Excitation energies of the resonances   
+ 45SC5cL are from (p,|g) and were not included in the adjustment                
+ 45SC cL J         From angular momentum transfer in ({+3}He,d) or (d,{+3}He)   
+ 45SC2cL for E{-x}<7 MeV and from line shape analysis in p resonances for       
+ 45SC3cL E{-x}>7 MeV, except as noted                                           
+ 45SC cL T         T{-1/2}'s are from DSAM in (p,p'|g), except as noted, and    
+ 45SC2cL resonant |G's are from p resonance studies                             
+ 45SC CL BAND(A)   3/2(202) BAND.                                               
+ 45SC2cL Based on J(J+1) energy dependence and enhanced B(E2)(W.u.)'s for       
+ 45SCxcL J|<11/2                                                                
+ 45SC cL E(B)      Excitation energy is from (p,|g)                             
+ 45SC CL BAND(D)   KPI=3/2- BAND.                                               
+ 45SC2cL Based on J(J+1) energy dependence and enhanced B(E2)(W.u.)'s           
+ 45SC tL E(E)      {TV}Excitation energy is an average of the following data:   
+ 45SC2tL {U Adopted  }  {U|e Decay }  {U (|a,p|g)  }  {U      (p,|g)      }     
+ 45SC+tL   {U  (|g,|g)  }  {U (p,p'|g)  }                                       
+ 45SC3tL  376.50 {I12}   376.1 {I5}   376.8 {I3}    376.5 {I2}                  
+ 45SC+tL             376.4 {I1}    376.58 {I33}  {TV}Weighted                   
+ 45SC4tL  720.12 {I14}   719.6 {I3}   720.6 {I5}    720.1 {I2}  720.2 {I1}      
+ 45SC+tL    720.0 {I10}   720.34 {I15}  {TV}Unweighted                          
+ 45SC5tL  939.24 {I15}             939.5 {I5}    938.9 {I2}  939.1 {I1}         
+ 45SC+tL               939.5 {I5}    {TV}Unweighted                             
+ 45SC6tL 1067.6 {I4}              1068.6 {I10}  1067.2 {I3} 1067.2 {I2}         
+ 45SC+tL              1067.6 {I5}    {TV}Unweighted                             
+ 45SC7tL 1236.70 {I25}  1236.4 {I5}  1237.5 {I5}   1235.{I8} 6 1236.4 {I2}      
+ 45SC+tL   1237.0 {I20}  1237.09 {I18}  {TV}Unweighted                          
+ 45SC8tL 1303.18 {I15}            1303.5 {I5}   1303.1 {I3} 1303.2 {I2}         
+ 45SC+tL              1302.9 {I5}    {TV}Weighted                               
+ 45SC9tL 1408.87 {I20}  1408.1 {I3}  1409.5 {I5}   1408.5 {I3} 1409.0 {I2}      
+ 45SC+tL   1409.0 {I10}  1409.1 {I4}    {TV}Unweighted                          
+ 45SCAtL 1556.2 {I5}              1557.1 {I10}  1555.1 {I2} 1556.3 {I3}         
+ 45SC+tL   1556.4 {I3}               {TV}Unweighted                             
+ 45SCBtL 1662.0 {I4}    1661.0 {I3}  1662.0 {I5}            1661.5 {I5}         
+ 45SC+tL   1663.0 {I20}  1662.5 {I5}    {TV}Unweighted                          
+ 45SCCtL 1800.0 {I5}              1800.7 {I10}  1800.0 {I5} 1800.6 {I3}         
+ 45SC+tL   1798.0 {I20}  1800.2 {I5}    {TV}Unweighted                          
+ 45SCDtL 2030.2 {I7}              2031.6 {I5}   2028.6 {I8} 2029.6 {I3}         
+ 45SC+tL              2030.9 {I5}    {TV}Unweighted                             
+ 45SCEtL 2093.0 {I5}              2092.3 {I10}  2092.2 {I4} 2092.2 {I5}         
+ 45SC+tL   2093.1 {I20}  2094.9 {I10}   {TV}Unweighted                          
+ 45SC5tL 2341.0 {I4}                                  2341.2 {I5}  2341.1 {I20} 
+ 45SC+tL   2340.8 {I6}    {TV}Weighted                                          
+ 45SC tL T(F)      {TV}The half-life is a weighted average of the following     
+ 45SC+tL  data:                                                                 
+ 45SC2tL  E{-x}     (|a,p|g)      (|g,|g)     (p,p'|g)    Coul. ex.             
+ 45SC3tL {U    }  {UDSAM (ps) }   {U (meV)  }  {U DSAM (ps)}  {UBE|l|^ (ps)}    
+ 45SC4tL  543  6.4 {I+47-23}   0.086 {I24}  4.5 {I10}        6.0 {I9}           
+ 45SC5tL                              6.9 {I+23-16}                             
+ 45SC6tL 1068  0.35 {I+12-8}             0.76 {I35}                             
+ 45SC+tL                 0.76 ps {I35} excluded                                 
+ 45SC7tL                              0.22 {I+7-5}                              
+ 45SC8tL                              0.38 {I+14-9}                             
+ 45SC cL E(G)      Excitation energy is from (p,p'|g) or (p,p')                 
+ 45SC CL BAND(H)   1/2(200) BAND                                                
+ 45SC tL T(I)      {TV}The half-life is an unweighted average of the following  
+ 45SC+tL  data:                                                                 
+ 45SC2tL  E{-x}    (|a,p|g)    (|g,|g)      (p,p'|g)     |\   E{-x}    (|a,p|g) 
+ 45SC+tL      (p,|g)    (|g,|g)  (n,n'|g)    (p,p'|g)                           
+ 45SC3tL         DSAM                  DSAM      |\          DSAM      DSAM     
+ 45SC+tL              DSAM      DSAM                                            
+ 45SC4tL {U    }  {U  (ps)  }  {U (meV)  }  {U    (ps)    }  |\  {U    }        
+ 45SC+tL   {U  (ps)  }  {U  (fs)   }  {U(meV)}  {U (fs)  }  {U  (ps)     }      
+ 45SC5tL  974  2.6 {I+6-5}  0.233 {I30}  2.1 {I+5-4}      |\  1800  0.11 {I4}   
+ 45SC+tL     66 {I+63-35}  20 {I6}    45 {I7}    0.076 {I+12-7}                 
+ 45SC6tL                           3.2 {I+8-5}      |\  2031  1.1 {I+6-3}       
+ 45SC+tL                              0.37 {I19}                                
+ 45SC7tL 1662            5.0 {I6}     0.076 {I21}      |\                       
+ 45SC+tL                                              0.66 {I25}                
+ 45SC8tL                           0.080 {I11}      |\  2341  0.046 {I11}       
+ 45SC+tL                              0.026 {I11}                               
+ 45SC9tL                           0.100 {I+20-15}  |\                          
+ 45SC+tL                                              0.015 {I10}               
+ 45SCAtL                           0.103 {I8}       |\                          
+ 45SC+tL                                              0.036 {I12}               
+ 45SC cL T(J)      T{-1/2} from BE2|l|^ in Coulomb excitation not included in   
+ 45SC2cL the evaluated value since 1986Ta14 noted that the compound nuclear     
+ 45SC3cL contribution was |?50%.                                                
+ 45SC cL T(K)      From DSAM in (p,|g)                                          
+ 45SC CL BAND(L)   NEGATIVE-PARITY YRAST BAND.                                  
+ 45SC2cL The positions of the high-spin, negative-parity states may be          
+ 45SC3cL reasonably accounted for in terms of a spherical shell model, also     
+ 45SC4cL in the limit of a pure configuration=(|n f{-7/2}){++5}. Alternatively, 
+ 45SC5cL they fit into a K=1/2 rotational band with a decoupling parameter,     
+ 45SC6cL a|?1. Both models, however, seem to be inadequate for the              
+ 45SC7cL negative-parity states with J|<7/2.                                    
+ 45SC cL J(M)      (1/2-),1/2+ from Hauser-Feshbach analysis in (p,p')          
+ 45SC cL J(N)      L(d,{+3}He)=1 for 2.3-MeV multiplet and 2 for 3.7-MeV        
+ 45SCxcL multiplet                                                              
+ 45SC cL J(O)      L({+3}He,p)=2 for the multiplet                              
+ 45SC cL T(P)      See discussion at beginning of table on the 2341 and 2352    
+ 45SC2cL states                                                                 
+ 45SC cL J(Q)      L({+3}He,p)=0+2 or (0+2) for the multiplet                   
+ 45SC tL E(R)      {TV}Excitation energy is an average of the following data:   
+ 45SC2tL Adopted   ({+3}He,p)  ({+3}He,d)  (p,p')               |\  Adopted     
+ 45SC+tL    ({+3}He,p)  ({+3}He,d)                                              
+ 45SC3tL {U       }   {U  |+15  }  {U  |+15  }  {U       }                      
+ 45SC+tL               |\  {U       }   {U  |+15  }  {U       }                 
+ 45SC3tL 3198 {I9}              3189    3206 {I7}   Unweighted  |\              
+ 45SC+tL   4662 {I11}    4660    4664 {I15}  Weighted                           
+ 45SC4tL 3283 {I7}     3290             3281 {I7}   Weighted    |\              
+ 45SC+tL   4824 {I11}    4822    4826 {I15}  Weighted                           
+ 45SC5tL 3400 {I8}              3407    3392 {I7}   Unweighted  |\              
+ 45SC+tL   4919 {I11}    4920    4917 {I15}  Weighted                           
+ 45SC6tL 3882 {I11}    3883     3881    3914 {I7}   Weighted    |\              
+ 45SC+tL   4965 {I11}    4970    4959 {I15}  Weighted                           
+ 45SC7tL 3982 {I7}              3989    3975 {I7}   Unweighted  |\              
+ 45SC+tL   5261 {I11}    5268    5254 {I15}  Weighted                           
+ 45SC8tL 4034 {I11}    4034     4034             Weighted    |\                 
+ 45SC+tL   5299 {I11}    5288    5309 {I15}  Weighted                           
+ 45SC9tL 4178 {I11}    4176     4179             Weighted    |\                 
+ 45SC+tL   5669 {I12}    5661    5684 {I20}  Weighted                           
+ 45SCAtL 4244 {I11}    4240     4249             Weighted    |\                 
+ 45SC+tL   6119 {I17}    6102    6136 {I20}  Unweighted                         
+ 45SCBtL 4307 {I13}             4309    4299 {I30}  Weighted    |\              
+ 45SC+tL   6332 {I13}    6344    6319 {I20}  Unweighted                         
+ 45SCCtL 4546 {I11}    4542     4549             Weighted    |\                 
+ 45SC+tL   6438 {I12}    6441    6434 {I20}  Weighted                           
+ 45SCDtL 4610 {I11}    4601     4619             Weighted    |\                 
+ 45SC cL J(S)      L(p,p')=3                                                    
+ 45SC cL J(T)      L({+3}He,p)=0+2 or (0+2)                                     
+ 45SC cL J(U)      L({+3}He,d)=1 for the multiplet                              
+ 45SC cL J(V)      L=(1), J|p=(3/2-) in (|a,p) for the doublet                  
+ 45SC cL J(W)      (11/2-,13/2+) for the multiplet from |s(|q) and              
+ 45SC2cL analyzing power in (pol p,|a)                                          
+ 45SC cL J(X)      Possibly 3/2,5/2+ from multiply placed |g's to 1/2+, 5/2-,   
+ 45SC2cL and 5/2+                                                               
+ 45SC cL E(Y)      Fragments of {+45}Ca 1435, 3/2-, IAR                         
+ 45SC cL E(Z)      Fine structure of the {+45}Ca 1904, 3/2-, IAR                
+ 45SC cL E(1)      Background 1/2- states                                       
+ 45SC cL E(2)      Fine structure of the {+45}Ca 2251, 1/2-, IAR                
+ 45SC cG E,RI      From (p,|g), except as noted. I|g are given as relative      
+ 45SC2cG photon branchings from each level                                      
+ 45SC cG M         From comparison to RUL, except as noted                      
+ 45SC cG MR        From |g(|q) in (|a,p|g) for E{-x}<7 MeV and (p,|g) for       
+ 45SC2cG E{-x}>7 MeV, except as noted                                           
+ 45SC tG E(A)      {TV}Gamma energy is an unweighted average of the following   
+ 45SC+tG  data:                                                                 
+ 45SC2tG  {UAdopted  }  {U|e Decay }  {U({+19}F,2p|g) }  {U(|a,pn|g) }          
+ 45SC+tG   {U(|g,|g) }  {U(n,n'|g) }   {U(p,p'|g)  }  {U (|m,Xn|g) }            
+ 45SC3tG  364.19 {I14}   364 {I1}     364.55 {I25}                              
+ 45SC+tG                      363.8 {I5}   364.35 {I33}  364.23 {I13}           
+ 45SC4tG  543.14 {I14}   543 {I1}     542.8 {I9}     543.2 {I2}   543 {I2}      
+ 45SC+tG    543.2 {I5}   543.09 {I23}                                           
+ 45SC5tG  720.22 {I17}   719.6 {I3}               720.6 {I5}   720 {I1}         
+ 45SC+tG    720.3 {I5}   720.34 {I15}  719.9 {I4}                               
+ 45SC6tG  869.57 {I13}             869.44 {I15}   869.7 {I2}                    
+ 45SC7tG  890.9 {I8}               889.8 {I3}     891.0 {I3}                    
+ 45SC+tG            893 {I1}     889.8 {I6}                                     
+ 45SC8tG  962.01 {I11}   961.6 {I6}   962.03 {I20}   962.4 {I2}   962 {I2}      
+ 45SC+tG    962 {I1}     962.02 {I14}                                           
+ 45SC9tG  974.42 {I15}   974.0 {I5}   974.64 {I20}   974.7 {I3}   974 {I2}      
+ 45SC+tG    974.8 {I5}   974.39 {I14}                                           
+ 45SCAtG 1032.4 {I4}    1032.1 {I5}                                             
+ 45SC+tG                                           1032.79 {I39}                
+ 45SCBtG 1237.07 {I20}  1236.5 {I5}  1237.25 {I30}  1237.4 {I2}                 
+ 45SC+tG                     1237.13 {I18}                                      
+ 45SCCtG 1408.6 {I5}    1408.1 {I3}                                             
+ 45SC+tG                                           1409.08 {I42}                
+ 45SCDtG 1435.4 {I16}                         1433.8 {I1}          1437 {I2}    
+ 45SCEtG 1662.4 {I6}    1660.9 {I3}              1662.4 {I3}  1663 {I2}         
+ 45SC+tG   1664 {I2}    1661.9 {I10}                                            
+ 45SCFtG 2094.0 {I10}                                   2093 {I2}               
+ 45SC+tG             2094.9 {I10}                                               
+ 45SC tG E(B)      {TV}Gamma energy is a weighted average of the following data:
+ 45SC2tG {U Adopted  }  {U|e Decay}  {U({+19}F,2p|g) }   {U(|a,p|g) }           
+ 45SC+tG   {U (|g,|g) }  {U(n,n'|g)}  {U (p,p'|g)  }  {UCoul. ex.}              
+ 45SC3tG  377.1 {I4}                                            377.3 {I5}      
+ 45SC+tG               376.94 {I49}                                             
+ 45SC4tG  425.1 {I3}     425 {I1}                425.4 {I5}           426 {I1}  
+ 45SC+tG      425.4 {I5}                                                        
+ 45SC5tG  431.77 {I11}            432 {I1}       431.9 {I2}                     
+ 45SC+tG                      431.71 {I13}                                      
+ 45SC6tG  459.06 {I17}                        459.0 {I2}                        
+ 45SC+tG                      459.2 {I3}                                        
+ 45SC7tG  530.65 {I15}   530 {I1}    530.95 {I15}   530.7 {I2}    531 {I2}      
+ 45SC+tG   530.6 {I5}   530.66 {I17}                                            
+ 45SC8tG  926.8 {I4}                                            926.7 {I5}      
+ 45SC+tG    926.8 {I5}                                                          
+ 45SCAtG 2341.5 {I9}                                    2341 {I2}               
+ 45SC+tG            2341.6 {I10}                                                
+ 45SC cG M(D)      D,E2 from comparison to RUL. |D|p=yes from the level scheme  
+ 45SC cG M(E)      D+Q from |g(|q) in (|a,p|g). |=E1+M2 from |d and             
+ 45SC2cG comparison to RUL                                                      
+ 45SC cG E(F),RI(G)$From (|a,p|g)                                               
+ 45SC cG E(H),RI(I)$From (p,p'|g)                                               
+ 45SC cG M(J)      From |g(|q) and linear polarization in (|a,p|g)              
+ 45SC cG M(K)      Isotropic |g(|q) in (p,|g)                                   
+ 45SC cG M(L)      From |g(|q) in (|a,p|g)                                      
+ 45SC cG E(M)      See discussion at beginning of the adopted levels table on   
+ 45SC2cG the 2341 and 2352 states                                               
+ 45SC cG M(N)      Anisotropic |g(|q) in (p,|g)                                 
+ 45SC cG E(O),RI(P)$From ({+19}F,2p|g)                                          
+ 45SC cG M(Q)      From |g(|q) in (p,|g)                                        
+ 45SC  L 0.0         7/2-              STABLE                                   
+ 45SCX L XREF=ABCDEFGHIJKLMNOPQRSTUV                                            
+ 45SC cL J         J=7/2 from AB (1976Fu06, 1959Fr53). |p=- from L({+3}He,d)=3  
+ 45SC3 L MOMM1=+4.7564866 18 (1989RA17,1969LU01,1951PR02)                       
+ 45SC cL MOMM1     NMR; {+2}H standard                                          
+ 45SC4 L MOME2=-0.22 1 (1989RA17,1976ER01)                                      
+ 45SC cL MOME2     ABLDF; no pol correction. Other: -0.216 (1971Ch25. AB)       
+ 45SC cL $          For charge and magnetization distribution, see 1973DeXL,    
+ 45SC2cL 1970De36, and 1970Th02                                                 
+ 45SC  L 12.40     5 3/2+              318 MS    7                           M  
+ 45SCX L XREF=ABCDFHIKLMNOPQSTUV                                                
+ 45SC cL J         L({+3}He,d)=2; D,E2 |g from 1/2- IAR                         
+ 45SC cL T         weighted ave of 305 ms {I17} in (p,p'|g) and 0.32 s {I1} in  
+ 45SC2cL Coul. ex.; |g(t)                                                       
+ 45SC2 L %IT=100                                                                
+ 45SCF L FLAG=AB                                                                
+ 45SC  G 12.4        100       (M2)                    632    71                
+ 45SC3 G DE=+1-2$EKC=474 53$BM2W=0.042 18                                       
+ 45SC cG E,RI      from |e decay                                                
+ 45SC cG M         D,Q from comparison to RUL. |DJ|p=2,yes from level scheme    
+ 45SC cG CC        from |a(K)exp assuming K/L+=3. |a(K)exp is an unweighted     
+ 45SC2cG average of 429 {I117} from |e decay, 413 {I37} from (p,p'|g), and 580  
+ 45SCxcG {I120} from Coul. ex.                                                  
+ 45SC  L 376.50    123/2-              43.3 PS   23                             
+ 45SCX L XREF=CDEFGHIMNOPQRSV                                                   
+ 45SC cL J         L({+3}He,d)=1; E2 |g to 7/2-                                 
+ 45SC cL T         from B(E2)|^ in Coul. ex. Others: 101 ps {I28} (RDM), >1.1   
+ 45SC2cL ps (DSAM), and 3.5 ps {I13} (DSAM) in (p,p'|g) and >4 ps from DSAM in  
+ 45SC3cL (|a,p|g). See also discussion in (p,p'|g)                              
+ 45SCF L FLAG=DE                                                                
+ 45SC  G 364.19    14100.00  20(E1(+M2)) -0.01   8                              
+ 45SC cG M         D(+Q) from |g(|q) in (|a,p|g). |D|p=no from level scheme     
+ 45SC4 G CC=5.2E-4$BE1W=2.34E-4 13                                              
+ 45SCF G FLAG=A                                                                 
+ 45SC  G 377.1     4 9.11    20E2(+M3)   -0.01   2                              
+ 45SC cG RI        weighted ave of I|g(377|g)/I|g(364|g)=0.087 {I13} from       
+ 45SC2cG (p,|g), 0.094 {I7} from (|a,p|g), 0.088 {I5} from (p,p'|g), and 0.0958 
+ 45SC3cG {I21} from Coul. ex.                                                   
+ 45SC cG M         from |g(|q) in (|a,p|g) and comparison to RUL                
+ 45SC4 G BE2W=14.9 9                                                            
+ 45SC dG BE2W      from B(E2)|^ in Coul. ex.                                    
+ 45SCF G FLAG=B                                                                 
+ 45SC  L 543.06    145/2+              5.5 PS    6                              
+ 45SCX L XREF=CDFHLMNOPQRS                                                      
+ 45SC cL J         L(d,{+3}He)=2; E1(+M2) |g to 7/2-                            
+ 45SC cL T         other DSA measurements: >0.38 ps from (n,n'|g) and >0.55 ps  
+ 45SC2cL from (p,p'|g). { 105 ps {I28}} (RDM) in (p,p'|g) discrepant.           
+ 45SCF L FLAG=AFG                                                               
+ 45SC  G 166.4       0.7     4 (E1)                                             
+ 45SC cG E,RI      from Coulomb excitation                                      
+ 45SCB G BE1W=9.E-5 5                                                           
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 530.65    15100.0   7 M1+E2     -0.55   +11-18                         
+ 45SCB G BM1W=0.0120 +23-18$BE2W=35 +18-12                                      
+ 45SCF G FLAG=BE                                                                
+ 45SC  G 543.14    1470.5    7 E1(+M2)   0.014   LT                             
+ 45SC cG RI        unweighted ave of I|g(543|g)/(531|g)=0.719 {I16} from        
+ 45SC2cG (p,|g), 0.684 {I0}.019 from (p,p'|g), and 0.710 {I10} from Coul. ex.   
+ 45SC cG M         from |g(|q) in (|a,p|g) and Coul. ex.                        
+ 45SC cG MR        from comparison to RUL. |d(543|g)=-0.04 {I6} from |g(|q) in  
+ 45SC2cG (|a,p|g)                                                               
+ 45SCB G BE1W=0.00025 3                                                         
+ 45SCF G FLAG=A                                                                 
+ 45SC  L 720.12    145/2-              206 FS    16                             
+ 45SCX L XREF=CFGHILMNOPQRSV                                                    
+ 45SC cL J         L(d,{+3}He)=3; D+Q |g to 3/2+                                
+ 45SC cL T         from (|g,|g). Others: 0.25 ps {I+8-6} (DSAM) from (|a,p|g),  
+ 45SC2cL 0.15 ps {I10} (DSAM) from (n,n'|g), 193 fs {I22} (DSAM) from (p,p'|g), 
+ 45SC3cL and { 0.5 ps {I4}} from B(E1)|^ in Coul. ex.                           
+ 45SCF L FLAG=DE                                                                
+ 45SC  G 708.2       3.6     6 (E1(+M2)) 0.024   LT                             
+ 45SC cG RI        other I|g(708|g)/I|g(720|g)={ 0.007 {I3}} from Coul. ex.     
+ 45SC cG M         D+Q from |g(|q) in Coul. ex. |D|p=yes from level scheme      
+ 45SC cG MR        from comparison to RUL. |d(708|g)=+1.2 {I+14-5} from |g(|q)  
+ 45SC2cG in Coul. ex.                                                           
+ 45SC3 G BE1W=0.00025 5                                                         
+ 45SCF G FLAG=FG                                                                
+ 45SC  G 720.22    17100.0   6 M1+E2     +0.14   5                              
+ 45SC cG M         from |g(|q) in (|a,p|g) and Coul. ex.                        
+ 45SC cG MR        unweighted av of +0.09 {I6} from (|a,p|g) and +0.18 {I3}     
+ 45SC2cG from Coul. ex.; |g(|q)                                                 
+ 45SC3 G BM1W=0.271 22$BE2W=28 20                                               
+ 45SC dG BM1W,BE2W from gW(125|')|G{-0}{+2}/|G in (|g,|g)                       
+ 45SCF G FLAG=AG                                                                
+ 45SC  L 939.24    151/2+              7.3 PS    +6-3                           
+ 45SCX L XREF=FHIMNOQRSTU                                                       
+ 45SC cL T         from DSAM in (|a,p|g). Other: >2.6 ps (DSAM) from (p,p'|g).  
+ 45SC2cL <{ 0.97 ps} (DSAM) from (n,n'|g) is discrepant                         
+ 45SCF L FLAG=EH                                                                
+ 45SC  G 562.7       20.9    8 (E1)                                             
+ 45SCB G BE1W=7.1E-5 +4-7                                                       
+ 45SCF G FLAG=DFG                                                               
+ 45SC  G 926.8     4 100.0   8 D,E2                                         @   
+ 45SCF G FLAG=BG                                                                
+ 45SC  L 974.38    157/2+              2.54 PS   23                             
+ 45SCX L XREF=CDFHLMOPS                                                         
+ 45SC cL J         5/2+,7/2+ from E1(+M2) |g to 7/2-; E2 |g to 3/2+. |=5/2 from 
+ 45SC2cL p|g(|q) in (|a,p|g)                                                    
+ 45SC cL T         other: >{ 0.42 ps} (DSAM) from (n,n'|g). { 0.36 ps {I4}} from
+ 45SC2cL B(E1)|^={ 7.5|*10{+-6} {I8}} in Coul. ex. Is discrepant                
+ 45SCF L FLAG=AGI                                                               
+ 45SC  G 431.77    1117.7    10M1+E2     -0.24   +12-16                         
+ 45SCB G BM1W=0.0105 14$BE2W=62 +78-62                                          
+ 45SCF G FLAG=BEI                                                               
+ 45SC  G 962.01    1154.0    14E2                                               
+ 45SCB G BE2W=8.9 9                                                             
+ 45SCF G FLAG=AIJ                                                               
+ 45SC  G 974.42    15100.0   5 E1+M2     0.042   LT                             
+ 45SC cG MR        from comparison to RUL. |d(974)=+0.09 {I+17-12} from |g(|q)  
+ 45SC2cG in (|a,p|g) and -{ 0.32 {I+6-11}} from |g(|q) in Coul. ex.             
+ 45SCB G BE1W=0.000133 12                                                       
+ 45SCF G FLAG=AIJ                                                               
+ 45SC  L 1067.6    4 3/2-              0.28 PS   6                              
+ 45SCX L XREF=EFGHIJMNOPQRS                                                     
+ 45SC cL J         L({+3}He,d)=1; M1+E2 |g to 5/2-                              
+ 45SCF L FLAG=EFJ                                                               
+ 45SC  G 347.36    3331      4 (M1(+E2)) +0.04   13                             
+ 45SC cG M         D(+Q) from |g(|q) in (|a,p|g). |D|p=no from level scheme     
+ 45SCB G BM1W=0.43 12$BE2W<120                                                  
+ 45SCF G FLAG=H                                                                 
+ 45SC  G 691.11    49100     10M1+E2     -0.11   5                              
+ 45SCB G BM1W=0.17 5$BE2W=12 12                                                 
+ 45SCF G FLAG=EH                                                                
+ 45SC  G 1067        4.1     8 (E2)                                             
+ 45SC cG M         D,E2 from comparison to RUL. |DJ=2 from level scheme         
+ 45SCB G BE2W=4.7 14                                                            
+ 45SC  L 1236.70   2511/2-             1.80 PS   10                             
+ 45SCX L XREF=CDFGHLMNOPQRSTU                                                   
+ 45SC cL J         |p=- from L(p,p')=2. J=7/2,11/2 from p|g(|q) in (|a,p|g).    
+ 45SC2cL J=5/2,11/2 from |g(|q) in Coul. ex.                                    
+ 45SC cL T         from (|g,|g). Others: 2.4 ps {I+10-6} from (|a,p|g) and 1.60 
+ 45SC2cL ps {I34} from (p,p'|g); DSAM. 0.12 ps {I8} (DSAM) from (n,n'|g)        
+ 45SCxcL discrepant                                                             
+ 45SCF L FLAG=EJ                                                                
+ 45SC  G 1237.07   20100       E2                                               
+ 45SCB G BE2W=11.4 7                                                            
+ 45SCF G FLAG=AJ                                                                
+ 45SC  L 1303.18   153/2+              2.3 PS    +7-4                           
+ 45SCX L XREF=FHNOQRSM                                                          
+ 45SC cL J         L(d,{+3}He)=2; |g from 1/2- IAR                              
+ 45SC cL T         weighted ave of 2.4 ps {I+12-7} from (|a,p|g) and 2.3 ps     
+ 45SC2cL {I+9-5} from (p,p'|g); DSAM. >5.5 ps (1980Bu08; DSAM) discrepant in    
+ 45SCxcL (p,p'|g)                                                               
+ 45SCF L FLAG=EH                                                                
+ 45SC  G 760.2     7 100     14D+Q                                              
+ 45SC cG MR        -{ 0.27 {I15}} or -{ 2.0 {I6}} from |g(|q) in (|a,p|g)       
+ 45SCF G FLAG=EH                                                                
+ 45SC  G 926.8     5 45        (E1)                                         @   
+ 45SCB G BE1W=6.0E-5 +12-19                                                     
+ 45SCF G FLAG=DHI                                                               
+ 45SC  G 1289.6    8 74      14 (E2)                                            
+ 45SC cG RI        unweighted ave of I|g(1290|g)/I|g(760|g)=0.56 {I12} from     
+ 45SC2cG (p,|g) and { 1.1 {I4}} from Coul. ex.                                  
+ 45SC cG M         D,E2 from comparison to RUL. |DJ=2 from level scheme         
+ 45SCB G BE2W=2.5 +7-9                                                          
+ 45SCF G FLAG=H                                                                 
+ 45SC  L 1408.87   20(7/2)-            257 FS    +23-18                         
+ 45SCX L XREF=CFGHLMNOPQRSI(*)                                                  
+ 45SC cL J         3/2-,5/2-,7/2- from M1+E2 |g to 7/2- and D,E2 |g to 3/2-;    
+ 45SC2cL |=3/2 from p|g(|q) in (|a,p|g). Member of K|p=3/2- band                
+ 45SC cL T         other: 0.28 ps {I14} (DSAM) from (n,n'|g). <0.12 ps from     
+ 45SC2cL (p,|g) and 0.43 ps {I+12-8} from (|a,p|g) are discrepant; DSAM. Note   
+ 45SC3cL that T{-1/2}=299 fs {I19} from (|g,|g) assuming J=5/2 is more          
+ 45SC4cL compatible with the adopted T{-1/2} than { 398 fs {I24}} assuming 7/2  
+ 45SCF L FLAG=DEJ                                                               
+ 45SC  G 688.9     5 7.4     12D,E2                                             
+ 45SC cG RI        from Coulomb excitation                                      
+ 45SCF G FLAG=H                                                                 
+ 45SC  G 1032.4    4 4.9     5 D,E2                                         @   
+ 45SC cG RI        from Coulomb excitation                                      
+ 45SCF G FLAG=A                                                                 
+ 45SC  G 1408.6    5 100.0   5 M1+E2     -2.62   62                             
+ 45SC cG RI        from Coulomb excitation                                      
+ 45SC cG M         from |g(|q) in Coul. ex. And Coul. ex.                       
+ 45SC cG MR        from |g(|q) in Coul. ex. |d=+0.05 {I+13-9} if J=7/2 or -0.9  
+ 45SC2cG {I4} if J=5/2 in (|a,p|g) discrepant                                   
+ 45SCB G BM1W=0.0035 15$BE2W=32 4                                               
+ 45SCF G FLAG=A                                                                 
+ 45SC  L 1433.48   159/2+              3.6 PS    18                             
+ 45SCX L XREF=DFHI(*)MNOS                                                       
+ 45SC cL J         7/2+,9/2+ from E2(+M3) |g to 5/2+; D+Q |g from 11/2+. |=7/2  
+ 45SC2cL from p|g(|q) in (|a,p|g).                                              
+ 45SC cL T         unweighted ave of 5.4 ps {I+30-15} from (|a,p|g) and 1.9 ps  
+ 45SC2cL {I13} from (p,p'|g); DSAM                                              
+ 45SCF L FLAG=AI                                                                
+ 45SC  G 197.53    294         (E1)                                            ?
+ 45SC cG M         D from comparison to RUL. |D|p=yes from level scheme         
+ 45SCB G BE1W=0.0005 3                                                          
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 459.06    1727      8 M1+E2     -0.24   6                              
+ 45SCB G BM1W=0.011 7$BE2W=8 6                                                  
+ 45SCF G FLAG=BEI                                                               
+ 45SC  G 890.9     8 100     13E2(+M3)   +0.03   6                              
+ 45SCB G BE2W=20 11                                                             
+ 45SCF G FLAG=AIJ                                                               
+ 45SC  G 1435.4    1617.0    19(E1(+M2)) -0.11   +20-24                         
+ 45SC cG M         D(+Q) from |g(|q) in (|a,p|g). |D|p=yes from level scheme    
+ 45SC3 G BE1W=6.E-6  3$BM2<2                                                    
+ 45SCF G FLAG=AI                                                                
+ 45SC  L 1472.5    9 (7/2+)                                                    ?
+ 45SCX L XREF=M                                                                 
+ 45SC cL J         3/2 to 9/2 from |g's to 5/2-; 7/2-. 7/2+ from Hauser-Feshbach
+ 45SC2cL in (n,n')                                                              
+ 45SC  G 752       1                                                           ?
+ 45SC cG E         from (n,n'|g)                                                
+ 45SC  G 1474      2                                                           ?
+ 45SC cG E         from (n,n'|g)                                                
+ 45SC  L 1556.2    5 (3/2)-            0.28 PS   +12-8                          
+ 45SCX L XREF=FGHINOQM                                                          
+ 45SC cL J         L({+3}He,d)={ 1. d},E2 |g? to 5/2+                           
+ 45SC cL T         from DSAM in (|a,p|g)                                        
+ 45SCF L FLAG=E                                                                 
+ 45SC  G 488.5     10100     11(M1)                                             
+ 45SC cG M         D from comparison to RUL. |D|p=no from level scheme.         
+ 45SCB G BM1W=0.54 +18-25                                                       
+ 45SCF G FLAG=FK                                                                
+ 45SC  G 616.3       8.9     16(E1)                                            ?
+ 45SC cG M         D from comparison to RUL. |D|p=yes from level scheme         
+ 45SCB G BE1W=0.0006 3                                                          
+ 45SC  G 1013.8      20      LT                                                ?
+ 45SCF G FLAG=FG                                                                
+ 45SC  G 1179.02     5.7     12D,E2                                            ?
+ 45SC  L 1662.0    4 9/2-              98 FS     10                             
+ 45SCX L XREF=CFGHKLMNOPS                                                       
+ 45SC cL J         M1+E2 |g to 7/2-; D(+Q) |g to 11/2-                          
+ 45SC cL T         others: 0.14 ps {I+5-4} from (|a,p|g) and 0.13 {I9} from     
+ 45SCxcL (p,|g); DSAM                                                           
+ 45SCF L FLAG=DEIJ                                                              
+ 45SC  G 253.8     5 13      3 M1                                              ?
+ 45SCB G BM1W=1.2 4                                                             
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 425.1     3 19      4 (M1(+E2)) -0.03   13                             
+ 45SC cG M         D(+Q) from |g(|q) in (|a,p|g). |D|p=no from level scheme     
+ 45SCB G BM1W=0.38 10$BE2W<60                                                   
+ 45SCF G FLAG=BI                                                                
+ 45SC  G 942.0     6 14      8 (E2)                                            ?
+ 45SC cG M         D,E2 from comparison to RUL. |DJ=2 from level scheme         
+ 45SCB G BE2W=8.E+1 5                                                           
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1662.4    6 100     5 M1+E2     -0.47   5                              
+ 45SCB G BM1W=0.027 4$BE2W=5.9 13                                               
+ 45SCF G FLAG=AEI                                                               
+ 45SC  L 1716      30                                                          ?
+ 45SCX L XREF=N                                                                 
+ 45SC  L 1800.0    5 5/2+              65 FS     15                             
+ 45SCX L XREF=CFHKLMNOQRT                                                       
+ 45SC cL J         L(d,{+3}He)=2; D,E2 |g to 7/2-                               
+ 45SC cL T         see also discussion in (p,p'|g)                              
+ 45SCF L FLAG=EHI                                                               
+ 45SC  G 497.7       31        (M1)                                            ?
+ 45SC cG M         D from comparison to RUL. |D|p=no from level scheme          
+ 45SCB G BM1W=0.34 8                                                            
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 733.3       8         (E1)                                            ?
+ 45SCB G BE1W=0.00066 16                                                        
+ 45SCF G FLAG=DHI                                                               
+ 45SC  G 1080.9      8         (E1)                                            ?
+ 45SCB G BE1W=0.00021 5                                                         
+ 45SCF G FLAG=DHI                                                               
+ 45SC  G 1257.2    5 62      3 D+Q                                              
+ 45SC cG MR        { 0.0 {I2}} or +{ 1.4 {I9}} from |g(|q) in (|a,p|g)          
+ 45SCF G FLAG=GHL                                                               
+ 45SC  G 1424.5      23        (E1)                                            ?
+ 45SCB G BE1W=0.00026 6                                                         
+ 45SCF G FLAG=DHI                                                               
+ 45SC  G 1788.1    6 100     3 D+Q                                              
+ 45SC cG MR        -{ 0.20 {I9}} or -{ 1.3 {I3}} from |g(|q) in (|a,p|g)        
+ 45SCF G FLAG=GHL                                                               
+ 45SC  G 1800.1    6 22.1    22 (E1)                                            
+ 45SCB G BE1W=0.00012 3                                                         
+ 45SCF G FLAG=DH                                                                
+ 45SC  L 1900.7    3                                                            
+ 45SCX L XREF=HI                                                                
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 833.45      100                                                        
+ 45SC  L 1930.6    3 1/2,3/2,5/2+                                               
+ 45SCX L XREF=HR(*)                                                             
+ 45SC cL J         |g to 1/2+                                                   
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 991.49      100                                                        
+ 45SC  L 1935.5    10                  32 FS     +16-11                         
+ 45SCX L XREF=OR(*)                                                             
+ 45SC  G 1935.5    10100       D,E2                                             
+ 45SCF G FLAG=HI                                                                
+ 45SC  L 1935.5                        61 FS     +22-16                        ?
+ 45SCX L XREF=OR(*)                                                             
+ 45SC  G 1559        100       D,E2                                            ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  L 2031.2    7 11/2+             0.71 PS   21                             
+ 45SCX L XREF=DFHNOR                                                            
+ 45SC cL J         9/2+,11/2+ from D,E2 |g to 11/2-; E2(+M3) |g to 7/2+. |=9/2  
+ 45SC2cL from p|g(|q) in (|a,p|g)                                               
+ 45SC cL T         other: { 1.1 ps {I+6-3}}                                     
+ 45SCF L FLAG=AE                                                                
+ 45SC  G 597.4     5 100       M1+E2     -0.19   7                              
+ 45SCB G BM1W=0.067 22$BE2W=18 15                                               
+ 45SCF G FLAG=EH                                                                
+ 45SC  G 794.2     5 12      5 (E1)                                             
+ 45SC cG RI        weighted ave of I|g(794|g)/I|g(597|g)=0.15 {I10} from        
+ 45SC2cG (|a,p|g) and { 0.10 {I6}} from (p,p'|g)                                
+ 45SCB G BE1W=9.E-5 5                                                           
+ 45SCF G FLAG=DH                                                                
+ 45SC  G 1056.14   2398      29E2(+M3)   0.0017  LT                             
+ 45SC cG RI        unweighted ave of I|g(1056|g)/597|g)=0.56 {I10} from         
+ 45SC2cG (HI,xn|g), { 1.54 {I24}} from (|a,p|g), and { 0.8 {I5}} from (p,p'|g)  
+ 45SC cG MR        from comparison to RUL. |d(1057|g)=+0.03 {I3} from |g(|q) in 
+ 45SC2cG (|a,p|g)                                                               
+ 45SCB G BE2W=30 14                                                             
+ 45SCF G FLAG=HJ                                                                
+ 45SC  L 2090        15/2-                                                      
+ 45SCX L XREF=T                                                                 
+ 45SC  L 2093.0    5 5/2               8.3 FS    21                             
+ 45SCX L XREF=FGHLMNOR                                                          
+ 45SC cL J         D(+Q) |g's to 3/2- and 7/2-                                  
+ 45SC cL T         others: <35 fs from (|a,p|g), 21 fs {I9} from (n,n'|g), and  
+ 45SC2cL <7.6 fs from (p,p'|g); DSAM. 85 milliev 9 in (|g,|g). See also         
+ 45SC3cL discussion in (p,p'|g)                                                 
+ 45SCF L FLAG=EK                                                                
+ 45SC  G 788.8       30      LT                                                ?
+ 45SCF G FLAG=FG                                                                
+ 45SC  G 1023.7      12.0    24D(+Q)     -0.05   20                             
+ 45SCF G FLAG=FGL                                                               
+ 45SCF G FL=1067.6                                                              
+ 45SC  G 1715.5      8.4     24 D,E2                                            
+ 45SCF G FLAG=FG                                                                
+ 45SC  G 2094.0    10100.0   24D(+Q)     -0.05   6                              
+ 45SCF G FLAG=AGL                                                               
+ 45SC  L 2106.2    5 LE 7/2                                                     
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         |g to 3/2-                                                   
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 1038.98     100                                                        
+ 45SC  L 2106.27   1215/2-             1.4 PS    GT                             
+ 45SCX L XREF=DFNOU                                                             
+ 45SC cL J         From p|g(|q) and linear polarization in (|a,p|g). 1981Bo37 in
+ 45SC2cL (pol p,|a) noted that there may be significant fragmentation of the    
+ 45SC3cL { ((|n f{-7/2}){++2}(|p f{-7/2}))} pickup strength to 15/2{+-} states  
+ 45SC4cL in {+45}Sc.                                                            
+ 45SC cL T         other: >{ 6 ps} (DSAM) from (|a,p|g)                         
+ 45SCF L FLAG=L                                                                 
+ 45SC  G 869.57    13100       E2                                               
+ 45SCB G BE2W<86                                                                
+ 45SCF G FLAG=AGJ                                                               
+ 45SC  L 2138.4    5  3/2-,5/2         0.31 PS   +9-7                           
+ 45SC cL J         D |g to (3/2)-; D,E2 |g to 7/2-                              
+ 45SCX L XREF=HOR(*)                                                            
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 583.24      40      12 D                                               
+ 45SC  G 2138.29     1.0E2   3  D,E2                                            
+ 45SC  L 2151.0    5 (1/2,3/2,5/2)     60 FS     +17-12                         
+ 45SC cL J         |<7/2+ from D,E2 |g's to 3/2+. |g from 3/2(-) res.           
+ 45SCX L XREF=HR(*)N(*)                                                         
+ 45SCF L FLAG=BM                                                                
+ 45SC  G 847.4       11.1    23D,E2                                             
+ 45SC  G 2138.5      100     10D,E2                                         @   
+ 45SC  L 2152.0                                                                ?
+ 45SCX L XREF=OR(*)N(*)                                                         
+ 45SCF L FLAG=M                                                                 
+ 45SC  G 596.4       100                                                       ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1084.0      52                                                        ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1608.8      98                                                        ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  L 2221.8    5 (3/2-,5/2)                                                 
+ 45SCX L XREF=HR(*)                                                             
+ 45SC cL J         |g to 3/2+; |g?'s to 7/2- and from 1/2-,3/2-                 
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 2209.42     100     16                                                 
+ 45SCF G FLAG=I                                                                 
+ 45SC  G 2220.6    1847      16                                                ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  L 2224.2    5 5/2+,7/2+                                                  
+ 45SCX L XREF=MNOR(*)                                                           
+ 45SC cL J         |g's to 9/2+ and 3/2+                                        
+ 45SC cL T         69 fs {I14} from (n,n'|g) and 0.41 ps {I17} from (p,p'|g)    
+ 45SC2cL are discrepant; DSAM                                                   
+ 45SC  G 790.7       56                                                         
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 920.8       26                                                         
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1504.0      100                                                        
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1681.2      74                                                         
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 2212                                                                  ?
+ 45SC  G 2224                                                                  ?
+ 45SC  L 2288.5    6 (7/2-,9/2)        0.21 PS   7                              
+ 45SCX L XREF=NOI(*)S(*)                                                        
+ 45SC cL J         7/2-,9/2,11/2- from D,E2 |g's to 7/2- and 11/2-. D,E2 |g? to 
+ 45SC2cL 7/2+                                                                   
+ 45SC cL T         see also discussion in (p,p'|g)                              
+ 45SC  G 1049.2    1082        D,E2                                             
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1316.0    5 58      11 D,E2                                           ?
+ 45SC  G 2289.7    7 100     13D,E2                                             
+ 45SCF G FLAG=HI                                                                
+ 45SC  L 2303.8    5 (5/2-)            55 FS     +35-17                         
+ 45SCX L XREF=GHI(*)MOS(*)Q(*)                                                  
+ 45SC cL J         1/2,3/2,5/2 from D,E2 |g's to 3/2- and 3/2+. 5/2- from D,E2  
+ 45SC2cL |g? to 9/2-. L({+3}He,d)=1 for E=2290                                  
+ 45SC cL T         other: 0.83 ps {I83} (DSAM) from (n,n'|g). See also          
+ 45SC2cL discussion in (p,p'|g)                                                 
+ 45SCF L FLAG=BKNO                                                              
+ 45SC  G 641.1     5 25      8 (E2)                                            ?
+ 45SCB G BE2W=9.E+2 +4-7                                                        
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1235.8      100     21D,E2                                             
+ 45SC  G 1926.7      92      19D,Q                                              
+ 45SC  G 2290.7      71      13(E1)                                             
+ 45SCB G BE1W=0.00020 +8-14                                                     
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 2321.5    103/2-,5/2,7/2+     45 FS     +11-7                          
+ 45SCX L XREF=I(*)OQ(*)                                                         
+ 45SC cL J         D,E2 |g's to 7/2- and 3/2+. L({+3}He,d)=1 for E=2290         
+ 45SCF L FLAG=NO                                                                
+ 45SC  G 2308.8    13100     12D,E2                                             
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 2321.7    1445      12D,E2                                             
+ 45SCF G FLAG=HI                                                                
+ 45SC  L 2341.0    4 (7/2-)            31 FS     7                              
+ 45SCX L XREF=HLMNOG(*)I(*)S(*)                                                 
+ 45SC cL J         3/2-,5/2,7/2- from D,E2 |g to 7/2- and D,E2 |g from 3/2- IAR.
+ 45SC2cL 7/2,9/2,11/2- from Hauser-Feshbach in (p,p')                           
+ 45SCF L FLAG=EOP                                                               
+ 45SC  G 931.34    32100     LED                                            &  ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1622.5      42.95     D,E2                                         @  ?
+ 45SCF G FL=720.12                                                              
+ 45SC  G 2341.6    101.0E2   3 D,E2                                             
+ 45SCF G FLAG=H                                                                 
+ 45SC  L 2352.2    5 3/2-,5/2                                                   
+ 45SCX L XREF=G(*)HI(*)NOS(*)                                                   
+ 45SC3 L T GE 42 FS +28-17 LE 194 FS 56                                         
+ 45SC cL J         |g's to 3/2-, 3/2+, and 7/2-                                 
+ 45SCF L FLAG=BOP                                                               
+ 45SC  G 797.3       47      9                                                  
+ 45SCF G FLAG=M                                                                 
+ 45SC  G 1285.7      20      4                                                  
+ 45SCF G FLAG=M                                                                 
+ 45SC  G 1632.4      100     20                                                 
+ 45SCF G FLAG=M                                                                 
+ 45SC  G 2340.1      56      12                                                 
+ 45SCF G FLAG=M                                                                 
+ 45SC  G 2350.4    105.4     11                                                 
+ 45SCF G FLAG=HI                                                                
+ 45SC  L 2385      7                                                           ?
+ 45SCX L XREF=N                                                                 
+ 45SC  L 2531.0    5 (1/2+,3/2,5/2)                                             
+ 45SCX L XREF=HNO                                                               
+ 45SC cL J         |g's to 3/2+ and 5/2+ and from 3/2(-) res                    
+ 45SC cL T         81 fs {I+38-17} from (p,|g) and 21 fs {I5} from (p,p'|g) are 
+ 45SC2cL discrepant; DSAM                                                       
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 1227.6      28      6                                                  
+ 45SC  G 1988.1      100     20                                                 
+ 45SCF G FLAG=N                                                                 
+ 45SC  G 2516.3      72      14                                                 
+ 45SCF G FL=12.40                                                               
+ 45SC  L 2563.2    3 (13/2+)           1.4 PS    +6-4                           
+ 45SCX L XREF=DFN                                                               
+ 45SC cL J         9/2,11/2+,13/2+ from D,E2 |g's to 9/2+, 11/2+, and 11/2-;    
+ 45SC2cL |p=+ if J=11/2 from M1+E2 |g to 9/2+. Member of |p=+ band              
+ 45SC cL T         from DSAM in (|a,p|g)                                        
+ 45SCF L FLAG=A                                                                 
+ 45SC  G 531.7       44      11D,E2                                             
+ 45SCF G FLAG=FG                                                                
+ 45SC  G 1129.8    3 100     11D,E2                                             
+ 45SC cG M,MR      D(+Q), -0.1|<|d|<+1.1 if J(2563)=9/2. M1+E2, +{ 0.42 {I11}}  
+ 45SC2cG if J(2563)=11/2. E2(+M3), { 0.00 {I4}} if J(2563)=13/2 from |g(|q) in  
+ 45SC3cG (|a,p|g) and comparison to RUL                                         
+ 45SCF G FLAG=FG                                                                
+ 45SC  G 1325.8      33      12D,E2                                             
+ 45SCF G FLAG=FG                                                                
+ 45SC  L 2590.0    6 3/2-,5/2,7/2-     35 FS     8                              
+ 45SCX L XREF=HG(*)LN(*)O                                                       
+ 45SC cL J         D,E2 |g's to 3/2- and 7/2-                                   
+ 45SC cL T         other: 10 fs {I5} from DSAM in (p,p'|g) depending on         
+ 45SC2cL placement of 2590|g                                                    
+ 45SCF L FLAG=BKO                                                               
+ 45SC  G 1032.8    4 35      LE                                             @  ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1524.5    4 61      18D,E2                                            ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 1869.7    1517      13                                                ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 2212.7    13100     20D,E2                                             
+ 45SCF G FLAG=H                                                                 
+ 45SC  G 2590        67      14D,E2                                         @   
+ 45SCF G FLAG=N                                                                 
+ 45SC  L 2601.4    5 1/2+,3/2,5/2                                               
+ 45SCX L XREF=G(*)HN(*)                                                         
+ 45SC cL J         |g's to 3/2- and 5/2+ and from 3/2+ res                      
+ 45SC cL T         see comment on preceding T{-1/2}                             
+ 45SCF L FLAG=BO                                                                
+ 45SC  G 1045.4      30      6                                                  
+ 45SC  G 1534.2      100     10                                                 
+ 45SCF G FLAG=N                                                                 
+ 45SC  G 2059.28     35      15                                                ?
+ 45SCF G FL=543.06                                                              
+ 45SC  G 2224.30     56      12                                                 
+ 45SC  G 2590.45     1.0E2   5                                              @  ?
+ 45SCF G FL=12.40                                                               
+ 45SC  L 2634      7                                                           ?
+ 45SCX L XREF=N                                                                 
+ 45SC  L 2700      7                                                           ?
+ 45SCX L XREF=N                                                                 
+ 45SC  L 2747.0    105/2-,7/2-                                                  
+ 45SCX L XREF=GHIJNT                                                            
+ 45SCF L FLAG=B                                                                 
+ 45SC  L 2778.7    8 (1/2-,3/2,5/2)                                             
+ 45SCX L XREF=HMNO                                                              
+ 45SC cL J         |g's to 3/2+ and 5/2- and from 3/2(-) res                    
+ 45SC cL T         13 fs {I4} from (p,|g) and 69 fs {I14} from (n,n'|g) are     
+ 45SC2cL discrepant; DSAM. Other: <{ 20 fs} from (p,p'|g), DSAM                 
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 2058.6      47      9                                                  
+ 45SCF G FLAG=N                                                                 
+ 45SC  G 2402        100     21                                                 
+ 45SC  L 2860.7      (1/2-,3/2,5/2)                                            ?
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         |g?'s to 3/2+ and 5/2- and from 3/2- IAR                     
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 1558                                                                  ?
+ 45SC  G 2140                                                               *  ?
+ 45SC  L 2895.2    5 1/2+,3/2,5/2      7 FS      4                              
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         D,E2 |g to 5/2+ and |g's from 3/2+ res and 3/2(-) res        
+ 45SCF L FLAG=BK                                                                
+ 45SC  G 2352.1    5 100       D,E2                                             
+ 45SC  L 2903.8    7 3/2+,5/2+                                                  
+ 45SCX L XREF=GHQ                                                               
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 1836.4      100     20                                                 
+ 45SC  G 2361        61      13                                                 
+ 45SC  L 2943      7 (5/2)+                                                     
+ 45SCX L XREF=GNT                                                               
+ 45SC cL J         |p=+ from L(p,p')=3; J|p=5/2+ from DWBA in (p,|a)            
+ 45SCF L FLAG=G                                                                 
+ 45SC  L 2960      30(9/2+,11/2-)                                              ?
+ 45SC cL J         from DWBA in (pol p,|a)                                      
+ 45SCX L XREF=US(*)                                                             
+ 45SC  L 2964.0    15(3/2+,5/2+)                                               ?
+ 45SCX L XREF=HS(*)                                                             
+ 45SC cL J         |g?'s to 1/2+ and 7/2+                                       
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 1990                                                                  ?
+ 45SC  G 2027                                                                  ?
+ 45SC  L 2979.8    183/2-                                                       
+ 45SCX L XREF=EGHINS(*)                                                         
+ 45SC cL J         L({+3}He,d)=1; L(|a,p)=1. {I3}/2 from empirical J dependence 
+ 45SC2cL in (|a,p)                                                              
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 1425        100     20                                                 
+ 45SC  G 2605.5      92      20                                                 
+ 45SC  L 3025.5    6 1/2-,3/2-                                                  
+ 45SCX L XREF=GHINO                                                             
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 803.5     6 18      7                                                 ?
+ 45SCF G FLAG=HI                                                                
+ 45SC  G 933.4       5.2     10                                             &  ?
+ 45SC  G 2305.9      19      4                                                  
+ 45SC  G 2648.73     100                                                       ?
+ 45SC  L 3059      7                                                           ?
+ 45SCX L XREF=N                                                                 
+ 45SC  L 3092.0    8 1/2+,3/2,5/2                                               
+ 45SCX L XREF=HI(*)                                                             
+ 45SC cL J         |g's to 3/2- and 5/2+ and from 3/2+ res                      
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 2024.4      100     21                                                 
+ 45SC  G 2550.3      72      14                                                 
+ 45SC  L 3104        (3/2,5/2)                                                  
+ 45SCX L XREF=HI(*3104,3119)N(*)                                                
+ 45SC cL J         3/2,5/2,7/2 from |g's from 3/2- and to 7/2-. |=7/2 from      
+ 45SC2cL |s(|q) and p-wave formation in p res.                                  
+ 45SCF L FLAG=BQ                                                                
+ 45SC  G 3104        100                                                       ?
+ 45SC  L 3111.2    8 7/2+                                                       
+ 45SCX L XREF=HI(*3119)N(*)                                                     
+ 45SC cL J         |g's to 11/2+ and from 3/2+ res                              
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 1082.6      100                                                        
+ 45SCF G FL=2031.2                                                              
+ 45SC  L 3136.3    7 5/2-,7/2-,9/2-                                             
+ 45SCX L XREF=GHI(*3119,3150)                                                   
+ 45SC cL J         multiply-placed |g from 7711+7713+7715 triplet might exclude 
+ 45SC2cL 9/2-                                                                   
+ 45SCF L FLAG=BQ                                                                
+ 45SC  L 3159.1    5                                                            
+ 45SCX L XREF=FI(*3150)N                                                        
+ 45SC  G 1052.8    5 100                                                        
+ 45SCX G FL=2106.27                                                             
+ 45SCF G FLAG=FG                                                                
+ 45SC  L 3198      9                                                            
+ 45SCX L XREF=IN                                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 3224      7                                                           ?
+ 45SCX L XREF=N                                                                 
+ 45SC  L 3283      7 (+)                                                        
+ 45SCX L XREF=GN                                                                
+ 45SC cL J         L(p,p')=(1)                                                  
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 3294.8    8 (15/2+)                                                    
+ 45SCX L XREF=D                                                                 
+ 45SC cL E         from (HI,xn|g)                                               
+ 45SC cL J         9/2-,11/2,13/2,15/2+ from |g's to (13/2+) and 15/2-. 15/2    
+ 45SC2cL from syst of decays of lower state members of the positive parity band 
+ 45SCF L FLAG=A                                                                 
+ 45SC  G 732         100     13                                                 
+ 45SCF G FLAG=OP                                                                
+ 45SC  G 1263        62      25                                                 
+ 45SCF G FLAG=OP                                                                
+ 45SC  L 3329      7 +                                                          
+ 45SCX L XREF=G(*)N                                                             
+ 45SCF L FLAG=S                                                                 
+ 45SC  L 3349      7 (+)                                                        
+ 45SCX L XREF=G(*)N                                                             
+ 45SC cL J         L(p,p')=(1)                                                  
+ 45SC  L 3366.4    8 (5/2)-                                                     
+ 45SCX L XREF=GHI                                                               
+ 45SC cL J         5/2-,7/2-,9/2- from L({+3}He,p)=0+2. |=7/2-,9/2- from |g     
+ 45SC2cL from 3/2+ rES                                                          
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 1957.9      100                                                        
+ 45SC  L 3400      8 1/2-,3/2-                                                  
+ 45SCX L XREF=IN                                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 3443      7 +                                                          
+ 45SCX L XREF=N                                                                 
+ 45SCF L FLAG=S                                                                 
+ 45SC  L 3457        (5/2)-                                                     
+ 45SCX L XREF=EHG(*)                                                            
+ 45SC cL J         L(|a,p)=3; empirical J dependence of |s(|q) In(|a,p)         
+ 45SCF L FLAG=BQ                                                                
+ 45SC  G 2216                                                                  ?
+ 45SC cG $          Placement of 2216|g or 2520|g is suspect since they feed    
+ 45SC2cG 11/2- and 1/2+ states, respectively                                    
+ 45SCX G FL=1236.70                                                             
+ 45SC  G 2520                                                                  ?
+ 45SC cG $          See comment on 2216|g                                       
+ 45SC  L 3462.1    8 5/2-,7/2-                                                  
+ 45SCX L XREF=GH                                                                
+ 45SC cL J         |g's to 3/2- and from 3/2+ res                               
+ 45SCF L FLAG=BT                                                                
+ 45SC  G 3085.5      100                                                        
+ 45SC  L 3475        3/2+,5/2+                                                  
+ 45SCX L XREF=HQ                                                                
+ 45SCF L FLAG=B                                                                 
+ 45SC  L 3487.4    8 3/2-                                                       
+ 45SCX L XREF=HIN                                                               
+ 45SC cL J         L({+3}He,d)=1; |=1/2- from |g to 7/2-                        
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 2766.8      89      19                                                 
+ 45SC  G 3110.7      74      16                                                 
+ 45SC  G 3488.3      100     21                                                 
+ 45SC  L 3525.2    8 3/2-,5/2                                                   
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         |g's to (3/2)- and 7/2- and from 3/2+ res                    
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 1969.6      43      9                                                  
+ 45SC  G 3525        100     20                                                 
+ 45SC  L 3548.5    8 1/2+,3/2,5/2,7/2+                                          
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         |g's to 3/2+ and 5/2+                                        
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 3005.4      100     20                                                 
+ 45SC  G 3536.4      75      16                                                 
+ 45SC  L 3569.8    8 (17/2-)                                                    
+ 45SCX L XREF=D                                                                 
+ 45SC cL E         from (HI,xn|g)                                               
+ 45SC cL J         13/2 to 17/2 from D |g to 15/2-; 17/2 from |g(|q) if         
+ 45SC2cL J(3693)=19/2; 13/2,17/2 if J(3693)=15/2. |>17/2 from lack of |g to     
+ 45SC2cL 11/2-. |p=- from band membership                                       
+ 45SCF L FLAG=L                                                                 
+ 45SC  G 1463.3      100       D                                                
+ 45SC cG M         from |g(|q) in ({+19}F,2p|g)                                 
+ 45SCX G FL=2106.27                                                             
+ 45SCF G FLAG=OP                                                                
+ 45SC  L 3581      155/2-,7/2-,9/2-                                             
+ 45SCX L XREF=GI(*)                                                             
+ 45SCF L FLAG=Q                                                                 
+ 45SC  L 3584      1 1/2,3/2,5/2+                                               
+ 45SCX L XREF=HI(*)                                                             
+ 45SC cL J         |g to 1/2+                                                   
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 2645        100                                                        
+ 45SC  L 3606      7 +                                                          
+ 45SCX L XREF=GI(*)N                                                            
+ 45SCF L FLAG=S                                                                 
+ 45SC  L 3692.86   14(19/2-)                                                    
+ 45SCX L XREF=DTU                                                               
+ 45SC cL E         from (HI,xn|g)                                               
+ 45SC cL J         |<19/2 from p|g-coin. 15/2,19/2 from |g(|q) to (15/2-);      
+ 45SC2cL |>17/2 from lack of |g to 11/2-. |p=- from band membership             
+ 45SCF L FLAG=L                                                                 
+ 45SC  G 122.9       28      4 D                                                
+ 45SC cG M         from |g(|q) in ({+19}F,2p|g)                                 
+ 45SCF G FLAG=OP                                                                
+ 45SC  G 1586.56   2 100     7 Q                                                
+ 45SC cG M         from |g(|q) in ({+19}F,2p|g)                                 
+ 45SCX G FL=2106.27                                                             
+ 45SCF G FLAG=OP                                                                
+ 45SC  L 3714.3    8 1/2,3/2,5/2       13 FS     +14-10                         
+ 45SCX L XREF=GHTI(*)N(*)Q(*)                                                   
+ 45SC cL J         D,E2 |g to (3/2)- and |g from 3/2+ res                       
+ 45SCF L FLAG=BKNU                                                              
+ 45SC  G 1621.8      64      14D,E2                                         @   
+ 45SCF G FLAG=P                                                                 
+ 45SC  G 2158.6      100     20D,E2                                             
+ 45SCF G FLAG=P                                                                 
+ 45SC  L 3722.3    10                                                           
+ 45SCX L XREF=GHI(*)N(*)Q(*)                                                    
+ 45SCF L FLAG=BNU                                                               
+ 45SC  G 3345.7      100                                                        
+ 45SC  L 3776      13(+)                                                        
+ 45SCX L XREF=IN                                                                
+ 45SCF L FLAG=S                                                                 
+ 45SC  L 3864.0    15                                                          ?
+ 45SCX L XREF=H                                                                 
+ 45SCF L FLAG=B                                                                 
+ 45SC  L 3882      11(1/2-)                                                     
+ 45SCX L XREF=EGHI                                                              
+ 45SC cL J         L({+3}He,d)=(1) and isotropic |g(|q) to 3/2-                 
+ 45SCF L FLAG=RV                                                                
+ 45SC  G 2580        79                                                         
+ 45SC  G 3507        100                                                        
+ 45SCF G FLAG=K                                                                 
+ 45SC  L 3890      30+                                                         ?
+ 45SCX L XREF=N                                                                 
+ 45SCF L FLAG=S                                                                 
+ 45SC  L 3916      7 1/2-,3/2-                                                  
+ 45SCX L XREF=IN                                                                
+ 45SCF L FLAG=RV                                                                
+ 45SC  L 3938      155/2-,7/2-,9/2-                                             
+ 45SCX L XREF=G                                                                 
+ 45SCF L FLAG=T                                                                 
+ 45SC  L 3982      7 3/2+,5/2+                                                  
+ 45SCX L XREF=HINQ                                                              
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 4031      7 +                                                          
+ 45SCX L XREF=N                                                                 
+ 45SCF L FLAG=S                                                                 
+ 45SC  L 4034      115/2-,7/2-,9/2-                                             
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=RT                                                                
+ 45SC  L 4084.9    10(1/2-,3/2-)                                                
+ 45SCX L XREF=GHN                                                               
+ 45SC cL J         1/2,3/2,5/2+ from |g to 1/2+. (5/2 to 9/2)- or (1/2,3/2)-    
+ 45SC2cL from ({+3}He,p)                                                        
+ 45SCF L FLAG=B                                                                 
+ 45SC  G 3146.5    10100                                                        
+ 45SC  L 4129      7                                                            
+ 45SCX L XREF=IN                                                                
+ 45SCF L FLAG=G                                                                 
+ 45SC  L 4178      11                                                           
+ 45SCX L XREF=GIQ                                                               
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 4244      11                                                           
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 4307      13-                                                          
+ 45SCX L XREF=IN                                                                
+ 45SC cL J         L(p,p')=2                                                    
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 4360      153/2+,5/2+                                                  
+ 45SCX L XREF=IQ                                                                
+ 45SC cL E         from ({+3}He,d)                                              
+ 45SC  L 4424      15                                                           
+ 45SCX L XREF=IN(*)                                                             
+ 45SC  L 4464      15                                                           
+ 45SCX L XREF=IN(*)G(*)                                                         
+ 45SC  L 4505      151/2-,3/2-                                                  
+ 45SC cL E         from ({+3}He,d)                                              
+ 45SCX L XREF=G(*)HI                                                            
+ 45SC  G 1398        100                                                        
+ 45SCX G FL=3104                                                                
+ 45SCF G FLAG=N                                                                 
+ 45SC  G 3436        64                                                         
+ 45SC  L 4546      11                                                           
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 4610      30(13/2-,15/2+)                                             ?
+ 45SCX L XREF=U                                                                 
+ 45SC cL J         from |s(|q) and analyzing power in (pol p,|a)                
+ 45SC  L 4610      11                                                           
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 4662      11(1/2,3/2)                                                  
+ 45SCX L XREF=GHI                                                               
+ 45SC cL J         from |g(|q) in (p,|g)                                        
+ 45SCF L FLAG=R                                                                 
+ 45SC  G 4298        100                                                        
+ 45SC3 G FL=376.50                                                              
+ 45SC  L 4690      30(13/2+,15/2-)                                             ?
+ 45SCX L XREF=U                                                                 
+ 45SC cL J         from |s(|q) and analyzing power in (pol p,|a)                
+ 45SC  L 4713      15                                                           
+ 45SCX L XREF=IG(*)                                                             
+ 45SC  L 4739      15                                                           
+ 45SCX L XREF=G(*)IQ(*)                                                         
+ 45SC  L 4774      15                                                           
+ 45SCX L XREF=IQ(*)G(*)                                                         
+ 45SC  L 4801      15                                                           
+ 45SCX L XREF=G(*)I                                                             
+ 45SC  L 4824      11                                                           
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 4869      15                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 4919      11(1/2-,3/2-)                                                
+ 45SCX L XREF=GI                                                                
+ 45SC cL J         L({+3}He,p)=2                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 4950      30(17/2+)                                                   ?
+ 45SCX L XREF=U                                                                 
+ 45SC cL J         from |s(|q) and analyzing power in (pol p,|a)                
+ 45SC  L 4965      115/2-,7/2-,9/2-                                             
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=RT                                                                
+ 45SC  L 5009      15                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5049      15                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5084      15                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5125      15                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5169      15                                                           
+ 45SCX L XREF=IU(*)                                                             
+ 45SCF L FLAG=W                                                                 
+ 45SC  L 5219      15                                                           
+ 45SCX L XREF=IU(*)                                                             
+ 45SCF L FLAG=W                                                                 
+ 45SC  L 5261      11                                                           
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 5299      11                                                           
+ 45SC cL $          In 1983Bu21 this state was reported as a doublet. However,  
+ 45SC2cL there is no reason for this assumption.                                
+ 45SCX L XREF=GIQ(*)                                                            
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 5374      15                                                           
+ 45SCX L XREF=IQ(*)                                                             
+ 45SC  L 5418.8    11(23/2-)                                                    
+ 45SCX L XREF=DU                                                                
+ 45SC cL E         from (HI,xn|g)                                               
+ 45SC cL J         |<23/2 from p|g-coin in ({+19}F,2p|g). |g to (19/2-); J|>21/2
+ 45SC2cL from lack of feeding to |<19/2 states. In back-angle spectra in        
+ 45SC3cL (pol p,|a), this was the second strongest line; two-step reaction      
+ 45SC4cL calculation with a 2+ inelastic excitation and a J|p=19/2-             
+ 45SC5cL three-nucleon transfer showed preference for J|p=23/2- (1981Bo37)      
+ 45SC  G 1725.5      100                                                        
+ 45SCF G FLAG=OP                                                                
+ 45SC  L 5419      15                                                          ?
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5444      15                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5504      15                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5574      15                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5604      15                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5669      123/2+,5/2+                                                  
+ 45SC cL $          In 1983Bu21 this state was reported as a doublet. However,  
+ 45SC2cL there is no reason for this assumption.                                
+ 45SCX L XREF=GIQ                                                               
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 5774      20                                                           
+ 45SCX L XREF=GI                                                                
+ 45SC  L 5810      20                                                           
+ 45SCX L XREF=IG(*)                                                             
+ 45SC  L 5834      20                                                           
+ 45SCX L XREF=G(*)I                                                             
+ 45SC  L 5931      20                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5964      20                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 5971      20                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 6004      20                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 6031      20                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 6119      17                                                           
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 6179      20                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 6202      20                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 6244      20                                                           
+ 45SCX L XREF=I                                                                 
+ 45SC  L 6332      13                                                           
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=QR                                                                
+ 45SC  L 6369      153/2+,5/2+                                                  
+ 45SCX L XREF=GQ                                                                
+ 45SC cL E         from ({+3}He,p)                                              
+ 45SCF L FLAG=Q                                                                 
+ 45SC  L 6438      12                                                           
+ 45SCX L XREF=GI                                                                
+ 45SCF L FLAG=R                                                                 
+ 45SC  L 6476      15                                                           
+ 45SCX L XREF=G                                                                 
+ 45SC  L 6551      155/2-,7/2-,9/2-                                             
+ 45SCX L XREF=G                                                                 
+ 45SCF L FLAG=T                                                                 
+ 45SC  L 6609      15                                                           
+ 45SCX L XREF=G                                                                 
+ 45SC  L 6667      15(5/2-,7/2-,9/2-)                                           
+ 45SCX L XREF=GT(*)                                                             
+ 45SCF L FLAG=T                                                                 
+ 45SC  L 6699      157/2-                                                       
+ 45SCX L XREF=GT(*)                                                             
+ 45SC cL J         L({+3}He,p)=0                                                
+ 45SC  L 6.75E+3     3/2+,5/2+                                                  
+ 45SCX L XREF=Q                                                                 
+ 45SC  L 6751      15(5/2-,7/2-,9/2-)                                           
+ 45SCX L XREF=G                                                                 
+ 45SCF L FLAG=T                                                                 
+ 45SC  L 6820      155/2-,7/2-,9/2-                                             
+ 45SCX L XREF=G                                                                 
+ 45SCF L FLAG=T                                                                 
+ 45SC  L 7.65E+3                                                               ?
+ 45SCX L XREF=Q                                                                 
+ 45SC  L 7711.0    18                                                           
+ 45SCX L XREF=H                                                                 
+ 45SCF L FLAG=X                                                                 
+ 45SC  G 3991        17      4                                              &   
+ 45SC  G 4225        3.3     7                                              &   
+ 45SC  G 4577        6.7     14                                             &   
+ 45SC  G 4614        3.3     7                                              &   
+ 45SCF G FL=3104                                                                
+ 45SC  G 4731        17      4                                              &   
+ 45SC  G 4809        3.3     7                                              &   
+ 45SC  G 4818        6.7     14                                             &   
+ 45SC  G 4934        23      5                                              &   
+ 45SC  G 5111        3.3     7                                              &   
+ 45SC  G 5123        10.0    20                                             &   
+ 45SC  G 5182        10.0    20                                             &   
+ 45SC  G 5361        3.3     7                                              &   
+ 45SC  G 5410        6.7     14                                             &   
+ 45SC  G 5562        3.3     7                                              &   
+ 45SCX G FL=2152.0                                                              
+ 45SC  G 5562        3.3     7                                              &   
+ 45SCX G FL=2151.0                                                              
+ 45SC  G 5621        6.7     14                                             &   
+ 45SC3 G FL=2093.0                                                              
+ 45SC  G 6410        3.3     7                                              &   
+ 45SC  G 6645        10.0    20                                             &   
+ 45SC  G 6774        100     20                                             &   
+ 45SC  G 6992        33      7                                              &   
+ 45SC  G 7170        20      4                                              &   
+ 45SC  G 7336        17      4                                              &   
+ 45SC  G 7700        23      5                                              &   
+ 45SC  L 7713.2    18                                                           
+ 45SCX L XREF=H                                                                 
+ 45SCF L FLAG=X                                                                 
+ 45SC  G 3991        17      4                                              &   
+ 45SC  G 4225        3.3     7                                              &   
+ 45SC  G 4577        6.7     14                                             &   
+ 45SC  G 4614        3.3     7                                              &   
+ 45SCF G FL=3104                                                                
+ 45SC  G 4731        17      4                                              &   
+ 45SC  G 4809        3.3     7                                              &   
+ 45SC  G 4818        6.7     14                                             &   
+ 45SC  G 4934        23      5                                              &   
+ 45SC  G 5111        3.3     7                                              &   
+ 45SC  G 5123        10.0    20                                             &   
+ 45SC  G 5182        10.0    20                                             &   
+ 45SC  G 5361        3.3     7                                              &   
+ 45SC  G 5410        6.7     14                                             &   
+ 45SC  G 5562        3.3     7                                              &   
+ 45SCX G FL=2152.0                                                              
+ 45SC  G 5562        3.3     7                                              &   
+ 45SCX G FL=2151.0                                                              
+ 45SC  G 5621        6.7     14                                             &   
+ 45SC3 G FL=2093.0                                                              
+ 45SC  G 6410        3.3     7                                              &   
+ 45SC  G 6645        10.0    20                                             &   
+ 45SC  G 6774        100     20                                             &   
+ 45SC  G 6992        33      7                                              &   
+ 45SC  G 7170        20      4                                              &   
+ 45SC  G 7336        17      4                                              &   
+ 45SC  G 7700        23      5                                              &   
+ 45SC  L 7715.7    18                                                           
+ 45SCX L XREF=H                                                                 
+ 45SCF L FLAG=X                                                                 
+ 45SC  G 3991        17      4                                              &   
+ 45SC  G 4225        3.3     7                                              &   
+ 45SC  G 4577        6.7     14                                             &   
+ 45SC  G 4614        3.3     7                                              &   
+ 45SCF G FL=3104                                                                
+ 45SC  G 4731        17      4                                              &   
+ 45SC  G 4809        3.3     7                                              &   
+ 45SC  G 4818        6.7     14                                             &   
+ 45SC  G 4934        23      5                                              &   
+ 45SC  G 5111        3.3     7                                              &   
+ 45SC  G 5123        10.0    20                                             &   
+ 45SC  G 5182        10.0    20                                             &   
+ 45SC  G 5361        3.3     7                                              &   
+ 45SC  G 5410        6.7     14                                             &   
+ 45SC  G 5562        3.3     7                                              &   
+ 45SCX G FL=2152.0                                                              
+ 45SC  G 5562        3.3     7                                              &   
+ 45SCX G FL=2151.0                                                              
+ 45SC  G 5621        6.7     14                                             &   
+ 45SC3 G FL=2093.0                                                              
+ 45SC  G 6410        3.3     7                                              &   
+ 45SC  G 6645        10.0    20                                             &   
+ 45SC  G 6774        100     20                                             &   
+ 45SC  G 6992        33      7                                              &   
+ 45SC  G 7170        20      4                                              &   
+ 45SC  G 7336        17      4                                              &   
+ 45SC  G 7700        23      5                                              &   
+ 45SC  L 7724.9    183/2(-)                                                     
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         J from |g(|q) in (p,|g); |p from inhibition of M2            
+ 45SC2cL transitions for 1f7/2 nuclides                                         
+ 45SC  G 3742        20      4                                                 ?
+ 45SC  G 4003        33      7                                                  
+ 45SC  G 4359        27      6                                                  
+ 45SC  G 4589        20      4                                                  
+ 45SC  G 4633        27      6                                                  
+ 45SC  G 4830        27      6                                                  
+ 45SC  G 4947        53      11                                                 
+ 45SC  G 5124        20      4                                                  
+ 45SC  G 5135        33      7                                                  
+ 45SC  G 5194        33      7                                                  
+ 45SC  G 5422        60      12                                                 
+ 45SC  G 5574        20      4                                              &  ?
+ 45SCX G FL=2152.0                                                              
+ 45SCF G FLAG=K                                                                 
+ 45SC  G 5574        20      4                                              &  ?
+ 45SCX G FL=2151.0                                                              
+ 45SCF G FLAG=K                                                                 
+ 45SC  G 5633        40      8                                                  
+ 45SCX G FL=2093.0                                                              
+ 45SC  G 6170        3.3     7                                                  
+ 45SC  G 6422        3.3     7                                                  
+ 45SC  G 6658        20      4                                                  
+ 45SC  G 6786        20      4 D+Q                                              
+ 45SC cG MR        +{ 0.03 {I6}} or -{ 1.7 {I1}}                                
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7005        40      8 D+Q                                              
+ 45SC cG MR        -{ 0.08 {I5}} or -{ 2.6 {I12}}                               
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7182        100     20D+Q                                              
+ 45SC cG MR        -{ 0.13 {I+3-1}} or -{ 2.9 {I+4-3}}                          
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7348        60      12                                                 
+ 45SC  G 7713        6.7     14                                                 
+ 45SC  L 7775.1    183/2(+)                                                     
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         3/2 from |g(|q) in (p,|g); |g to 7/2+                        
+ 45SC  G 3690        7.1     15                                                 
+ 45SC  G 3911        21      5                                                 ?
+ 45SC  G 4061        36      7                                                  
+ 45SC  G 4191        14      3                                                  
+ 45SC  G 4226        14      3                                                  
+ 45SC  G 4250        14      3                                                  
+ 45SC  G 4287        21      5                                                  
+ 45SC  G 4313        14      3                                                  
+ 45SC  G 4408        7.1     15                                                 
+ 45SC  G 4664        14      3                                                  
+ 45SC  G 4676        21      5                                                 ?
+ 45SCX G FL=3104                                                                
+ 45SC  G 4683        7.1     15                                                 
+ 45SC  G 4749        43      9                                                  
+ 45SC  G 4793        14      3                                                  
+ 45SC  G 4811        7.1     15                                                ?
+ 45SC  G 4873        36      7                                                  
+ 45SC  G 4880        7.1     15                                                 
+ 45SC  G 4996        7.1     15                                                 
+ 45SC  G 5173        29      6                                                  
+ 45SC  G 5244        14.3    15                                                 
+ 45SC  G 5422        57      12                                                 
+ 45SC  G 5472        21      5                                                  
+ 45SC  G 5624        29      6                                              &  ?
+ 45SCX G FL=2152.0                                                              
+ 45SCF G FLAG=K                                                                 
+ 45SC  G 5624        29      6                                              &  ?
+ 45SCX G FL=2151.0                                                              
+ 45SCF G FLAG=K                                                                 
+ 45SC  G 5682        14      3                                                  
+ 45SC2 G FL=2093.0                                                              
+ 45SC  G 5975        7.1     15                                                 
+ 45SC  G 6219        21      5                                                  
+ 45SC  G 6471        7.1     15                                                 
+ 45SC  G 6707        21      5 D+Q                                              
+ 45SC cG MR        +{ 2.4 {I4}} or +{ 0.14 {I6}}                                
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 6836        100     22D+Q                                              
+ 45SC cG MR        +{ 0.03 {I2}} or -{ 1.9 {I1}}                                
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7054        29      6 D+Q                                              
+ 45SC cG MR        -{ 0.4 {I1}} or -{ 1.6 {I4}}                                 
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7231        29      6 D+Q                                              
+ 45SC cG MR        -{ 0.07 {I+5-3}} or -{ 3.50 {I+4-5}}                         
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7398        29      6                                                  
+ 45SC  G 7762        29      6 D+Q                                              
+ 45SC cG MR        -{ 0.19 {I6}} or >+12                                        
+ 45SCF G FLAG=Q                                                                 
+ 45SC  L 8112.3    103/2-              37 EV     9                              
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         from |g(|q) and p-wave formation in p resonance studies      
+ 45SCS L WIDTHP=36 EV 9$WIDTHG=1.3 EV 4                                         
+ 45SCF L FLAG=Y                                                                 
+ 45SC  G 3439        59      9 D+Q       +0.07   3                              
+ 45SCF G FL=4662                                                                
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 3611        55      9 (M1+E2)   -0.06   3                              
+ 45SC cG M         D+Q from |g(|q) in (p,|g). |D|p=no from level scheme         
+ 45SCB G BM1W=0.1627 6$BE2W=0.12 +13-12                                         
+ 45SC  G 4230        100     14(M1+E2)   +0.09   2                              
+ 45SC cG M         D+Q from |g(|q) in (p,|g). |D|p=no from level scheme         
+ 45SCB G BM1W=0.1847 7$BE2W=0.23 10                                             
+ 45SC  G 6021        91      14D+Q       -0.09   4                              
+ 45SC3 G FL=2093.0                                                              
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7174        23        [E1]                                             
+ 45SCB G BE1W=0.000211                                                          
+ 45SC  G 7393        27                                                         
+ 45SC  G 7739        41                                                         
+ 45SC  G 8101        50      9 (E1+M2)   -0.03   3                              
+ 45SC cG M         D+Q from |g(|q) in (p,|g). |D|p=yes from level scheme        
+ 45SC3 G BE1W=0.0003216 6$BM2W=0.02 +4-2                                        
+ 45SC  L 8119                          20 EV     +8-18                          
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=20 EV +8-18                                                     
+ 45SC  L 8128.4    103/2-              23 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         from |g(|q) and p-wave formation in p resonance studies      
+ 45SCS L WIDTHP=22 EV 7$WIDTHG=0.87 EV 24                                       
+ 45SCF L FLAG=Y                                                                 
+ 45SC  G 3456        77      12D+Q       +0.03   3                              
+ 45SCF G FL=4662                                                                
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 3628        92      16(M1+E2)   0.00    3                              
+ 45SC cG M         D+Q from |g(|q) in (p,|g). |D|p=no from level scheme         
+ 45SCB G BM1W=0.21140 18                                                        
+ 45SCF G FL=4505                                                                
+ 45SC  G 4247        100     16(M1+E2)   +0.05   2                              
+ 45SC cG M         D+Q from |g(|q) in (p,|g). |D|p=no from level scheme         
+ 45SCB G BM1W=0.1424 3$BE2W=0.05 5                                              
+ 45SC  G 6038        69      12D+Q       +0.06   5                              
+ 45SC3 G FL=2093.0                                                              
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7410        8                                                          
+ 45SC  G 7587        23        [E1]                                             
+ 45SC  G 8118        15        [E1]                                             
+ 45SC3 G BE1W=7.63E-5                                                           
+ 45SC  L 8437        3/2-,5/2                                                   
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         |g's to 3/2-, 3/2+, and 7/2-                                 
+ 45SC  G 7895        100                                                        
+ 45SC  G 8060        58                                                         
+ 45SC  G 8424        42                                                         
+ 45SC  G 8436        42                                                         
+ 45SC  L 8472        5/2+                                                       
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         |g's to 1/2+, 7/2-, and 7/2+                                 
+ 45SC  G 7406        69                                                         
+ 45SC  G 7498        59                                                         
+ 45SC  G 7531        62                                                         
+ 45SC  G 7930        23                                                         
+ 45SC  G 8095        36                                                         
+ 45SC  G 8459        100                                                        
+ 45SC  G 8471        33                                                         
+ 45SC  L 8476.4      (3/2)-            12 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=12 EV 5$WIDTHG=0.42 EV                                          
+ 45SC  G 6135        18        D,E2                                             
+ 45SC3 G WIDTHG=0.011 EV                                                        
+ 45SC  G 7408        82        D,E2                                             
+ 45SC3 G WIDTHG=0.051 EV                                                        
+ 45SC  G 7536        73        (E1)                                             
+ 45SCB G BE1W=0.00012                                                           
+ 45SCS G WIDTHG=0.045 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7755        34        D,E2                                             
+ 45SC3 G WIDTHG=0.021 EV                                                        
+ 45SC  G 7933        100       (E1)                                             
+ 45SCB G BE1W=0.00015                                                           
+ 45SCS G WIDTHG=0.062 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8099        37        D,E2                                             
+ 45SC3 G WIDTHG=0.023 EV                                                        
+ 45SC  G 8463        95        (E1)                                             
+ 45SCB G BE1W=0.00011                                                           
+ 45SCS G WIDTHG=0.059 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8485.0      (3/2)-            25 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=25 EV$WIDTHG=0.17 EV                                            
+ 45SC  G 7417        100       D,E2                                             
+ 45SC3 G WIDTHG=0.025 EV                                                        
+ 45SC  G 7941        40        D,Q                                              
+ 45SC3 G WIDTHG=0.010 EV                                                        
+ 45SC  G 8472        16        [E1]                                             
+ 45SCB G BE1W=7.7E-6                                                            
+ 45SCS G WIDTHG=0.004 EV                                                        
+ 45SC  L 8492        3/2-                                                       
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHG GE 0.35 EV 10                                                   
+ 45SC  G 7772        94        D,E2                                             
+ 45SC  G 8115        100       D,E2                                             
+ 45SC3 G WIDTHG=0.15 EV 5                                                       
+ 45SC  G 8491        39        (E2)                                             
+ 45SCS G WIDTHG=0.06 EV 2                                                       
+ 45SC3 G BE2W=0.17735 23                                                        
+ 45SC  L 8498.3      3/2-              80 EV     15                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=80 EV 15$WIDTHG=0.45 EV                                         
+ 45SC  G 5042        11      LT                                                ?
+ 45SC  G 5473        11      LT                                                ?
+ 45SC  G 5535        14                                                        ?
+ 45SC  G 5590                                                                  ?
+ 45SCX G FL=2903.8                                                              
+ 45SC  G 5637        11                                                        ?
+ 45SC  G 6147        11                                                        ?
+ 45SC  G 6157        37        D,E2                                            ?
+ 45SC3 G WIDTHG=0.039 EV                                                        
+ 45SC  G 6343        4                                                         ?
+ 45SC  G 6943        32        D(+Q)                                            
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7196        25        D(+Q)     -0.5    +5-2                           
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7430        41        D,E2                                             
+ 45SC3 G WIDTHG=0.043 EV                                                        
+ 45SC  G 7529      5 25      3                                                 ?
+ 45SC  G 7561        22        D+Q       +0.10   +17-8                         ?
+ 45SCF G FLAG=Q                                                                 
+ 45SC  G 7777        100       D,E2                                             
+ 45SC3 G WIDTHG=0.105 EV                                                        
+ 45SC  G 7954        39        (E1)                                             
+ 45SCB G BE1W=9.6E-5                                                            
+ 45SCS G WIDTHG=0.041 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8121        83        D,E2                                             
+ 45SC3 G WIDTHG=0.087 EV                                                        
+ 45SC  G 8485        29        D+Q                                              
+ 45SC cG MR        -{ 0.3 {I+5-0}} or -{ 2.4 {I+8-14}}                          
+ 45SCS G WIDTHG=0.030 EV                                                        
+ 45SCF G FLAG=QD                                                                
+ 45SC  L 8503.9      3/2-              400 EV    40                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=400 EV 40$WIDTHG=0.41 EV                                        
+ 45SCF L FLAG=Z                                                                 
+ 45SC  G 4783        3       LT                                                ?
+ 45SC  G 5027        3       LT                                                ?
+ 45SC  G 5477        3       LT                                                ?
+ 45SC  G 6152        18                                                        ?
+ 45SC  G 6163        14        D,E2                                            ?
+ 45SC3 G WIDTHG=0.039 EV                                                        
+ 45SC  G 6946        3       LT                                                ?
+ 45SC  G 7436        10        D,E2                                             
+ 45SC3 G WIDTHG=0.043 EV                                                        
+ 45SC  G 7564        100       (E1+M2)                                          
+ 45SC cG M         D+Q from |g(|q) in (p,|g). |D|p=yes from level scheme        
+ 45SC cG MR        -{ 0.10 {I+3-7}} or -{ 1.7 {I+3-4}}                          
+ 45SC  G 7783        38        D,E2                                             
+ 45SC3 G WIDTHG=0.105 EV                                                        
+ 45SC  G 7960        14        (E1)                                             
+ 45SCB G BE1W=4.65E-5                                                           
+ 45SCS G WIDTHG=0.041 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8126        19        D,E2                                             
+ 45SC3 G WIDTHG=0.087 EV                                                        
+ 45SC  G 8491        17        (E1)                                             
+ 45SCB G BE1W=5.55E-5                                                           
+ 45SCS G WIDTHG=0.030 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8504        74                                                        ?
+ 45SC  L 8510        3/2-                                                       
+ 45SCX L XREF=H                                                                 
+ 45SC  G 5534                                                                  ?
+ 45SC  G 5765                                                                  ?
+ 45SC  G 5910        21                                                        ?
+ 45SC  G 6170        21                                                        ?
+ 45SC  G 6208        6                                                         ?
+ 45SC  G 6711        29                                                        ?
+ 45SC  G 7102        17                                                        ?
+ 45SC  G 7208        6                                                         ?
+ 45SC  G 7444        33                                                        ?
+ 45SC  G 7537        2                                                         ?
+ 45SC  G 7572        46                                                        ?
+ 45SC  G 7792        10                                                         
+ 45SC  G 7968        12                                                        ?
+ 45SC  G 8135        100                                                        
+ 45SC  G 8499        58                                                         
+ 45SC  G 8511        29                                                         
+ 45SC  L 8516.5      3/2-              60 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=60 EV 10$WIDTHG=0.34 EV                                         
+ 45SCF L FLAG=Z                                                                 
+ 45SC  G 6175        17        D,E2                                             
+ 45SC3 G WIDTHG=0.025 EV                                                        
+ 45SC  G 7577        100       (E1)                                             
+ 45SCB G BE1W=0.000407                                                          
+ 45SCS G WIDTHG=0.151 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7796        19        D,E2                                             
+ 45SC3 G WIDTHG=0.029 EV                                                        
+ 45SC  G 8139        14        D,E2                                             
+ 45SC3 G WIDTHG=0.021 EV                                                        
+ 45SC  G 8503        2         [E1]                                             
+ 45SCB G BE1W=5.7E-6                                                            
+ 45SCS G WIDTHG=0.003 EV                                                        
+ 45SC  L 8519.9      3/2-              30 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=30 EV 7$WIDTHG=0.32 EV                                          
+ 45SCF L FLAG=Z                                                                 
+ 45SC  G 6179        20        D,E2                                             
+ 45SC3 G WIDTHG=0.019 EV                                                        
+ 45SC  G 7799        100       D,E2                                             
+ 45SC3 G WIDTHG=0.096 EV                                                        
+ 45SC  G 8142        43        D,E2                                             
+ 45SC3 G WIDTHG=0.041 EV                                                        
+ 45SC  G 8507        60        (E1)                                             
+ 45SCB G BE1W=0.000110                                                          
+ 45SCS G WIDTHG=0.058 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8529.0      (3/2)-            7 EV      5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=7 EV 5$WIDTHG=0.16 EV                                           
+ 45SCF L FLAG=Z                                                                 
+ 45SC  G 7461        56        D,E2                                             
+ 45SC3 G WIDTHG=0.019 EV                                                        
+ 45SC  G 7808        32                                                         
+ 45SC3 G WIDTHG=0.011 EV                                                        
+ 45SC  G 7985        100       (E1)                                             
+ 45SCB G BE1W=7.8E-5                                                            
+ 45SCS G WIDTHG=0.034 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8152        21                                                         
+ 45SC3 G WIDTHG=0.007 EV                                                        
+ 45SC  G 8516        44        [E1]                                             
+ 45SCB G BE1W=2.9E-5                                                            
+ 45SCS G WIDTHG=0.015 EV                                                        
+ 45SC  L 8529.8      (3/2)-            5 EV      3                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=5 EV 3$WIDTHG=0.16 EV                                           
+ 45SCF L FLAG=Z                                                                 
+ 45SC  G 6189        100       D,E2                                             
+ 45SC3 G WIDTHG=0.018 EV                                                        
+ 45SC  G 7590        28        [E1]                                             
+ 45SCB G BE1W=1.3E-5                                                            
+ 45SCS G WIDTHG=0.005 EV                                                        
+ 45SC  G 8152        33                                                         
+ 45SC3 G WIDTHG=0.006 EV                                                        
+ 45SC  G 8516        17        [E1]                                             
+ 45SCB G BE1W=5.69E-6                                                           
+ 45SCS G WIDTHG=0.003 EV                                                        
+ 45SC  L 8533.7      3/2-              10 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         1/2+,3/2,5/2+ from D,E2 |g to 5/2+ and |g to 1/2+            
+ 45SCS L WIDTHP=10 EV 5$WIDTHG=0.11 EV                                          
+ 45SCF L FLAG=Z                                                                 
+ 45SC  G 7466        40        D,E2                                             
+ 45SC3 G WIDTHG=0.021 EV                                                        
+ 45SC  G 7594        17        [E1]                                             
+ 45SCB G BE1W=2.4E-5                                                            
+ 45SCS G WIDTHG=0.009 EV                                                        
+ 45SC  G 7990        100       (E1)                                             
+ 45SCB G BE1W=0.00012                                                           
+ 45SCS G WIDTHG=0.052 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8543.8      3/2-              10 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         3/2,5/2+ from D,E2 |g's to 1/2+, 5/2-, and 5/2+. (3/2)-      
+ 45SC2cL from line-shape analysis in p res                                      
+ 45SCS L WIDTHP=10 EV 5$WIDTHG=0.32 EV                                          
+ 45SCF L FLAG=Z                                                                 
+ 45SC  G 7476        63        D,E2                                             
+ 45SC3 G WIDTHG=0.039 EV                                                        
+ 45SC  G 7604        100       (E1)                                             
+ 45SCB G BE1W=0.000165                                                          
+ 45SCS G WIDTHG=0.062 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7823        52        D,E2                                             
+ 45SC3 G WIDTHG=0.032 EV                                                        
+ 45SC  G 8000        82        D,E2                                             
+ 45SC3 G WIDTHG=0.051 EV                                                        
+ 45SC  G 8166        11                                                         
+ 45SC3 G WIDTHG=0.007 EV                                                        
+ 45SC  G 8530        10        [E1]                                             
+ 45SCB G BE1W=1.1E-5                                                            
+ 45SCS G WIDTHG=0.006 EV                                                        
+ 45SC  L 8553.2      (1/2)-            10 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=10 EV 5$WIDTHG=0.28 EV                                          
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7485        100       D,E2                                             
+ 45SC3 G WIDTHG=0.031 EV                                                        
+ 45SC  G 7613        35        [E1]                                             
+ 45SCB G BE1W=2.9E-5                                                            
+ 45SCS G WIDTHG=0.011 EV                                                        
+ 45SC  G 8176        19                                                         
+ 45SC3 G WIDTHG=0.006 EV                                                        
+ 45SC  G 8540        45        [E1]                                             
+ 45SCB G BE1W=2.63E-5                                                           
+ 45SCS G WIDTHG=0.014 EV                                                        
+ 45SC  L 8580.7      1/2-              50 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=50 EV 10$WIDTHG=0.13 EV                                         
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7513        100       D,E2                                             
+ 45SC3 G WIDTHG=0.053 EV                                                        
+ 45SC  G 7641        26        [E1]                                             
+ 45SCB G BE1W=3.7E-5                                                            
+ 45SCS G WIDTHG=0.014 EV                                                        
+ 45SC  G 8567        23        [E1]                                             
+ 45SCB G BE1W=2.2E-5                                                            
+ 45SCS G WIDTHG=0.012 EV                                                        
+ 45SC  L 8592.0      (1/2)-            15 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=15 EV 5$WIDTHG=0.12 EV                                          
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7524        60        D,E2                                             
+ 45SC3 G WIDTHG=0.018 EV                                                        
+ 45SC  G 7652        100       (E1)                                             
+ 45SCB G BE1W=7.8E-5                                                            
+ 45SCS G WIDTHG=0.030 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8215        91                                                         
+ 45SC3 G WIDTHG=0.011 EV                                                        
+ 45SC  G 8579        91        [E1]                                             
+ 45SCB G BE1W=2.2E-5                                                            
+ 45SCS G WIDTHG=0.012 EV                                                        
+ 45SC  L 8607        5/2                                                        
+ 45SCX L XREF=H                                                                 
+ 45SC cL J         |g's to 3/2-, 3/2+, 7/2-, and 7/2+                           
+ 45SC  G 7633        50                                                         
+ 45SC  G 8230        100                                                        
+ 45SC  G 8594        91                                                         
+ 45SC  G 8606        91                                                         
+ 45SC  L 8616.7      1/2-              40 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=40 EV 10$WIDTHG=0.37 EV                                         
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7313        12        (E1)                                             
+ 45SCB G BE1W=4.5E-5                                                            
+ 45SCS G WIDTHG=0.015 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8239        100                                                        
+ 45SC3 G WIDTHG=0.125 EV                                                        
+ 45SC  G 8603        36        (E1)                                             
+ 45SCB G BE1W=8.3E-5                                                            
+ 45SCS G WIDTHG=0.045 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8658.7      (1/2)-            26 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=25 EV 7$WIDTHG=0.79 EV                                          
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7591        38        D,E2                                             
+ 45SC3 G WIDTHG=0.022 EV                                                        
+ 45SC  G 7719        100       (E1)                                             
+ 45SCB G BE1W=0.00015                                                           
+ 45SCS G WIDTHG=0.058 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8665.5      (1/2)-            5 EV      3                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=5 EV 3$WIDTHG=0.23 EV$WIDTHP'=0.003 EV                          
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7725        10        [E1]                                             
+ 45SCB G BE1W=1.5E-5                                                            
+ 45SCS G WIDTHG=0.006 EV                                                        
+ 45SC  G 8288        22                                                         
+ 45SC3 G WIDTHG=0.013 EV                                                        
+ 45SC  G 8652        100       (E1)                                             
+ 45SCB G BE1W=0.00011                                                           
+ 45SCS G WIDTHG=0.059 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8675.1      (1/2)-            15 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=15 EV 5$WIDTHG=0.19 EV                                          
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7371        43        (E1)                                             
+ 45SCB G BE1W=5.3E-5                                                            
+ 45SCS G WIDTHG=0.018 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7607        79        D,E2                                             
+ 45SC3 G WIDTHG=0.033 EV                                                        
+ 45SC  G 7735        100       (E1)                                             
+ 45SCB G BE1W=0.00011                                                           
+ 45SCS G WIDTHG=0.042 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8298        33                                                         
+ 45SC3 G WIDTHG=0.014 EV                                                        
+ 45SC  G 8662        64        [E1]                                             
+ 45SCB G BE1W=4.9E-5                                                            
+ 45SCS G WIDTHG=0.027 EV                                                        
+ 45SC  L 8697.0      1/2-              36 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=35 EV 7$WIDTHG=0.51 EV$WIDTHP'=0.002 EV                         
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7629        100       D,E2                                             
+ 45SCS G WIDTHG=0.137 EV                                                        
+ 45SC  G 7757        13        (E1)                                             
+ 45SCB G BE1W=4.5E-5                                                            
+ 45SCS G WIDTHG=0.018 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8319        31        D,E2                                             
+ 45SC3 G WIDTHG=0.042 EV                                                        
+ 45SC  G 8684        61        (E1)                                             
+ 45SCB G BE1W=0.00015                                                           
+ 45SCS G WIDTHG=0.084 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8712.2      (1/2)-            15 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=15 EV 5$WIDTHG=0.46 EV$WIDTHP'=0.003 EV                         
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7408        100       (E1)                                             
+ 45SCB G BE1W=0.00028                                                           
+ 45SCS G WIDTHG=0.099 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7772        33        (E1)                                             
+ 45SCB G BE1W=8.2E-5                                                            
+ 45SCS G WIDTHG=0.033 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8335        27        D,E2                                             
+ 45SC3 G WIDTHG=0.027 EV                                                        
+ 45SC  G 8699        32        (E1)                                             
+ 45SCB G BE1W=5.7E-5                                                            
+ 45SCS G WIDTHG=0.032 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8716.6      (1/2)-            26 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=25 EV 7$WIDTHG=0.85 EV$WIDTHP'=0.005 EV                         
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7777        22        (E1)                                             
+ 45SCB G BE1W=0.00013                                                           
+ 45SCS G WIDTHG=0.051 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8339        26        D,E2                                             
+ 45SC3 G WIDTHG=0.062 EV                                                        
+ 45SC  G 8703        100       (E1)                                             
+ 45SCB G BE1W=0.000421                                                          
+ 45SCS G WIDTHG=0.237 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8736.1      1/2-              60 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=60 EV 10$WIDTHG=0.33 EV                                         
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7432        100       (E1)                                             
+ 45SCB G BE1W=0.00016                                                           
+ 45SCS G WIDTHG=0.056 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7668        30        D,E2                                             
+ 45SC3 G WIDTHG=0.017 EV                                                        
+ 45SC  G 7796        46        (E1)                                             
+ 45SCB G BE1W=6.4E-5                                                            
+ 45SCS G WIDTHG=0.026 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8359        48        D,E2                                             
+ 45SC3 G WIDTHG=0.027 EV                                                        
+ 45SC  G 8723        30        [E1]                                             
+ 45SCS G WIDTHG=0.017 EV                                                        
+ 45SCB G BE1W=3.0E-5                                                            
+ 45SC  L 8749.7      (1/2)-            11 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=10 EV 5$WIDTHG=0.91 EV$WIDTHP'=0.009 EV                         
+ 45SCF L FLAG=1                                                                 
+ 45SC  G 7446        5         (E1)                                             
+ 45SCB G BE1W=9.6E-5                                                            
+ 45SCS G WIDTHG=0.034 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7810        8         (E1)                                             
+ 45SCB G BE1W=0.00014                                                           
+ 45SCS G WIDTHG=0.058 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8736        100       (E1)                                             
+ 45SCB G BE1W=0.00124                                                           
+ 45SCS G WIDTHG=0.706 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8755.0      1/2-              100 EV    15                             
+ 45SCX L XREF=H                                                                 
+ 45SC cL $          Probable doublet                                            
+ 45SCS L WIDTHP=100 EV 15$WIDTHG=0.28 EV$WIDTHP'=0.006 EV                       
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7687        16        D,E2                                             
+ 45SC3 G WIDTHG=0.026 EV                                                        
+ 45SC  G 7815        5         [E1]                                             
+ 45SCB G BE1W=2.0E-5                                                            
+ 45SCS G WIDTHG=0.008 EV                                                        
+ 45SC  G 8377        9                                                          
+ 45SC3 G WIDTHG=0.014 EV                                                        
+ 45SC  G 8742        100       (E1)                                             
+ 45SCB G BE1W=0.000288                                                          
+ 45SCS G WIDTHG=0.164 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8766.8      1/2-              52 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=50 EV 10$WIDTHG=1.61 EV$WIDTHP'=0.021 EV                        
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7462        100       (E1)                                             
+ 45SCB G BE1W=0.000899                                                          
+ 45SCS G WIDTHG=0.319 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7699        28        D,E2                                             
+ 45SC3 G WIDTHG=0.089 EV                                                        
+ 45SC  G 7827        91        (E1)                                             
+ 45SCB G BE1W=0.000709                                                          
+ 45SCS G WIDTHG=0.290 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8389        56        D,E2                                             
+ 45SC3 G WIDTHG=0.179 EV                                                        
+ 45SC  G 8753        34        (E1)                                             
+ 45SCB G BE1W=0.000189                                                          
+ 45SCS G WIDTHG=0.108 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8794.8      1/2-              76 EV     15                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=75 EV 15$WIDTHG=0.56 EV$WIDTHP'=0.042 EV                        
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7491        100       (E1)                                             
+ 45SCB G BE1W=0.000962                                                          
+ 45SCS G WIDTHG=0.345 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7727        11        D,E2                                             
+ 45SC3 G WIDTHG=0.037 EV                                                        
+ 45SC  G 7855        4         [E1]                                             
+ 45SCB G BE1W=3.1E-5                                                            
+ 45SCS G WIDTHG=0.013 EV                                                        
+ 45SC  G 8417        3                                                          
+ 45SC3 G WIDTHG=0.012 EV                                                        
+ 45SC  G 8781        2         [E1]                                             
+ 45SCB G BE1W=1.2E-5                                                            
+ 45SCS G WIDTHG=0.007 EV                                                        
+ 45SC  L 8807.5      1/2-              35 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=35 EV 7$WIDTHG=0.32 EV$WIDTHP'=0.008 EV                         
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7503        100       (E1)                                             
+ 45SCB G BE1W=0.000333                                                          
+ 45SCS G WIDTHG=0.120 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7867        22        (E1)                                             
+ 45SCB G BE1W=6.2E-5                                                            
+ 45SCS G WIDTHG=0.026 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8794        42        (E1)                                             
+ 45SCB G BE1W=8.8E-5                                                            
+ 45SCS G WIDTHG=0.051 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8813.9      (1/2)-            21 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=20 EV 5$WIDTHG=1.38 EV$WIDTHP'=0.004 EV                         
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 8800        100       (E1)                                             
+ 45SCB G BE1W=0.00138                                                           
+ 45SCS G WIDTHG=0.805 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8824.7      (1/2)-            11 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SC cL $          Probable doublet                                            
+ 45SCS L WIDTHP=10 EV 5$WIDTHG=0.52 EV$WIDTHP'=0.038 EV                         
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7521        100       (E1)                                             
+ 45SCB G BE1W=0.00018                                                           
+ 45SCS G WIDTHG=0.067 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7757        96        D,E2                                             
+ 45SC3 G WIDTHG=0.064 EV                                                        
+ 45SC  G 7885        46        (E1)                                             
+ 45SCB G BE1W=7.4E-5                                                            
+ 45SCS G WIDTHG=0.031 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8447        40        D,E2                                             
+ 45SC3 G WIDTHG=0.027 EV                                                        
+ 45SC  G 8811        79        (E1)                                             
+ 45SCB G BE1W=9.1E-5                                                            
+ 45SCS G WIDTHG=0.053 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8838.2      1/2-              400 EV    40                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=400 EV 40$WIDTHG=0.29 EV$WIDTHP'=0.018 EV                       
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7898        100       (E1)                                             
+ 45SCB G BE1W=0.000497                                                          
+ 45SCS G WIDTHG=0.209 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8825        18        (E1)                                             
+ 45SCB G BE1W=6.3E-5                                                            
+ 45SCS G WIDTHG=0.037 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8845.0      1/2-              35 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=35 EV 7$WIDTHG=0.10 EV$WIDTHP'=0.005 EV                         
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 8467        46                                                         
+ 45SC3 G WIDTHG=0.006 EV                                                        
+ 45SC  G 8832        100       [E1]                                             
+ 45SCB G BE1W=2.21E-5                                                           
+ 45SCS G WIDTHG=0.013 EV                                                        
+ 45SC  L 8863.3      1/2-              175 EV    20                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=175 EV 20$WIDTHG=0.28 EV$WIDTHP'=0.010 EV                       
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7559        100       (E1)                                             
+ 45SCB G BE1W=0.00018                                                           
+ 45SCS G WIDTHG=0.065 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7795        48        D,E2                                             
+ 45SC3 G WIDTHG=0.031 EV                                                        
+ 45SC  G 8486        91        D,E2                                             
+ 45SC3 G WIDTHG=0.059 EV                                                        
+ 45SC  G 8850        57        (E1)                                             
+ 45SCB G BE1W=6.3E-5                                                            
+ 45SCS G WIDTHG=0.037 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8871.1      1/2-              241 EV    25                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=241 EV 25$WIDTHG=0.40 EV$WIDTHP'=0.099 EV                       
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7567        100       (E1)                                             
+ 45SCB G BE1W=0.000311                                                          
+ 45SCS G WIDTHG=0.115 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7803        30        D,E2                                             
+ 45SC3 G WIDTHG=0.035 EV                                                        
+ 45SC  G 7932        65        D,E2                                             
+ 45SCS G WIDTHG=0.075 EV                                                        
+ 45SC  G 8494        64        D,E2                                             
+ 45SC3 G WIDTHG=0.074 EV                                                        
+ 45SC  G 8858        16        [E1]                                             
+ 45SCB G BE1W=3.0E-5                                                            
+ 45SCS G WIDTHG=0.018 EV                                                        
+ 45SC  L 8886.2      1/2-              54 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=53 EV 10$WIDTHG=0.50 EV$WIDTHP'=0.267 EV                        
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7582        14        (E1)                                             
+ 45SCB G BE1W=6.4E-5                                                            
+ 45SCS G WIDTHG=0.024 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8873        100       (E1)                                             
+ 45SCB G BE1W=0.000280                                                          
+ 45SCS G WIDTHG=0.167 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8888.9      1/2-              351 EV    35                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=350 EV 25$WIDTHG=0.31 EV$WIDTHP'=0.207 EV                       
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7585        100       (E1)                                             
+ 45SCB G BE1W=0.000236                                                          
+ 45SCS G WIDTHG=0.088 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7949        94        (E1)                                             
+ 45SCB G BE1W=0.00019                                                           
+ 45SCS G WIDTHG=0.083 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8511        92        D,E2                                             
+ 45SC3 G WIDTHG=0.081 EV                                                        
+ 45SC  G 8875        10        [E1]                                             
+ 45SCB G BE1W=1.5E-5                                                            
+ 45SCS G WIDTHG=0.009 EV                                                        
+ 45SC  L 8892.2      1/2-              64 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=63 EV 10$WIDTHG=0.61 EV$WIDTHP'=0.180 EV                        
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7588        12        (E1)                                             
+ 45SCB G BE1W=4.3E-5                                                            
+ 45SCS G WIDTHG=0.016 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7824        50        D,E2                                             
+ 45SC3 G WIDTHG=0.070 EV                                                        
+ 45SC  G 7952        38        (E1)                                             
+ 45SCB G BE1W=0.00012                                                           
+ 45SCS G WIDTHG=0.053 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8515        100       D,E2                                             
+ 45SC3 G WIDTHG=0.139 EV                                                        
+ 45SC  G 8879        45        (E1)                                             
+ 45SCB G BE1W=0.00010                                                           
+ 45SCS G WIDTHG=0.062 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8908.7      1/2-              243 EV    25                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=242 EV 25$WIDTHG=0.75 EV$WIDTHP'=0.568 EV                       
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7841        12        D,E2                                             
+ 45SC3 G WIDTHG=0.038 EV                                                        
+ 45SC  G 8531        100       D,E2                                             
+ 45SC3 G WIDTHG=0.309 EV                                                        
+ 45SC  G 8895        14        (E1)                                             
+ 45SCS G WIDTHG=0.042 EV                                                        
+ 45SCB G BE1W=7.0E-5                                                            
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8917.7      1/2-              36 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SC cL $          Probable doublet                                            
+ 45SCS L WIDTHP=35 EV 7$WIDTHG=0.86 EV$WIDTHP'=0.068 EV                         
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7613        17        (E1)                                             
+ 45SCB G BE1W=0.00021                                                           
+ 45SCS G WIDTHG=0.079 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7978        11        (E1)                                             
+ 45SCB G BE1W=0.00011                                                           
+ 45SCS G WIDTHG=0.049 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8540        7         D,E2                                             
+ 45SC3 G WIDTHG=0.033 EV                                                        
+ 45SC  G 8904        100       (E1)                                             
+ 45SCB G BE1W=0.000754                                                          
+ 45SCS G WIDTHG=0.454 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8935.5      1/2-              64 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=63 EV 10$WIDTHG=0.61 EV$WIDTHP'=0.082 EV                        
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7631        39        (E1)                                             
+ 45SCB G BE1W=7.4E-5                                                            
+ 45SCS G WIDTHG=0.028 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7995        100       (E1)                                             
+ 45SCB G BE1W=0.00016                                                           
+ 45SCS G WIDTHG=0.072 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8922        7         [E1]                                             
+ 45SCB G BE1W=8.2E-6                                                            
+ 45SCS G WIDTHG=0.005 EV                                                        
+ 45SC  L 8948.2      (1/2)-            20 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=19 EV 5$WIDTHG=0.55 EV$WIDTHP'=0.150 EV                         
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7644        100       (E1)                                             
+ 45SCB G BE1W=0.000806                                                          
+ 45SCS G WIDTHG=0.307 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8571        3                                                          
+ 45SC3 G WIDTHG=0.009 EV                                                        
+ 45SC  G 8935        13        (E1)                                             
+ 45SCB G BE1W=6.6E-5                                                            
+ 45SCS G WIDTHG=0.040 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8949.4      (1/2)-            16 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=15 EV 5$WIDTHG=0.61 EV$WIDTHP'=0.220 EV                         
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7645        92        (E1)                                             
+ 45SCB G BE1W=6.0E-5                                                            
+ 45SCS G WIDTHG=0.023 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7881        68        D,E2                                             
+ 45SC3 G WIDTHG=0.017 EV                                                        
+ 45SC  G 8572        100       D,E2                                             
+ 45SC3 G WIDTHG=0.025 EV                                                        
+ 45SC  G 8936        52        [E1]                                             
+ 45SCB G BE1W=2.1E-5                                                            
+ 45SCS G WIDTHG=0.013 EV                                                        
+ 45SC  L 8961.7      1/2-              60 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=60 EV 10$WIDTHG=0.29 EV$WIDTHP'=0.066 EV                        
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 8584        35        D,E2                                             
+ 45SC3 G WIDTHG=0.064 EV                                                        
+ 45SC  G 8948        100       (E1)                                             
+ 45SCB G BE1W=0.000299                                                          
+ 45SCS G WIDTHG=0.183 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8965.8      1/2-              31 EV     7                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=30 EV 7$WIDTHG=0.81 EV$WIDTHP'=0.061 EV                         
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 8026        58        (E1)                                             
+ 45SCB G BE1W=0.000240                                                          
+ 45SCS G WIDTHG=0.106 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8588        9                                                          
+ 45SC3 G WIDTHG=0.017 EV                                                        
+ 45SC  G 8952        100       (E1)                                             
+ 45SCB G BE1W=0.000299                                                          
+ 45SCS G WIDTHG=0.183 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  L 8983.0      1/2-              49 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=48 EV 10$WIDTHG=0.55 EV$WIDTHP'=0.016 EV                        
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7679        19        (E1)                                             
+ 45SCB G BE1W=0.00011                                                           
+ 45SCS G WIDTHG=0.043 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 7915        14        D,E2                                             
+ 45SC3 G WIDTHG=0.033 EV                                                        
+ 45SC  G 8043        51        (E1)                                             
+ 45SCB G BE1W=0.000264                                                          
+ 45SCS G WIDTHG=0.117 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8605        100       D,E2                                             
+ 45SC3 G WIDTHG=0.230 EV                                                        
+ 45SC  L 8996.8      1/2-              40 EV     10                             
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=40 EV 10$WIDTHG=0.26 EV$WIDTHP'=0.024 EV                        
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 7693        20        (E1)                                             
+ 45SCB G BE1W=6.4E-5                                                            
+ 45SCS G WIDTHG=0.025 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8057        100       (E1)                                             
+ 45SCB G BE1W=0.000276                                                          
+ 45SCS G WIDTHG=0.123 EV                                                        
+ 45SCF G FLAG=D                                                                 
+ 45SC  G 8984        22                                                         
+ 45SC3 G WIDTHG=0.027 EV                                                        
+ 45SC  L 9017.5      (1/2)-            12 EV     5                              
+ 45SCX L XREF=H                                                                 
+ 45SCS L WIDTHP=11 EV 5$WIDTHG=0.38 EV$WIDTHP'=0.165 EV                         
+ 45SCF L FLAG=2                                                                 
+ 45SC  G 8077        11        [E1]                                             
+ 45SCB G BE1W=2.9E-5                                                            
+ 45SCS G WIDTHG=0.013 EV                                                        
+ 45SC  G 9004        100       (E1)                                             
+ 45SCB G BE1W=0.000193                                                          
+ 45SCS G WIDTHG=0.120 EV                                                        
+ 45SCF G FLAG=D                                                                 
+                                                                                

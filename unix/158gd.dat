@@ -1,0 +1,1228 @@
+158GD    ADOPTED LEVELS, GAMMAS                                  96NDS    199604
+158GD  H TYP=FUL$AUT=R. G. Helmer$CIT=NDS 77,471 (1996)$CUT=1-Oct-1995$         
+158GD  Q -1220.0   9 7937.33 12 8518    6 -659.9 13    1993AU05                 
+158GD cL $Some studies (1962Re04,1965Gr04,1966Iv01) suggest the existence       
+158GD2cL of isomeric levels above the 4+ level at 261 keV with T{-1/2} of 0.46  
+158GD3cL ms and possibly { 0.125 ms} and { 2 ms}. Since such isomeric levels    
+158GD4cL have not been verified and their decay modes are unknown, they         
+158GD5cL are not included here. See {+158}Gd IT decay for more                  
+158GD6cL information.                                                           
+158GD cL $The energy-level spacings in the octupole-vibrational                 
+158GD2cL bands show large deviations from the I(I+1) formula, indicating        
+158GD3cL strong band-mixing effects. 1978Gr14 have conducted a three-band       
+158GD4cL Coriolis mixing analysis including the K|p=0-, 1-, and 2- bands        
+158GD5cL which gives good agreement with experimental level energies.           
+158GD cL $Model and theory calculations that may be of interest                 
+158GD2cL include: E(level) and |b(|l): 1965So04, 1970Ne02, 1975Za05, 1983Li06,  
+158GD3cL 1984So17, 1986Ba56, 1986Ne06, 1986No12, 1990Ad03, 1990Ha22; g-factors, 
+158GD4cL |m, Q, and |D<r{+2}>: 1975Za05, 1984An04, 1984Sa16, 1985Ro21,          
+158GD5cL 1987Ne03, 1993Sa08; isomer shift for 2+ level: 1972Me24, 1973Me08;     
+158GD6cL configurations: 1984So17, 1986Ne06, 1986So09, 1990So16, 1993So20,      
+158GD7cL 1994So02; properties of 0+ states: 1973Ab06, 1993So20; B(E3)|^         
+158GD8cL strengths: 1992So22; half-lives of 2+ and 4+ of g.s. band: 1979BeZN;   
+158GD9cL and half-life of ground state for cluster (e.g., {+12}C) emission:     
+158GD0cL 1993Gu02. See (|g,|g'), (d,p), (p,t), and Coulomb excitation for model 
+158GDAcL calculation references related to those reactions.                     
+158GD cG E         From {+157}Gd(n,|g) if given there, others with depopulating 
+158GD2cG |g's are from least-squares fit to |g energies, and others are from    
+158GD3cG average of energies from reaction studies.                             
+158GD cG E         Values are from the (n,|g) reaction (1978Gr14) if given      
+158GD2cG there. More precise values are given for some |g's in one {+158}Tb |e  
+158GD3cG decay paper (1986Go25), but there is not sufficient information to     
+158GD4cG justify the precision.                                                 
+158GD cG E         The unplaced |g's are not repeated here, see the             
+158GD2cG {+157}Gd(n,|g) reaction and {+158}Eu |b{+-} decay. See the             
+158GD3cG {+157}Gd(n,|g) reaction for the primary |g's following the neutron     
+158GDxcG capture.
+158GD cG $B(E1)(W.u.) Calculated by evaluator from (|g,|g') data.               
+158GD  XA158EU B- DECAY                                                         
+158GD  XB158TB EC DECAY                                                         
+158GD  XC157GD(N,G)                                                             
+158GD  XD158GD(G,G'),158GD(E,E')                                                
+158GD  XE160GD(P,T)                                                             
+158GD  XF157GD(D,P)                                                             
+158GD  XG158GD(D,D')                                                            
+158GD  XH159TB(POL T,A)                                                         
+158GD  XICOULOMB EXCITATION                                                     
+158GD  XJ156GD(T,P)                                                             
+158GD CL BAND(A)   GROUND-STATE ROTATIONAL BAND,  A=13.33, B=-0.0128            
+158GD dL $Levels are 0+ (0), 2+ (79), 4+ (261), 6+ (538), 8+ (904),             
+158GD2dL 10+ (1350), 12+ (1866)                                                 
+158GD CL BAND(B)   KPI=1-  OCTUPOLE-VIBRATIONAL BAND                            
+158GD dL $Levels are 1- (977), 2- (1023), 3- (1041), 4- (1158),                 
+158GD2dL 5- (1176), 6- (1371), 7- (1390), 8- (), 9- (1683                       
+158GD CL BAND(C)   KPI=2+  GAMMA-VIBRATIONAL BAND, A=13.39, B=-0.053, A4=-0.0084
+158GD dL $Levels are 2+ (1187), 3+ (1265), 4+ (1358), 5+ (1481),                
+158GD2dL 6+ (1623)                                                              
+158GD CL BAND(D)   KPI=0+  B-VIBRATIONAL BAND, A=10.66, B=-0.0065               
+158GD dL $Levels are 0+ (1196), 2+ (1259), 4+ (1406), 6+ (1635),                
+158GD CL BAND(E)   KPI=0-  OCTUPOLE-VIBRATIONAL BAND, A=13.94                   
+158GD dL $Levels are 1- (1263), 3- (1402), 5- (1639?/1653)                      
+158GD CL BAND(F)   KPI=4+ band,  A=11.85                                        
+158GD dL $Levels are 4+ (1380), 5+ (1499)                                       
+158GD CL BAND(G)   KPI=0+ band,  A=10.89, B=-0.0072                             
+158GD dL $Levels are 0+ (1452), 2+ (1517), 4+ (1667)                            
+158GD CL BAND(H)   KPI=4- band, A=7.92, B=0.0027                                
+158GD dL $Levels are 4- (1636), 5- (1716), 6- (1814)                            
+158GD CL BAND(J)   KPI=0+ band, A=8.18, B=-0.013                                
+158GD dL $Levels are 0+ (1743), 2+ (1791), 4+ (1901)                            
+158GD CL BAND(Q)   KPI=2-  OCTUPOLE-VIBRATIONAL BAND, A=10.93, B=0.019          
+158GD dL $Levels are 2- (1793), 3- (1861), 4- (1953)                            
+158GD CL BAND(L)   KPI=1+ band                                                  
+158GD dL $Levels are 1+ (1847), 2+ (1894), 3+ (1941)                            
+158GD CL BAND(M)   KPI=1- band                                                  
+158GD dL $Levels are 1- (1856), 2- (1894), 3- (1977)                            
+158GD CL BAND(N)   KPI=4+ band, A=9.76                                          
+158GD dL $Levels are 4+ (1920), 5+ (2017)                                       
+158GD CL BAND(P)   KPI=1+                                                       
+158GD dL $Levels are 1+ (1930), 2+ (1964), 3+ (2033)                            
+158GD CL BAND(Q)   KPI=4-                                                       
+158GD dL $Levals are 4- (-), 5- (2176), 6- (2285), 7- (2418)                    
+158GD PN                                                                     6  
+158GD  L 0.0         0+                STABLE                               A   
+158GDX L XREF=+                                                                 
+158GD cL $<r{+2}>=26.608 {I24} fm{+2} deduced by 1983La08 from muonic-atom      
+158GD2cL K and L x-ray energies (see also the curve in 1991Ho27 and reference   
+158GD3cL cited therein). Measurements of { |D<r{+2}>} or the related parameter  
+158GD4cL |l|?{ |D<r{+2}>} are given by 1983La08, 1987Bo58, 1988Al40 (plot       
+158GD5cL only), 1990Du08, and 1990Wa25 (as well as earlier references quoted    
+158GD6cL in 1990Du08 and 1990Wa25). From 1990Du08 and 1990Wa25, respectively,   
+158GD7cL |l({+156}Gd-{+158}Gd)={ 0.150 {I5}} and { 0.130 {I7}} fm{+2} and       
+158GD8cL |l({+158}Gd-{+160}Gd)=0.156 {I5} and 0.134 {I7} fm{+2}. The Gd r{+4}   
+158GD9cL and r{+6} radial moments are also given by 1990Wa25.                   
+158GD  L 79.510    2  2+               2.52 NS   3                          A   
+158GDX L XREF=+                                                                 
+158GD2 L MOMM1=+0.762 8 $ MOME2=-2.01 4                                         
+158GD cL J         From E2 |g to 0+ g.s.                                        
+158GD cL T         Weighted average of 2.56 ns {I6} (1967Wo06), 2.59 ns         
+158GD2cL {I12} (1969Av01), and 2.34 ns {I10} (1962Bi05) from Coulomb            
+158GD3cL excitation; 2.47 ns {I10} (1966Fu03), 2.52 ns {I8} (1968Ku03), 2.58 ns 
+158GD4cL {I15} and 2.61 ns {I15} (1968Sc04) from {+158}Tb |e decay; and 2.54 ns 
+158GD5cL {I7} calculated from B(E2)|^={ 4.99 {I3}}.                             
+158GD6cL Others: 1959Bi10 and 1961Go09 values replaced by that of 1962Bi05,     
+158GD7cL 2.75 ns {I22} [calculated from T/T{-1/2}({+152}Sm)=1.93 {I15}          
+158GD8cL (1959Bi10) and T{-1/2}({+152}Sm)={ 1.426 ns {I29}}].                   
+158GD cL MOMM1     From 1989Ra17 evaluation and based on g-factor measurement   
+158GD2cL of 1988Al33 in {+158}Tb |e decay; later g-factor measurements give     
+158GD3cL |m={ 0.82 {I20}} (1991St01) and { 0.78 {I6}} (1992Br07).               
+158GD cL MOME2     From 1989Ra17 evaluation and based on data of 1983La08; other
+158GD2cL value in 1989Ra17 is -{ 1.96 {I4}}.                                    
+158GD cL $Muonic isomer shift=-235 {I70} eV (1974Ba77,1974En08) and 19          
+158GD2cL {I197} eV (1983La08). From Mossbauer measurements,                     
+158GD3cL { |D<r{+2}>}(79 keV-0)=+{ 0.0004 {I3}} fm{+2} (1967Fi08) and           
+158GD4cL |D<r{+2}>(79-0)/<r{+2}>(0)=0.000064 {I17} (1968Ga09) and 0.00006 {I3}  
+158GDxcL (1970Ru04).
+158GD  G 79.5104   14 100      E2                         6.02                  
+158GDB G BE2W=198 6                                                             
+158GD  L 261.440   7 4+                0.148 NS  2                          A   
+158GDX L XREF=ABCEFGHIJ                                                         
+158GD2 L MOMM1=+1.64 6                                                          
+158GD cL J         From E2 |g to 2+ level and expected band structure.          
+158GD cL T         Weighted average of 0.162 ns {I13} (1968Ku03), 0.20 ns       
+158GD2cL {I7} (1968Sc04), and 0.148 ns {I2} (1988Al33) from {+158}Tb |e         
+158GDxcL decay.
+158GD cL MOMM1     From 1989Ra17 evaluation and based on g-factor of 1988Al33;  
+158GD2cL later g-factor measurements give |m={ 1.56 {I12}} (1991St01) and 1.60  
+158GD3cL 12 (1992Br07).                                                         
+158GD  G 181.930    4  100     E2                        0.308                  
+158GDB G BE2W=289 5                                                             
+158GD  L 538.983   16 6+                                                    A   
+158GDX L XREF=CEFGHIJ                                                           
+158GD2 L MOMM1=2.46 24                                                          
+158GD cL J         From E2 |g to 4+ level and expected band structure.          
+158GD cL MOMM1     From g-factor={ 0.41 {I4}} (1992Br07); other: 1991St01.      
+158GD  G 277.544    7 100      E2                       0.0772                  
+158GD  L 904.4     5 8+                5.1 PS    4                          A   
+158GDX L XREF=I                                                                 
+158GD2 L MOMM1=3.4 4                                                            
+158GD cL J         From |g to 6+ level and expected band structure.             
+158GD cL T         From Coulomb excitation by Doppler-shifted line shape        
+158GD2cL (1977Ke06).                                                            
+158GD cL MOMM1     From g-factor={ 0.42 {I5}} (1992Br07).                       
+158GD  G 365.4     5  100      [E2]                     0.0335                  
+158GDB G BE2W=3.2E+2 3                                                          
+158GD  L 977.089   25 1-                                                    B   
+158GDX L XREF=ABCEGIJ                                                           
+158GD cL J         From E1 |g to 0+ ground state.                               
+158GD cL J         Components may include configuration=((|n 5/2[642])-(|n      
+158GD2cL 3/2[521])) (1978Gr14,1994So02) and configuration=((|p 5/2[532])-(|p    
+158GDxcL 3/2[411])) (1994So02).
+158GD  G 897.622   13  76    4  E1                                              
+158GD  G 977.131   13 100    5  E1                     0.00119                  
+158GD  L 1023.65   3  2-                                                    B   
+158GDX L XREF=ABCFI                                                             
+158GD cL J         From E1 |g to 2+ level, population by primary |g in (n,|g),  
+158GD2cL and proposed band structure.                                           
+158GD  G 944.09     5  100     E1                      0.00127                  
+158GD  L 1041.59   3  3-               0.54 PS   15                         B   
+158GDX L XREF=ABCEFGHIJ                                                         
+158GD cL J         From E1 |g's to 2+ and 4+ levels.                            
+158GD cL T         From Coulomb excitation by Doppler-broadened line shape      
+158GD2cL (1979McZU).                                                            
+158GD  G 780.14    4   47.2  9 E1                      0.00184                  
+158GDB G BE1W=0.00029 8                                                         
+158GD  G 962.06    4  100.0  20 E1                     0.00123                  
+158GDB G BE1W=0.00033 10                                                        
+158GD  L 1158.92    3 4-                                                    B   
+158GDX L XREF=BCF(1163)I                                                        
+158GD cL J         From E2 |g to 2- level, E1 to 4+, and expected band          
+158GDxcL structure.
+158GD  G 117.331    4 0.54   6 (E2)                      1.425                  
+158GD  G 135.258      3.0    3 E2                        0.858                  
+158GD  G 897.549   20 100    14 E1                                              
+158GD  L 1176.43   3  5-                                                    B   
+158GDX L XREF=CG(1172)H(1172)I                                                  
+158GD cL J         From E1 |g's to 4+ and 6+ levels.                            
+158GD  G 134.843    6 0.06    1                                                 
+158GD  G 637.447   20 26.7   16E1                      0.00279                  
+158GD  G 915.00     5 100     6E1                      0.00135                  
+158GD  L 1187.10   3  2+               0.61 PS   4                          C   
+158GDX L XREF=ABCEF(1190)GIJ(*1196)                                             
+158GD cL J         From E2 |g to 0+ g.s..                                       
+158GD cL J         Components may include configuration=((|n 3/2[521])+(|n      
+158GD2cL 1/2[521])) and configuration=((|n 5/2[523])-(|n 1/2[521]))             
+158GDxcL (1994So02).
+158GD cL T         Calculated from B(E2)|^={ 0.089 {I4}} and |g branching.      
+158GD  G 925.62     7  1.96  13 (E2)                   0.00326                  
+158GDB G BE2W=0.27 4                                                            
+158GD  G 1107.63    7 100    17 E2                     0.00224                  
+158GDB G BE2W=5.9 7                                                             
+158GD  G 1187.13    9  79.5  13 E2                     0.00195                  
+158GDB G BE2W=3.5 4                                                             
+158GD  L 1196.10   3 0+                                                     D   
+158GDX L XREF=ACEIJ(*1196)                                                      
+158GD cL J         From E2 |g to 2+ level, |g to 1-, and proposed band          
+158GDxcL structure.
+158GD cL J         Components may include configuration=((|n 3/2[521])-(|n      
+158GD2cL 3/2[521])) (1978Gr14,1994So02) and configuration=((|n 5/2[523])-(|n    
+158GDxcL 5/2[523])) (1994So02).
+158GD  G 219.015    6 0.083  10                                                 
+158GD  G 1116.48    5 100    6 E2                      0.00221                  
+158GD  L 1259.81   3 2+                3.6 PS    3                          D   
+158GDX L XREF=ACE(*1263)IJ(*1266)                                               
+158GD cL J         From E2 |g to 0+ g.s..                                       
+158GD cL T         Calculated from B(E2)|^={ 0.0080 {I6}} and |g branching.     
+158GD  G 218.213    4  6.9   6  E1                      0.0362                  
+158GDB G BE1W=0.000189 24                                                       
+158GD  G 236.168    5  0.56  4  [E1]                   0.0295                   
+158GDB G BE1W=1.21E-5 14                                                        
+158GD  G 282.716    6  5.1   4 E1                      0.01857                  
+158GDB G BE1W=6.4E-5 8                                                          
+158GD  G 998.36     5 100    6 E2                      0.00278                  
+158GDB G BE2W=1.39 15                                                           
+158GD  G 1180.31    9  40    3 M1                      0.00316                  
+158GDB G BM1W=0.00066 8                                                         
+158GD  G 1259.83    8  72    4 E2                      0.00174                  
+158GDB G BE2W=0.31 4                                                            
+158GD  L 1263.46   3 1-                                                     E   
+158GDX L XREF=ACDE(*1263)GIJ(*1266)                                             
+158GD cL J         From E1 |g to 0+ g.s..                                       
+158GD  G 1183.97    8 100    6  [E1]                                            
+158GD2 G BE1W=0.0041 10                                                         
+158GD cG M         Assigned E2, but that is not consistent with J|p.            
+158GD  G 1263.54    9  68     4 E1                     0.00075                  
+158GDS G KC=0.00064                                                             
+158GD2 G BE1W=0.0052 14                                                         
+158GD  L 1265.48   3 3+                                                     C   
+158GDX L XREF=ACE(*1263)FHI                                                     
+158GD cL J         From E2 |g's to 2+ and 4+ levels and expected band structure.
+158GD  G 1004.00    8 25.9   20 E2(+M1)                0.0037 10                
+158GD cG RI        From {+157}Gd(n,|g); other: 16 {I5} from {+158}Eu |b{+-}     
+158GDxcG decay.
+158GD  G 1185.99    8 100    6 E2                      0.00196                  
+158GD  L 1350.5    7  10+              1.85 PS   15                         A   
+158GDX L XREF=I                                                                 
+158GD2 L MOMM1=3.2 4                                                            
+158GD cL J         From |g to 8+ level and expected band structure.             
+158GD cL T         From Coulomb excitation by Doppler-shifted line shape        
+158GD2cL (1977Ke06).                                                            
+158GD cL MOMM1     From g-factor(10+)/g-factor(2+)={ 0.83 {I11}} from 1989Ra17  
+158GD2cL evaluation and g-factor(2+)={ 0.381 {I4}}.                             
+158GD  G 446.1     5  100      [E2]                    0.01905                  
+158GDB G BE2W=3.3E+2 3                                                          
+158GD  L 1358.42   3 4+                                                     C   
+158GDX L XREF=CEFGIJ                                                            
+158GD cL J         From E2 |g's to 2+ and 4+ levels and expected band structure.
+158GD  G 171.322    4 0.14    1                                                 
+158GD  G 819.53     5 5.9    LT                                             &   
+158GD  G 1097.01    5 100     6 E2                     0.00229                  
+158GD  G 1278.92    7  32.5  21 E2                     0.00169                  
+158GD  L 1371.89   3 6-                                                     B   
+158GDX L XREF=CI                                                                
+158GD cL J         From E2 |g to 4- level and expected band structure.          
+158GD  G 195.454    5  9.0   7                                                  
+158GD  G 212.972    4  100   7  E2                      0.1819                  
+158GD  G 832.86     5  277   LE                                             &   
+158GD  L 1380.57   3 4+                                                     F   
+158GDX L XREF=CFH(1385)                                                         
+158GD cL J         From E2 |g's to 2+ and 4+ levels and proposed band structure.
+158GD cL J         Major component is configuration=((|p 3/2[411])+(|p          
+158GD2cL 5/2[413])) from (pol t,|a) (1981Bu10) and model calculations           
+158GD3cL (1984So17,1986Ne06,1990So16,1994So02) with minor component of          
+158GD4cL configuration=((|n 5/2[523])+(|n 3/2[521])) suggested in               
+158GD5cL calculations (1986Ne06,1990So16,1994So02).                             
+158GD  G 1119.16    6 100     6E2                      0.00220                  
+158GD  G 1300.85   12  20.5  18E2                      0.00163                  
+158GD  L 1391.        7-                                                    B   
+158GDX L XREF=I                                                                 
+158GD cL J         From |g's to 6+ and 8+ levels and expected band structure.   
+158GD  G  486.                                                                  
+158GD  G  852.                                                                  
+158GD  L 1402.86   3 3-                                                     E   
+158GDX L XREF=ACGI                                                              
+158GD2 L BE3=0.023 (1967BL05)                                                   
+158GD cL J         From E1 |g's to 2+ and 4+ levels.                            
+158GD  G 139.4289  30 0.07    1                                                ?
+158GD  G 143.060    6 0.04    1                                                 
+158GD  G 1141.44    5 85     5 E1                      0.00089                  
+158GD  G 1323.39    5 100    6 E1                      0.00069                  
+158GD  L 1406.64   3 4+                                                     D   
+158GDX L XREF=CI                                                                
+158GD cL J         From E2 |g's to 2+ and 6+ levels                             
+158GD  G 141.177   10   0.05  2                                                 
+158GD  G 146.826    5   0.57  6                                                 
+158GD  G 219.539    7   0.12  2                                                 
+158GD  G 230.225    6   6.6   5                                                 
+158GD  G 247.707    5   0.33  2                                                 
+158GD  G 365.050    8  19.9  12E1                      0.00984                  
+158GD  G 867.72     5  28.5  17E2                      0.00375                  
+158GD  G 1145.22   11  27    4 E2                      0.00210                  
+158GD  G 1327.14    8  100   6 E2                      0.00157                  
+158GD  L 1414                                                                   
+158GDX L XREF=FJ                                                                
+158GD  L 1440      5                                                            
+158GDX L XREF=F                                                                 
+158GD  L 1452.30   4 0+                                                     G   
+158GDX L XREF=ACEG(1449)J(1461)                                                 
+158GD cL J         From L=0 in (p,t) and E0 |g to 0+ level.                     
+158GD cL J         Components may include configuration=((|p 5/2[413])-(|p      
+158GD2cL 5/2[413])) configuration=((|n 3/2[521])-(|n 3/2[521]))                 
+158GDxcL (1984So17,1994So02).
+158GD  G 188.838    4   1.92 15(E1)                     0.0531                  
+158GD  G 475.201   15   2.94 23E1                      0.00529                  
+158GD  G 1372.90   14  100   10E2                      0.00147                  
+158GD  G 1452.31   20          E0                               0.30       3    
+158GD cG TI        from ce(K)=0.14 {I1} in (n,|g) (1978Gr14) and L/K=0.136      
+158GDxcG (1969Ha61)
+158GD  L 1481.37   4 5+                                                     C   
+158GDX L XREF=CH(*1493)I                                                        
+158GD cL J         From E2 |g's to 4+ and 6+ and expected                       
+158GD2cL band structure.                                                        
+158GD  G 100.783    4   0.19  4                                                ?
+158GD  G 122.939   10   0.08  3                                                 
+158GD  G 215.890    4   0.75 4                                                  
+158GD  G 942.31     7   22   3  M1,E2                  0.00314                  
+158GD  G 1219.87    8  100   6 E2                      0.00185                  
+158GD  L 1499.04   4 5+                                                     F   
+158GDX L XREF=CF(1503)H(*1493)                                                  
+158GD cL J         From E2(+M1) |g to 4+ level, |g to 6+, and expected band     
+158GD2cL structure.                                                             
+158GD  G 118.460   10   0.26  7                                                 
+158GD  G 960.00     7   26    3                                                 
+158GD  G 1237.52    9  100   5 E2(+M1)                 0.0023  5                
+158GD  L 1517.40   4 2+                1.39 PS   15                         G   
+158GDX L XREF=ACEGIJ                                                            
+158GD cL J         From E2 |g to 0+ g.s..                                       
+158GD cL T         Calculated from B(E2)|^={ 0.0093 {I9}} and |g branching.     
+158GD  G 114.540    4   0.50  7 [E1]                   0.2034                   
+158GDB G BE1W=0.00024 5                                                         
+158GD  G 158.980   20   0.07  2 [E2]                   0.0489                   
+158GDB G BE2W=24 8                                                              
+158GD  G 251.919    5   0.47  3 [M1,E2]                0.09   7                 
+158GD  G 253.943    5   3.37 23  E1                    0.0244                   
+158GDB G BE1W=0.000148 20                                                       
+158GD  G 330.264   15   0.09  1 [M1,E2]                0.04   3                 
+158GD  G 475.839   13   5.6  4  E1                     0.00529                  
+158GDB G BE1W=3.7E-5 5                                                          
+158GD  G 493.776   20   1.03  8 [E1]                   0.00485                  
+158GDB G BE1W=6.2E-6 9                                                          
+158GD  G 540.33    20   0.58 35 [E1]                   0.00399                  
+158GDB G BE1W=2.7E-6 17                                                         
+158GD  G 1255.98   10  33.7  23 E2                     0.00175                  
+158GDB G BE2W=0.37 5                                                            
+158GD  G 1437.89   12  100   6 E0+M1+E2  -1.6    15    0.0066 7                 
+158GDB G BM1W=0.0006 +9-6 $ BE2W=0.41 22                                        
+158GD cG CC        Measured value.                                              
+158GD  G 1517.44   11  85    6 E2                      0.0012                   
+158GDB G BE2W=0.37 4                                                            
+158GD  L 1554      7                                                            
+158GDX L XREF=J                                                                 
+158GD  L 1623         6+                                                    C   
+158GDX L XREF=I                                                                 
+158GD cL J         From |g's to 4+ and 6+ levels and expected band structure.   
+158GD  G 1084                                                                  ?
+158GD  G 1362                                                                   
+158GD  L 1635         6+                                                    D   
+158GDX L XREF=IJ(*1634)                                                         
+158GD cL J         From |g's to 4+ and 6+ levels and expected band structure.   
+158GD  G 1096                                                                  ?
+158GD  G 1374                                                                   
+158GD  L 1636.23   4 4-                                                     H   
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g's to 4+ and 5+ levels and |g to 3+.               
+158GD cL J         A component is configuration=((|p 5/2[532])+(|p 3/2[411]))   
+158GD2cL from (pol t,|a) (1981Bu10); model calculations (1990So16,1994So02)     
+158GD3cL suggest this is a minor component, with the major component of         
+158GD4cL configuration={ ((|n 3/2[521])}+{ (|n 5/2[642]))}.                     
+158GD  G 137.1905  25   1.84 24                                                 
+158GD  G 154.869    4   4.3   4 E1                     0.0902                   
+158GD  G 229.590    5   0.34  3                                                 
+158GD  G 255.663    5  100    8 E1                     0.02401                  
+158GD  G 277.824    7   5.1   4                                                 
+158GD  G 370.72     4   0.11  3                                                 
+158GD  L 1639.27   11 (5-)                                                  E  ?
+158GDX L XREF=CJ(*1634)                                                         
+158GD cL J         From (E1) |g to 4+ level and |g to 6+.                       
+158GD  G 1100.25   13   33    5                                                 
+158GD  G 1377.85   12  100   8 (E1)                    0.00064                  
+158GD  L 1653                                                                  ?
+158GDX L XREF=I                                                                 
+158GD  G 1392         100                                                      ?
+158GD  L 1667.29    4(4)+                                                   G   
+158GD cL J         From E1 |g to 3- level and |g's to 2+ and 6+.                
+158GDX L XREF=CE                                                                
+158GD  G 149.902    9  0.17   4                                                 
+158GD  G 264.421    5  1.83  11 E1                                              
+158GD  G 490.846   20  2.51  23                                                 
+158GD  G 625.77     6  1.6    3                                                 
+158GD  G 1129.16       48    LT                                                 
+158GD  G 1405.86   15  70    LT                                                 
+158GD  G 1588.15   15  100   LT                                                 
+158GD  L 1685         9-                                                    B   
+158GDX L XREF=I                                                                 
+158GD cL J         From |g to 8+ level and expected band structure.             
+158GD  G  780.        100                                                       
+158GD  L 1716.74   4 5-                                                     H   
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g's to 4+ and 5+ levels and expected band structure.
+158GD  G 217.695    4  33.0  21 E1                      0.0364                  
+158GD  G 235.371    5  61     4 E1                      0.0297                  
+158GD  G 310.09    3    0.36 13                                                 
+158GD  G 336.155    7 100     7 E1                     0.01204                  
+158GD  G 358.323    9   7.0   5                                                 
+158GD  L 1743.08   4 0+                                                     J   
+158GDX L XREF=CFJ(1750)                                                         
+158GD cL J         From E1 |g to 1- level and L=0 in (t,p).                     
+158GD cL J         A component in this band is configuration=((|p 3/2[411])-(|p 
+158GD2cL 3/2[411])) from (pol t,|a) (1981Bu10) and model calculations an        
+158GD3cL additional component is configuration=((|n 3/2[521])-(|n 3/2[521]))    
+158GDxcL (1984So17,1994So02).
+158GD  G 225.651    6   0.66  7                                                ?
+158GD  G 479.615   13  28.3  17 E1                     0.00518                  
+158GD  G 1663.71   20 100    10                                                 
+158GD  L 1791.70   4 2+                                                     J   
+158GDX L XREF=CH(1795)                                                          
+158GD cL J         From E1 |g's to 1- and 3- levels and comparison of measured  
+158GD2cL and calculated cross sections in (pol t,|a).                           
+158GD  G 385.068   25   0.48  9                                                 
+158GD  G 388.813   15   9.0  6 E1                      0.00846                  
+158GD  G 528.212   17  32    3 E1                      0.00420                  
+158GD  G 531.887   17   7.4  5 M1                      0.02216                  
+158GD  G 750.13    3  100    6 (E1)                    0.00200                  
+158GD  G 768.06     5  25    4                                                  
+158GD  G 814.62     4  76    5 E1                      0.00169                  
+158GD  G 1530.07   15  93    6 (E2)                    0.0011                   
+158GD  G 1712.7    6   45    9                                                  
+158GD  L 1793.51   4 2-                                                     Q   
+158GDX L XREF=AC                                                                
+158GD cL J         From E1 |g's to 2+ and 3+ levels and |g to 0+ g.s..          
+158GD cL J         Components may include configuration=((|p 7/2[523])-(|p      
+158GD2cL 3/2[411])) (1994So02).                                                 
+158GD  G 528.022   17  38.8  23E1                      0.00420                  
+158GD  G 606.425   20  100   5 E1                      0.00311                  
+158GD  G 634.75     5   1.25 LT                                                ?
+158GD  G 751.88     4   5.6  4 M1(+E2)                 0.0073 21                
+158GD cG RI        From {+157}Gd(n,|g); other: 7.1 {I11} from {+158}Eu |b{+-}   
+158GDxcG decay.
+158GD  G 769.85     4  16.1  11 E2                     0.00490                  
+158GD  G 816.39     4  9.2   6                                                  
+158GD cG RI        From {+158}Eu |b{+-} decay; other: 24.5 {I15} from           
+158GD2cG {+157}Gd(n,|g) which suggests latter is a multiplet.                   
+158GD  G 1531.4     5  1.5    3                                                 
+158GD  G 1712.7        4.6   5                                                  
+158GD cG RI        From {+158}Eu |b{+-} decay; other: 22 {I4} from              
+158GD2cG {+157}Gd(n,|g) which suggests latter is a multiplet.                   
+158GD  G 1793.5    15  0.38  15                                                 
+158GD  L 1814.07   4 6-                                                     H   
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g to 5+ and expected band structure.                
+158GD  G 97.3538   25  43     8                                                 
+158GD  G 177.838   10   5.2  18                                                 
+158GD  G 315.032    8   53    4  E1                    0.0141                   
+158GD  G 332.695    8   100  8 E1                      0.01235                  
+158GDS G KC=0.01051   $LC=0.00144   $MC=0.00031                                 
+158GD  L 1819                                                                   
+158GDX L XREF=F                                                                 
+158GD  L 1847.74   6 1+                                                     L   
+158GDX L XREF=AC                                                                
+158GD cL J         From E1 |g to 2- level, |g to 1-, and proposed band          
+158GDxcL structure.
+158GD cL J         Probable components are configuration=((|n 5/2[523])-(|n     
+158GD2cL 3/2[521])) and configuration=((|p 5/2[413])-(|p 3/2[411])) (1978Gr14)  
+158GD3cL and model calculations suggest latter is the major component           
+158GDxcL (1994So02).
+158GD  G 584.37     4   1.24 14                                                ?
+158GD  G 824.09     4  100   5 E1                      0.00165                  
+158GDS G KC=0.00141   $LC=0.00019                                               
+158GD  G 870.86     5   98   12                                                 
+158GD  G 1768.5    5    3.0  7                                                  
+158GD  L 1856.36   5 1-                                                     M   
+158GDX L XREF=CF(1854)J(*1860)                                                  
+158GD cL J         From E1 |g to 2+ level, M1 to 1-, |g to 0+, and proposed band
+158GD2cL structure.                                                             
+158GD cL CONF      Several possible configurations are suggested in 1978Gr14 and
+158GD2cL model calculations suggest configuration=((|n 5/2[642])-(|n            
+158GD3cL 3/2[521])) and configuration=((|p 5/2[532])-(|p 3/2[411]))             
+158GDxcL (1994So02).
+158GD  G 453.66     4   0.66 20                                                ?
+158GD  G 592.884   20   9.8  5 M1                      0.01686                  
+158GDS G KC=0.01425   $LC=0.00196                                               
+158GD  G 669.27     4   13.0 13E1                      0.00252                  
+158GDS G KC=0.00214   $LC=0.00028                                               
+158GD  G 832.86     5   14.6 LT (M1,E2)                0.00411              &   
+158GDS G KC=0.00342   $LC=0.00052                                               
+158GD  G 879.29     5  66    4 M1                      0.00639                  
+158GDS G KC=0.00541   $LC=0.00074                                               
+158GD  G 1857.0     4  100   11                                                 
+158GD  L 1861.21   4 3-                                                     Q   
+158GDX L XREF=CG(1856)J(*1860)                                                  
+158GD cL J         From E1 |g's to 2+ and 4+ levels.                            
+158GD  G 502.771   14  59    4 E1                      0.00469                  
+158GDS G KC=0.00398   $LC=0.00053                                               
+158GD  G 595.742   20  74    4 E1                      0.00323                  
+158GDS G KC=0.00274   $LC=0.00037                                               
+158GD  G 674.130   25  68    4 E1                      0.00248                  
+158GDS G KC=0.00211   $LC=0.00028                                               
+158GD  G 702.35     5  5.8   5 M1(+E2)                 0.0086 25                
+158GD  G 819.53     5  42    LT                                             &   
+158GD  G 884.15     5  27.8  22 E2                     0.00360                  
+158GDS G KC=0.00300   $LC=0.00045                                               
+158GD  G 1782.0     5  100   15                                                 
+158GD  L 1866.7    9  12+              0.98 PS   8                          A   
+158GDX L XREF=I                                                                 
+158GD cL J         From |g to 10+ level and expected band structure.            
+158GD cL T         From Coulomb excitation by Doppler-shifted line shape        
+158GD2cL (1977Ke06).                                                            
+158GD  G 516.2     5   100     [E2]                    0.01297                  
+158GDS G KC=0.01050   $LC=0.00186                                               
+158GDB G BE2W=3.1E+2 3                                                          
+158GD  L 1894.39   12 (2+)                                                  L   
+158GDX L XREF=AC                                                                
+158GD cL J         From proposed populated in thermal and average-resonance     
+158GD2cL (n,|g) and expected band structure. The deexciting |g's are            
+158GD3cL multiply placed or questionable.                                       
+158GD  G 491.526   20   2.8   4                                                ?
+158GD  G 628.99     4   1.9  LT                                             &   
+158GD  G 630.90     6   2.4   9                                                ?
+158GD  G 852.86     4  58.8  LT                                                 
+158GD cG RI        I|g(852):I|g(870):I|g(917):I|g(1815)=100 {I7}:61 {I7}:70     
+158GD2cG {I10}:9.1 {I23} from {+158}Eu |b{+-} decay                             
+158GD  G 870.86     5  100   LT                                                 
+158GD cG RI        I|g(852):I|g(870):I|g(917):I|g(1815)=100 {I7}:61 {I7}:70     
+158GD2cG {I10}:9.1 {I23} from {+158}Eu |b{+-} decay                             
+158GD  G 917.47     5  76    LT                                             &   
+158GD cG RI        I|g(852):I|g(870):I|g(917):I|g(1815)=100 {I7}:61 {I7}:70     
+158GD2cG {I10}:9.1 {I23} {+158}Eu |b{+-} decay                                  
+158GD  G 1815.1     5  27    LT                                                 
+158GD cG RI        I|g(852):I|g(870):I|g(917):I|g(1815)=100 {I7}:61 {I7}:70     
+158GD2cG {I10}:9.1 {I23} from {+158}Eu |b{+-} decay                             
+158GD  L 1894.54   5 2-                                                     M   
+158GDX L XREF=CF(*1900)                                                         
+158GD cL J         From E1 |g to 2+ level and expected band structure.          
+158GD  G 101.0387  25   0.51  7                                                 
+158GD  G 491.697   25   2.2   3 (M1,E2)                0.0146                   
+158GD  G 631.051   25   8.4   5 (E2)                   0.00781                  
+158GD  G 707.53    3   16.9  10 E1                     0.00225                  
+158GD  G 852.86     4  59    LT                                                 
+158GD cG RI        I|g(852|g):I|g(870|g):I|g(917|g):I|g(1815|g)=100 {I7}:61     
+158GD2cG {I7}:70 {I10}:9.1 {I23} from {+158}Eu |b{+-} decay                     
+158GD  G 870.86     5  100   LT                                                 
+158GD cG RI        I|g(852|g):I|g(870|g):I|g(917|g):I|g(1815|g)=100 {I7}:61     
+158GD2cG {I7}:70 {I10}:9.1 {I23} from {+158}Eu |b{+-} decay                     
+158GD  G 917.47     5  76    LT                                             &   
+158GD cG RI        I|g(852|g):I|g(870|g):I|g(917|g):I|g(1815|g)=100 {I7}:61     
+158GD2cG {I7}:70 {I10}:9.1 {I23} from {+158}Eu |b{+-} decay                     
+158GD  G 1815.1     5  27    LT                                                 
+158GD cG RI        I|g(852|g):I|g(870|g):I|g(917|g):I|g(1815|g)=100 {I7}:61     
+158GD2cG {I7}:70 {I10}:9.1 {I23} from {+158}Eu |b{+-} decay                     
+158GD  L 1901.50   5 4+                                                     J   
+158GDX L XREF=CF(*1900)H(1904)                                                  
+158GD cL J         From E1 |g to 3- level, |g to 5-, and expected band          
+158GDxcL structure.
+158GD  G 498.645   15  21.8  12E1                      0.00475                  
+158GDS G KC=0.00405   $LC=0.00055   $MC=0.00012                                 
+158GD  G 725.08     8   6.5   9                                                 
+158GD  G 859.82     6  61     5(E1)                    0.00152                  
+158GDS G KC=0.00130   $LC=0.00017                                               
+158GD  G 1639.9     5  100   18                                                 
+158GD  L 1916.86    5 (4,5,6)-                                                  
+158GDX L XREF=CJ(1912)                                                          
+158GD cL J         From E1 |g's to 5+ levels.                                   
+158GD  G 200.111    5  29.2  22E2,M1                   0.18   13                
+158GD  G 280.643    6  14.7  10 E2                     0.0745                   
+158GD  G 417.828   10   55   3 E1                      0.0071                   
+158GD  G 435.500   11  100    6 E1                     0.00647                  
+158GD  L 1920.19   5 4+                                                     N   
+158GDX L XREF=CF(*1926)                                                         
+158GD cL J         From E1 |g to 5- level and |g's to 2+ and 6+.                
+158GD cL J         Major component is configuration=((|n 5/2[523])+(|n          
+158GD2cL 3/2[521])) from model calculations with minor component of             
+158GD3cL configuration=((|p 3/2[411])+(|p 5/2[413]))                            
+158GDxcL (1984So17,1986Ne06,1990So16,1994So02).
+158GD  G 203.460    9   0.41  4                                                 
+158GD  G 283.955    6   2.75 20 E1                     0.01836                  
+158GDS G KC=0.01560   $LC=0.00216   $MC=0.00046   $NC+=0.00013                  
+158GD  G 421.151   11   3.10 22 M1                      0.0400                  
+158GDS G KC= 0.0339   $LC=0.00474   $MC=0.00102   $NC+=0.00028                  
+158GD  G 438.810   12   6.0  5 E2+M1                   0.028   8                
+158GD  G 539.601   17  100   5 M1                      0.02137                  
+158GDS G KC=0.01805   $LC=0.00250                                               
+158GD  G 561.75     4   6.8   8 E2(+M1)                0.012  8                 
+158GD  G 654.65     8   1.4   3                                                 
+158GD  G 733.13     9   3.3   5                                                 
+158GD  G 1381.1     6   18    8                                                 
+158GD  G 1657.9     7   33    8                                                 
+158GD  L 1930.12   5  1+                                                    P   
+158GDX L XREF=ACF(*1926)H                                                       
+158GD cL J         From E1 to 2- and proposed band structure.                   
+158GD cL J         Probable components are configuration=((|p 5/2[413])-(|p     
+158GD2cL 3/2[411])) and configuration=((|n 5/2[523])-(|n 3/2[521])) (1978Gr14)  
+158GD3cL and model calculations suggest the latter is the major component       
+158GDxcL (1994So02).
+158GD  G 743.055   30  100   5 M1                      0.00963                  
+158GDS G KC=0.00814   $LC=0.00112                                               
+158GD  G 906.46     5  44    3 E1                      0.00138                  
+158GDS G KC=0.00117   $LC=0.00015                                               
+158GD  G 952.93     6  51    4 (E1)                    0.00125                  
+158GDS G KC=0.00107   $LC=0.00014                                               
+158GD  G 1850.3    4    4.2  8                                                  
+158GD  G 1930.2    6    1.25 25                                                 
+158GD  L 1941.18   5 3+                                                     L   
+158GDX L XREF=CJ                                                                
+158GD cL J         From E1 |g to 4-, (E1) to 2-, and expected band structure.   
+158GD  G 782.28     4 100    6 E1                      0.00183                  
+158GDS G KC=0.00156   $LC=0.00021                                               
+158GD  G 899.66     9  25    5                                                  
+158GD  G 917.47     5 217    LT                                             &   
+158GDS G KC=0.00114   $LC=0.00015                                               
+158GD  L 1948                                                                   
+158GDX L XREF=F                                                                 
+158GD  L 1952.34   5 (0)+                                                       
+158GDX L XREF=CJ(*1954)                                                         
+158GD cL J         From E1 |g to 1- level, |g to 2+, population in              
+158GD2cL average-resonance capture, and proposed band structure.                
+158GD  G 160.648    6  0.12   3                                                ?
+158GD  G 434.89    11  0.35  18                                                ?
+158GD  G 688.831   25  100    6 E1                     0.00238                  
+158GD  G 765.32     5   11.8  9                                                 
+158GD  G 975.40     8   41    5                                                 
+158GD  L 1953.64   6  4-                                                    Q   
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g to 3+ level, |g (multiply placed) to 5+, and      
+158GD2cL expected band structure.                                               
+158GD  G 472.36    3   3.5   LT                                             &   
+158GD  G 595.09     7  3.1    6                                                 
+158GD  G 688.23     5  16.8  20E1                      0.00238                  
+158GDS G KC=0.00202   $LC=0.00027                                               
+158GD  G 794.70     7  12.4  LT                                             &   
+158GD  G 1691.6     7  100   12                                                 
+158GD  L 1957.8    8 (0+)                                                      ?
+158GDX L XREF=CJ(*1954)                                                         
+158GD cL J         From |g to 2+ level and population in average-resonance      
+158GD2cL capture.                                                               
+158GD  G 1878.3     7  100                                                      
+158GD  L 1964.04   5 2+                                                     P   
+158GDX L XREF=ACH                                                               
+158GD cL J         From E1 |g to 1- level, |g to 0+, and M1+E2 |g to 3+.        
+158GD  G 698.578   25  63    4 E2+M1                   0.0087 25                
+158GD  G 776.95     5  46    4 M1                      0.00863                  
+158GDS G KC=0.00730   $LC=0.00100                                               
+158GD  G 922.50     5  100   11 (E1)                   0.00133                  
+158GDS G KC=0.00113   $LC=0.00015                                               
+158GD  G 940.28    14   20    6                                                 
+158GD cG RI        From {+158}Eu |b{+-} decay; other: 31 {I16} from             
+158GDxcG {+157}Gd(n,|g).
+158GD  G 986.84     6   87   6 E1                      0.00117                  
+158GDS G KC=0.00100   $LC=0.00013                                               
+158GD  G 1702.8    2     8.3 11                                                 
+158GD  G 1883.0    11   76   4                                                 ?
+158GD  G 1964.2    3     8.2 9                                                  
+158GD  L 1971         (0+)                                                      
+158GDX L XREF=J                                                                 
+158GD cL J         From L=(0) in (t,p).                                         
+158GD  L 1977.96   5  3-                                                    M   
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g's to 2+ and 4+ levels.                            
+158GD  G 116.754    4   1.12 16                                                 
+158GD  G 184.485   13   0.12  5                                                 
+158GD  G 619.500   25   12.4 8 E1                      0.00297                  
+158GDS G KC=0.00252   $LC=0.00034                                               
+158GD  G 712.50     5   13.6 12                                                 
+158GD  G 714.46    15   2.5   8                                                 
+158GD  G 790.86     4   33   3 E1                      0.00180                  
+158GDS G KC=0.00153   $LC=0.00020                                               
+158GD  G 936.27     6   37    3                                                 
+158GDS G KC=0.00266   $LC=0.00039                                               
+158GD  G 954.28     6   71   5 (E2)                    0.00305                  
+158GDS G KC=0.00256   $LC=0.00037                                               
+158GD  G 1000.78    7  100   7 E2                      0.00276                  
+158GDS G KC=0.00232   $LC=0.00034                                               
+158GD  L 1997                                                                   
+158GDX L XREF=F                                                                 
+158GD  L 2017.80   5 (5+)                                                   N   
+158GD cL J         From M1 |g to 5+ level and |g's to 4- and 6-.                
+158GDX L XREF=C                                                                 
+158GD  G 203.711   14   1.6   6                                                 
+158GD  G 301.114   20   8.0  15                                                 
+158GD  G 381.568   17   7.6   8                                                 
+158GD  G 518.78     6   70   20 M1                     0.023                    
+158GD  G 637.22     5   100  35                                                 
+158GD  L 2023.70    5                                                           
+158GDX L XREF=ACF                                                               
+158GD cL J         Assigned 1+ in (n,|g), but assigned multipolarities give E1  
+158GD2cL |g to 0+ level and E2 to 2+ which are inconsistent.                    
+158GD  G 231.981   13   0.06  2                                                 
+158GD  G 571.78    3    3.7  LT                                             &   
+158GD2 G FL=1452.30                                                             
+158GD  G 763.95    4    16.5 10 E2                     0.00499                  
+158GDS G KC=0.00414   $LC=0.00064                                               
+158GD cG RI        From {+157}Gd(n,|g); other: 39 {I3} from {+158}Eu |b{+-}     
+158GDxcG decay.
+158GD  G 827.75    5  11.4   10 E1                                              
+158GD cG RI        From {+157}Gd(n,|g); other: 23.9 {I24} from {+158}Eu |b{+-}  
+158GDxcG decay.
+158GD  G 1943.4     5  100   12                                                 
+158GD  G 2023.8     6   65   10                                                 
+158GD cG RI        From {+157}Gd(n,|g); other: 57 {I3} from {+158}Eu |b{+-}     
+158GDxcG decay.
+158GD  L 2033.85   5 3+                                                     P   
+158GDX L XREF=CH                                                                
+158GD cL J         From E1 |g's to 2- and 4- levels.                            
+158GD  G 675.428   25  36.4  22 M1+E2                                           
+158GD  G 768.40     5  72    9  M1                     0.00887                  
+158GDS G KC=0.00750   $LC=0.00103                                               
+158GD  G 846.78     5  14.5  10E2+M1                   0.0055 16                
+158GD  G 874.97     4  79    5 E1                      0.00147                  
+158GDS G KC=0.00125   $LC=0.00016                                               
+158GD  G 1010.16    5  100   5 E1                      0.00112                  
+158GDS G KC=0.00096   $LC=0.00012                                               
+158GD  L 2035.44   22(2+)                                                       
+158GDX L XREF=CJ(*2039)                                                         
+158GD cL J         From |g to 2+ level and population in                        
+158GD2cL average-resonance capture.                                             
+158GD  G 628.99     4   2.4  LT                                             &   
+158GD  G 775.63    20   0.7  4                                                  
+158GD  G 1774.76    3   47    5                                                ?
+158GD2 G FL=261.440                                                             
+158GD  G 1955.9     6  100   10                                                 
+158GD  L 2041                                                                   
+158GDX L XREF=FJ(*2039)                                                         
+158GD  L 2048.92   5  2-                                                        
+158GDX L XREF=C                                                                 
+158GD cL J         From M1 |g's to 1- and 3- levels.                            
+158GD  G 646.062   25  26.9  17M1                      0.01360                  
+158GDS G KC=0.01150   $LC=0.00158                                               
+158GD  G 785.46     4  64    4 M1                      0.00840                  
+158GDS G KC=0.00711   $LC=0.00097                                               
+158GD  G 1007.25    7  100   7 M1                      0.00461                  
+158GDS G KC=0.00391   $LC=0.00053                                               
+158GD  G 1025.29    7  52    4 M1                      0.00442                  
+158GDS G KC=0.00375   $LC=0.00051                                               
+158GD  L 2063                                                                   
+158GDX L XREF=F                                                                 
+158GD  L 2083.55   5 2+                                                         
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g to 3- level, |g to 1-, and population in          
+158GD2cL average-resonance capture.                                             
+158GD  G 680.700   25  59     4 E1                                              
+158GD  G 820.05     4  100    6                                                 
+158GD  L 2089.17   5  2+                                                        
+158GD cL J         From E1 |g's to 2- and 3- levels and |g to 1-.               
+158GDX L XREF=CH                                                                
+158GD  G 227.965    7  1.36  14                                                 
+158GD  G 295.667    7  6.7   5  E1                     0.018                    
+158GD  G 571.78    3   12.7  LT                                             &   
+158GD2 G FL=1517.40                                                             
+158GD  G 686.34     4  25.2  20 E1                     0.00239                  
+158GDS G KC=0.00203   $LC=0.00027                                               
+158GD  G 825.67    10  22     5                                                 
+158GD  G 829.36     8  19.7  20                                                 
+158GD  G 902.04     6 100    10                                                 
+158GD  G 1047.36   13  37     4                                                ?
+158GD  G 1111.82   20  38    10                                                ?
+158GD  L 2096         (4+)                                                      
+158GDX L XREF=FH(2090)J                                                         
+158GD cL J         From comparison of measured and calculated cross sections    
+158GD2cL in (pol t,|a).                                                         
+158GD  L 2120.15    7                                                           
+158GDX L XREF=CH(2117)                                                          
+158GD  G 602.67    11  0.74  26                                                ?
+158GD  G 713.49     5  8.7    8                                                 
+158GD  G 860.37     6  16.6  21 E1                     0.00152                  
+158GD cG M         Assignment is inconsistent with J|p assignment in            
+158GDxcG {+157}Gd(n,|g).
+158GD  G 2040.6     6  100   16                                                 
+158GD  L 2134                                                                   
+158GDX L XREF=J                                                                 
+158GD  L 2153.10   5   (2,3)+                                                   
+158GD cL J         From E1 |g to 3- level and |g's to 2+ and 4+.                
+158GDX L XREF=CF                                                                
+158GD  G 291.886    7  2.62  16 E1                     0.018                    
+158GD  G 359.589   10  3.8    3                                                 
+158GD  G 746.44     6  12.8  21E2                      0.00526                  
+158GDS G KC=0.00436   $LC=0.00068                                               
+158GD  G 794.70     7  19.8  LT                                             &   
+158GD  G 887.71     5  100    6                                                 
+158GD  G 893.27     7   25.1 27                                                 
+158GD  G 965.94     7   55   5  M1,E2                  0.00298                  
+158GDS G KC=0.00249   $LC=0.00036                                               
+158GD  L 2176        (5-)                                                   Q   
+158GDX L XREF=H                                                                 
+158GD cL J         From comparison of calculated and measured cross sections    
+158GD2cL in {+159}Tb(pol t,|a).                                                 
+158GD cL J         Assigned as K|p=4- band with bandhead unobserved. Major      
+158GD2cL component is configuration={ ((|p 5/2[532])}+{ (|p 3/2[411]))} from    
+158GD3cL (pol. t,a) (1991Bu10) and model calculations suggest this and          
+158GD4cL the configuration=((|n 3/2[521])+(|n 5/2[642])) (1994So02) myy be      
+158GDxcL present.
+158GD  L 2210                                                                   
+158GDX L XREF=F                                                                 
+158GD  L 2215.41   6 (1,2)+                                                     
+158GDX L XREF=C                                                                 
+158GD cL J         From M1 |g to 2+ level and |g to 0+.                         
+158GD  G 423.727   25   5.0  6  E2                     0.0223                   
+158GD  G 472.36    3    8.0  LT                                             &   
+158GD  G 697.87     9   8.4  16                                                 
+158GD  G 1028.28    8  100   8 M1                      0.00439                  
+158GDS G KC=0.00372   $LC=0.00050                                               
+158GD  L 2221.54   7 2-,3-                                                      
+158GDX L XREF=ACF(2225)H(2224)                                                  
+158GD cL J         From E1 |g to 2+ level and |g to 3+.                         
+158GD  G 956.04     6  39.5  27                                                 
+158GD  G 1034.47    6  100   5 E1                      0.00107                  
+158GDS G KC=0.00091   $LC=0.00012                                               
+158GD  L 2237                                                                   
+158GDX L XREF=J                                                                 
+158GD  L 2249.53   7  2+,3,4+                                                   
+158GDX L XREF=CF(2252)J(*2256)                                                  
+158GD cL J         From |g's to 2+ and 4+ levels.                               
+158GD  G 891.21     7  42     4                                                 
+158GD  G 983.99     8  81     7                                                 
+158GD  G 1062.34    9 100     9                                                 
+158GD  L 2260.08    6 2+,3+                                                     
+158GD cL J         From M1,E2 |g to 3+ level and |g's to 2- and 3-.             
+158GDX L XREF=CJ(*2256)                                                         
+158GD  G 226.234    9  0.12   2                                                 
+158GD  G 306.078   20  0.12   2                                                ?
+158GD2 G FL=1952.34                                                             
+158GD  G 329.804    8  1.42  11 M1                     0.0757                  ?
+158GD2 G FL=1930.12                                                             
+158GD  G 398.85     8  0.20   9                                                 
+158GD  G 466.51     5  0.33   9                                                 
+158GD  G 994.54    9   24.7  25 M1,E2                  0.0038 10                
+158GD  G 1072.62   17  18.2  24                                                 
+158GD  G 1218.63   20  31     7                                                 
+158GD  G 1236.13   25  24     4                                                 
+158GD  G 2180.3     3  100   29                                                 
+158GD  L 2269.11   6  1                                                         
+158GDX L XREF=ACDF(*2273)J(*2272)                                               
+158GD cL J         From dipole excitation in (|g,|g').                          
+158GD  G 245.408   45  6.0    4 M1,E2                                           
+158GD  G 1005.78    9  100   11                                                 
+158GD  G 1292.3     2  21.7  27                                                 
+158GD  G 2189.3     8  2.2    5 D                                               
+158GD2 G BE1W=0.00047 9                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  G 2268          5.4   14 D                                               
+158GD2 G BE1W=0.00017 6                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  L 2276.04   20                                                           
+158GDX L XREF=CF(*2273)J(*2272)                                                 
+158GD  L 2282.9    4                                                            
+158GDX L XREF=C                                                                 
+158GD  L 2285        (6-)                                                   Q   
+158GDX L XREF=F(2287)H(2282)                                                    
+158GD cL J         From comparison of calculated and measured cross section     
+158GD2cL in {+159}Tb(pol t,|a).                                                 
+158GD  L 2296                                                                   
+158GDX L XREF=J                                                                 
+158GD  L 2325.28   7  1-,2+                                                     
+158GDX L XREF=AH                                                                
+158GD cL J         From |g's to 0+, 1-, and 3- levels.                          
+158GD  G 922.4      3  18.6  22                                                 
+158GD  G 1061.68   16  19.6  16                                                 
+158GD  G 1138.3     3  12.9  16                                                 
+158GD  G 1284.0     2  3.8    6                                                 
+158GD  G 1301.68   14  11.1  11                                                 
+158GD  G 1347.95   13  100    5                                                 
+158GD  G 2246.1     3  27.8  20                                                 
+158GD  G 2326.0    15  1.1    4                                                 
+158GD  L 2327.44   25 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2340.3      2+                                                         
+158GDX L XREF=AF(2334)J(2338)                                                   
+158GD cL J         From comparison of measured and calculated cross sections in 
+158GD2cL (d,p).                                                                 
+158GD  G 2260.7    3  100    10                                                ?
+158GD  G 2340.5    10  12    4                                                 ?
+158GD  L 2344.48   15 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2355.09   15 (+)                                                       
+158GDX L XREF=CJ(2358)                                                          
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2369.6    15                                                           
+158GDX L XREF=CF(2366)                                                          
+158GD  L 2384                                                                   
+158GDX L XREF=H                                                                 
+158GD  L 2395.40   13 (3+)                                                      
+158GDX L XREF=ACF(2400)J(2405)                                                  
+158GD cL J         From comparison of measured and calculated cross sections    
+158GD2cL in (d,p) and |g's to 0+ and 3- levels and |p=+ from E1 |g from         
+158GD3cL thermal-n capture state.                                               
+158GD  G 1353.64   14  89    11                                                 
+158GD  G 1372.0     2  100   23                                                 
+158GD  G 2315.3    10  16     7                                                 
+158GD  G 2395.6     5  39     7                                             &   
+158GD  L 2418        (7-)                                                   Q   
+158GDX L XREF=HJ(2427)                                                          
+158GD cL J         From comparison of calculated and measured cross sections    
+158GD2cL in {+159}Tb(pol t,|a).                                                 
+158GD  L 2433.1     8                                                           
+158GDX L XREF=C                                                                 
+158GD  L 2447.30   24 1                                                         
+158GDX L XREF=ADF(*2450)                                                        
+158GD cL J         From D excitation in (|g,|g').                               
+158GD  G 2367.7     3  100    5 D                                               
+158GD2 G BE1W=0.00033 8                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  G 2447.4     4   97    8 D                                               
+158GD2 G BE1W=0.00024 8                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  L 2450.9    3  1,2+                                                      
+158GDX L XREF=ACF(*2450)                                                        
+158GD cL J         From |g's to 0+ and 2+ levels.                               
+158GD  G 1263.6     4   93   40                                                 
+158GD  G 2451.2     6  100    3                                                 
+158GD  L 2475.4    3  1,2+                                                      
+158GDX L XREF=AJ(2471)                                                          
+158GD cL J         From |g's to 0+ and 2+ levels.                               
+158GD  G 1215.7     4  100   21                                                 
+158GD  G 2395.6     5  61    11                                             &   
+158GD  G 2475.5     5  46     7                                                 
+158GD  L 2480.5    14                                                           
+158GDX L XREF=C                                                                 
+158GD  L 2485.6    7                                                            
+158GDX L XREF=CHJ(*2490)                                                        
+158GD  L 2499.19   10 (1,2)+                                                    
+158GDX L XREF=AF(2494)J(*2490)                                                  
+158GD cL J         From |g's to 0+ and 3+ levels.                               
+158GD  G 1233.7     2   58   12                                                 
+158GD  G 1312.08   12  100    8                                                 
+158GD  G 1475.2     4   18    4                                                 
+158GD  G 2421.0    11  5.6   22                                                 
+158GD  G 2499.0    10  23.6  11                                                 
+158GD  L 2501.0     3 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2534.1     3 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2538.9    10(2+)                                                       
+158GDX L XREF=CF                                                                
+158GD cL J         From comparison of measured and calculated cross sections in 
+158GD2cL (d,p).                                                                 
+158GD  L 2566.8     6 1(+)                                                      
+158GDX L XREF=CDF(2572)J(2561)                                                  
+158GD cL J         J from D excitation (|g,|g') and |p from E1 |g from          
+158GD2cL thermal-n capture state.                                               
+158GD  G 2486          38    11 D                                               
+158GD  G 2566         100       D                                               
+158GD  L 2594.6    8                                                            
+158GDX L XREF=CF(2589)                                                          
+158GD  L 2600        (3+)                                                       
+158GDX L XREF=FJ(*2601)                                                         
+158GD cL J         From comparison of measured and calculated cross sections in 
+158GD2cL (d,p).                                                                 
+158GD  L 2601.2    7  1(+)                                                      
+158GDX L XREF=ACDFJ(*2601)                                                      
+158GD cL J         J from D excitation in (|g,|g') and |p from E1 |g from       
+158GD2cL thermal-n capture state. Level may be a doublet since (d,p)            
+158GD3cL suggests J|p=(3+).                                                     
+158GD  G 2521          62    21                                                 
+158GD cG RI        From (|g,|g'); other: 24 {I12} from {+158}Eu |b{+-} decay    
+158GD2cG for |g's with questionable placements.                                 
+158GD  G 2601         100                                                       
+158GD  L 2620.90   23                                                           
+158GDX L XREF=A                                                                 
+158GD  G 1433.7     3  100   38                                                 
+158GD  G 1596.9     7  38    10                                                 
+158GD  G 1644.0     4  57    19                                                 
+158GD  G 2542.0    16  17     5                                                 
+158GD  L 2631.0     3 (+)                                                       
+158GDX L XREF=CF(2634)                                                          
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2644.1     8                                                           
+158GDX L XREF=A(2642)C                                                          
+158GD  G 2564      2    81   27                                                ?
+158GD  G 2640      2   100   41                                                ?
+158GD  L 2656.9     4                                                           
+158GDX L XREF=CF(2658)J(*2666)                                                  
+158GD  L 2670.6     3                                                           
+158GDX L XREF=AC(2672)J(*2666)                                                  
+158GD  G 1693.4     3  100   23                                                 
+158GD  G 2673       2   19    8                                                 
+158GD  L 2687.1     3 (0+)                                                      
+158GDX L XREF=CF(2683)J(2689)                                                   
+158GD cL J         From L=(0) in (t,p).                                         
+158GD  L 2698.7     3                                                           
+158GDX L XREF=CF(2701)                                                          
+158GD  L 2723.7    10                                                           
+158GDX L XREF=C                                                                 
+158GD  L 2741                                                                   
+158GDX L XREF=F                                                                 
+158GD  L 2751.5     5                                                           
+158GDX L XREF=C                                                                 
+158GD  L 2758.5     3 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2761.92   22                                                           
+158GDX L XREF=A                                                                 
+158GD  G 1738.0     3  100   19                                                 
+158GD  G 1785.0     3   57   10                                                 
+158GD  G 2764       2   15    3                                                 
+158GD  L 2769      7                                                            
+158GDX L XREF=FJ                                                                
+158GD  L 2782.3     3 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2794.9     8                                                          ?
+158GDX L XREF=CJ                                                                
+158GD  L 2804         1                                                         
+158GDX L XREF=DF                                                                
+158GD cL J         From dipole excitation in (|g,|g').                          
+158GD  G 2724          40    7  D                                               
+158GD2 G BE1W=0.00065 10                                                        
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  G 2804         100       D                                               
+158GD2 G BE1W=0.00024 6                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  L 2823         1-                                                        
+158GDX L XREF=ACD                                                               
+158GD cL J         From E1 excitation in (|g,|g').                              
+158GD  G 2743         100    17 E1                                              
+158GD2 G BE1W=0.00049 10                                                        
+158GD  G 2823          56       E1                                              
+158GD2 G BE1W=0.00081 22                                                        
+158GD  L 2830.4     7                                                           
+158GDX L XREF=CFJ(*2839)                                                        
+158GD  L 2842         1                                                         
+158GDX L XREF=DJ(*2839)                                                         
+158GD cL J         From dipole excitation in (|g,|g').                          
+158GD  G 2762          68    13 D                                               
+158GD2 G BE1W=0.00042 7                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  G 2842         100       D                                               
+158GD2 G BE1W=0.00026 7                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  L 2844.2    5                                                            
+158GDX L XREF=AC                                                                
+158GD  G 2844      2  100                                                      ?
+158GD  L 2859.6     6                                                           
+158GDX L XREF=ACF                                                               
+158GD  G 1835.9     6  100                                                      
+158GD  L 2879.03   20 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2886                                                                   
+158GDX L XREF=F                                                                 
+158GD  L 2896.1     6                                                           
+158GDX L XREF=C                                                                 
+158GD  L 2909.8     3 (+)                                                       
+158GDX L XREF=CF(2915)                                                          
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 2934.7    10                                                           
+158GDX L XREF=CF(2940)                                                          
+158GD  L 2959.7     8                                                           
+158GDX L XREF=CF(2966)                                                          
+158GD  L 2986.1    4  1                                                         
+158GDX L XREF=CD                                                                
+158GD cL J         From dipole excitation by (|g,|g').                          
+158GD  G 2906          45    12 D                                               
+158GD  G 2986         100       D                                               
+158GD  L 2997.7     4 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 3012.05   15 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 3029.1     4                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3039         1                                                         
+158GDX L XREF=D                                                                 
+158GD cL J         From dipole excitation by (|g,|g').                          
+158GD  G 2959          28    12 D                                               
+158GD  G 3039         100       D                                               
+158GD  L 3045.6    15                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3060.3     4                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3066.9     4                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3080.0    6                                                            
+158GDX L XREF=C                                                                 
+158GD  L 3108         1                                                         
+158GDX L XREF=D                                                                 
+158GD cL J         From dipole excitation by (|g,|g').                          
+158GD  G 3028          58    7  D                                               
+158GD  G 3108         100       D                                               
+158GD  L 3118.5    15                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3141.5     7                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3149.9     7 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 3161         1-                                                        
+158GDX L XREF=D                                                                 
+158GD cL J         From E1 excitation by (|g,|g').                              
+158GD  G 3081         139    30 E1                                              
+158GD2 G BE1W=0.00037 8                                                         
+158GD  G 3161         100       E1                                              
+158GD2 G BE1W=0.00047 15                                                        
+158GD  L 3171.2     6                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3192      1  1+                                                        
+158GD cL J         From M1 excitation by (|g,|g').                              
+158GDX L XREF=D                                                                 
+158GD  G 3113       1  41    5  M1                                              
+158GD  G 3192       1 100       M1                                              
+158GD  L 3195.5     6                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3200.8     6 1+                                                        
+158GD cL J         From M1 excitation by (|g,|g').                              
+158GDX L XREF=CD                                                                
+158GD  G 3121       1  53    5  M1                                              
+158GD  G 3201       1 100       M1                                              
+158GD  L 3228.6     7                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3234.5    5                                                            
+158GDX L XREF=C                                                                 
+158GD  L 3247.2     4                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3258.2    6  1-                                                        
+158GDX L XREF=CD                                                                
+158GD cL J         From E1 excitation by (|g,|g').                              
+158GD  G 3179         100    23 E1                                              
+158GD2 G BE1W=0.00029 8                                                         
+158GD  G 3259          53       E1                                              
+158GD2 G BE1W=0.00051 18                                                        
+158GD  L 3263.9     6                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3271.4     8                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3288.0     5 1                                                         
+158GDX L XREF=CD                                                                
+158GD cL J         From dipole excitation by (|g,|g').                          
+158GD  G 3208          45    23 D                                               
+158GD  G 3288         100       D                                               
+158GD  L 3299         1                                                         
+158GDX L XREF=D                                                                 
+158GD cL J         From dipole excitation by (|g,|g').                          
+158GD  G 3219          47    7  D                                               
+158GD  G 3299         100       D                                               
+158GD  L 3351.9     7                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3411.7     4                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3428         1                                                         
+158GDX L XREF=D                                                                 
+158GD cL J         From dipole excitation by (|g,|g').                          
+158GD  G 3348          64    23 D                                               
+158GD2 G BE1W=0.00016 4                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  G 3428         100       D                                               
+158GD2 G BE1W=0.00010 4                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  L 3436.4     4 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 3448.8     4 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 3470         1                                                         
+158GDX L XREF=D                                                                 
+158GD cL J         From dipole excitation by (|g,|g').                          
+158GD  G 3390          39    23 D                                               
+158GD2 G BE1W=0.00014 4                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  G 3470         100       D                                               
+158GD2 G BE1W=0.00005 3                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  L 3534.8     5 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 3577         1                                                         
+158GDX L XREF=D                                                                 
+158GD cL J         From dipole excitation by (|g,|g').                          
+158GD  G 3497          26    21 D                                               
+158GD2 G BE1W=0.00018 5                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  G 3577         100       D                                               
+158GD2 G BE1W=0.00004 4                                                         
+158GD cG BE1W      Calculation assumes level parity is -.                       
+158GD  L 3592.4     5 (-)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From M1,E2 |g from thermal-n capture state.                  
+158GD  L 3626.9     5                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3632.7     7                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3647.5     8                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3661.6     6                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3750.1    15                                                          ?
+158GDX L XREF=C                                                                 
+158GD  L 3794.6    10 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 3820         1-                                                        
+158GDX L XREF=D                                                                 
+158GD cL J         From E1 excitation by (|g,|g').                              
+158GD  G 3740         100    31 E1                                              
+158GD2 G BE1W=0.00036 13                                                        
+158GD  G 3820          74       E1                                              
+158GD2 G BE1W=0.00046 22                                                        
+158GD  L 3846.7     4 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 3878.8     4 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 3921         1-                                                        
+158GDX L XREF=D                                                                 
+158GD cL J         From E1 excitation by (|g,|g').                              
+158GD  G 3841         100    34 E1                                              
+158GD2 G BE1W=0.00051 22                                                        
+158GD  G 3921          50       E1                                              
+158GD2 G BE1W=0.0010 5                                                          
+158GD  L 3948.0     6                                                           
+158GDX L XREF=C                                                                 
+158GD  L 3965.1     7                                                           
+158GDX L XREF=C                                                                 
+158GD  L 4015.8     8                                                          ?
+158GDX L XREF=C                                                                 
+158GD  L 4110.7     8 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 4139.6     4 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 4161.5     8 (+)                                                       
+158GDX L XREF=C                                                                 
+158GD cL J         From E1 |g from thermal-n capture state.                     
+158GD  L 4236.9     6                                                           
+158GDX L XREF=C                                                                 
+                                                                                

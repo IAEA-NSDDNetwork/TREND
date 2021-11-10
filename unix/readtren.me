@@ -1,0 +1,176 @@
+                                        TREND
+                              Version 8.3 [Feb. 7, 2001]
+ 
+ 
+             Author:  Robert R. Kinsey
+                      Dept. of Advanced Technology
+                      National Nuclear Data Center
+                      Bldg. 197-D
+                      Brookhaven National Laboratory
+                      P.O. Box 5000
+                      Upton, NY 11973-5000
+                      Phone: 631-344-5096 FAX: 631-344-2806
+                      Email: "KINSEY@BNL.GOV"
+ 
+                      (Other author: Bruce J. Barton)
+ 
+                  This program generates ENSDF data tables report  and  allows
+             the user to view and control the output file on the screen.
+ 
+             Input  file:   An  ENSDF  formatted  file.   Sample  input  file:
+                   DATA.TST.
+ 
+             Outputs:  Tabular representations of the ENSDF  data  similar  in
+                   organization  to  the  Nuclear  Data  Sheets  are generated
+                   either as a report file or  as  a  file  capable  of  being
+                   viewed  interactively on an ANSI (VT100 equivalent) or VT52
+                   terminal.
+ 
+                   Sample output file:  TREND.RPT (132 columns; 66  lines  per
+                   page)
+ 
+             Terminal  dialog:   The  program  will  request   the   following
+                   information:
+ 
+                   1.  Input file name
+ 
+                   2.  Output file name
+ 
+                   3.  If the output file exists, does the user wish  to  view
+                       it?
+ 
+                   4.  80 or 132 column display (no defaults)
+ 
+                   5.  Lines per page (defaults:  60 if 80 column display;  66
+                       if 132 column display).  The user should specify 24 for
+                       screen display.
+ 
+                   If  the  user  has  specified   "TT:"   or   "TTY:"   (case
+                   insensitive)  as  the  output  file  name,  answered yes to
+                   viewing an existing file, or 24 lines per page, the  tables
+                   will  be  displayed on the screen with a prompt line at the
+                   bottom.  The user  may  scroll  up  and  down  through  the
+                   tables.
+ 
+ 
+ 
+ 
+                                          1
+ 
+                                        TREND
+                              Version 8.3 [Feb. 7, 2001]
+ 
+ 
+             Compilation and  loading  instructions:   This  program  requires
+                   subroutines from the NSDFLIB.FOR package.
+ 
+             Additional documentation:  None
+ 
+                                      Version History
+             1(00) 17-Nov-83  First release (Fortran-77 standard).
+             1(01)  1-Aug-84  Close unit=30, with status='delete'.
+             1(02)  1-Aug-84  Some computers blank out text skipped over by T
+                              format. Fix things so that all tabs are forward.
+             1(03)  2-Aug-84  Clean up main program read/write statements.
+             2(04)  2-Aug-84  New style of footnote comments ($ delimits SYM
+                              from text).
+             2(05)  7-Nov-84  Fix 1(1): Move Close (unit=30... to main
+                              program.
+             3(06) 23-Apr-85  Make program VAX compatible.
+             4(07) 19-Jun-85  Major overhaul.
+             4(10) 25-Jun-85  Check for and delete any existing scratch files
+                              before first call to READDS.
+             5(01)  1-May-87  Modified to output to terminals and disk files.
+             5(02)  7-Jul-87  Footnote symbol corrected ($>&).
+             5(03)  6-Nov-87  VAX MDC READONLY added to OPEN  for input file.
+             5(04) 15-Jul-88  Minor format change for online use etc
+             6.00   4-Oct-89  Publication Normalization card and continuation
+                              cards for DSID processing added to the program.
+             6.01   8-Nov-89  Minor bug in subroutine RPT having to be with
+                              presentation change of XREF's.
+             6.02   5-MAR-90  Test of lincnt before TBLHDR called to determine
+                              if the page needs to be advanced first.
+             6.03   7-MAR-90  PNPRO routine in standard Fortran 77.
+             6.04   9-APR-90  All variables declared and all machine
+                              independent code in standard Fortran 77.
+             6.05  18-APR-90  Corrected code for two instances where transfers
+                              into IF/ELSE/ENDIF blocks where made.
+             6.06  26-APR-90  Removed DEC code and added AST (Atari 1040ST)
+                              code. File handling of temporary files changed
+                              extensively to allow operation within the
+                              limitations of personnel computers. This version
+                              will compile and load with Microsoft Fortran
+                              V4.0 on an IBM/PC but will not run properly
+                              (hangs). Run date stamping added for IBM/PC
+                              (Microsoft Fortran) and Atari 1040ST(Prospero
+                              Fortran).
+             6.07  19-Jun-90  Minor corrections to improve consistency between
+                              various computers in spite of real number
+                              roundoff problems. IBM/PC Microsoft Fortran V5.0
+                              now can be used to create a correct executable.
+             6.08  11-Sep-90  XREF field expanded from 40 characters to 70.
+ 
+ 
+ 
+ 
+ 
+                                          2
+ 
+                                        TREND
+                              Version 8.3 [Feb. 7, 2001]
+ 
+ 
+             6.1    9-Jul-91  XREF field display modified to keep a datasets
+                                X flag in a fixed column. Uncertain placement
+                                footnote flag is now output in the radiation
+                                energy field. Column footnote for
+                                normalization is now output only if there is
+                                a normalization card in the dataset.
+             6.11   3-Sep-91  Incorporate Pub comment and Update comment cards
+             6.12   9-Oct-92  Protected code against blank CN comments and
+                                blank PN cards. PC version bombs if 0 is used
+                                in specifying the ending of a string and
+                                LENSTR returns 0 for a blank string.
+             6.13  13-Apr-93. Delinted using FLINT 2.83
+                              Removed extraneous <LF> on prompt for IPC
+                              Accounted for BACKSPACE at EOF in MS FORTRAN 5.0
+                              Worked around sporadic MS FORTRAN problem with
+                                BACKSPACEing after EOF found.
+                              (TWB)
+             6.13a 19-May-93. Corrected initialization problem of flgstr in
+                                subroutine RPT (TWB)
+             6.13b 06-Aug-93. Corrected minor problem noted by Alpha FORTRAN
+                                compiler (RRK)
+             6.14  29-Nov-93. Footnotes used on multiple column headings were
+                                suppressed if the first column it was used on
+                                did not exist. A problem only for N card
+                                generated footnotes of EC Decay datasets.
+                                (RRK)
+             6.20  22-Oct-96. Illegal column footnote when given as the final
+                                table comment caused the program to bomb for
+                                gamma tables with intensity flags given.
+             7.00  31-Mar-99. Uncertainties truncated in halflife field
+             8.00  17-Jun-99. Y2K and removes prints codes from output.
+             8.02  05-Jul-99. Attempt to distinguish between pre- and
+                                post-Y2K
+             8.05  16-Jul-99  Went into an infinite loop if PN record was
+                                completely blank
+             8.10  15-Oct-99  A work around for display problem with the
+                                Digital Visual Fortran created. A
+                                command-line argument DVF version was added.
+|            8.15  11-Feb-00  Normalizations with no uncertainty were only
+|                               output to three places past the decimal point.
+|            8.20  12-Apr-00  Error in comment tables corrected. (It caused
+|                               to be skipped.) Normalization comments are now
+|                               as intended. (Mistype)
+|            8.3    7-Feb-01  Added UNX MDC coding. (RRK) [Assign statements
+|                               had to be removed in FSORT.]
+ 
+ 
+                                        Disclaimer
+ 
+                  Neither  the  Associated  Universities,  Inc.,  nor  the  US
+             Department  of  Energy  make  any  warranty  or  assume any legal
+             responsibility for the results produced by the program.
+ 
+                                          3

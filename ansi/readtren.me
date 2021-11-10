@@ -1,0 +1,91 @@
+                                        TREND
+                           Version 8.10 [Oct. 15, 1999]
+
+
+             Author:  Robert R. Kinsey
+                      National Nuclear Data Center, Bldg. 197-D
+                      Brookhaven National Laboratory
+                      P.O. Box 5000
+                      Upton, NY 11973-5000
+                      Phone: 631-344-5096 FAX: 631-344-2806
+                      Internet: "kinsey@bnl.gov"
+
+                  This program generates ENSDF data tables report  and  allows
+             the user to view and control the output file on the screen.
+
+             Input  file:   An  ENSDF  formatted  file.   Sample  input  file:
+                   TREND.DAT.
+
+             Outputs:  Tabular representations of the ENSDF  data  similar  in
+                   organization  to  the  Nuclear  Data  Sheets  are generated
+                   either as a report file or  as  a  file  capable  of  being
+                   viewed  interactively on an ANSI (VT100 equivalent) or VT52
+                   terminal.
+
+                   Sample output file:  TREND.RPT (80 columns; 60  lines  per
+                   page)
+
+             Terminal  dialog:   The  program  will  request   the   following
+                   information:
+
+                   1.  Input file name
+
+                   2.  Output file name
+
+                   3.  If the output file exists, does the user wish  to  view
+                       it?
+
+                   4.  80 or 132 column display (no defaults)
+
+                   5.  Lines per page (default:  60).  The user should specify 
+                       23 for screen display.
+
+                   If  the  user  has  specified   "TT:"   or   "TTY:"   (case
+                   insensitive)  as  the  output  file  name,  answered yes to
+                   viewing an existing file, or 24 lines per page, the  tables
+                   will  be  displayed on the screen with a prompt line at the
+                   bottom.  The user  may  scroll  up  and  down  through  the
+                   tables.
+
+             Compilation and  loading  instructions:   This  program  requires
+                   subroutines from the NSDFLIB.FOR package.
+
+             Additional documentation:  None
+
+                                      Version History
+             1(00) 17-Nov-83  First release (Fortran-77 standard).
+             2(04)  2-Aug-84  New style of footnote comments ($ delimits SYM
+                              from text).
+             3(06) 23-Apr-85  Make program VAX compatible.
+             4(07) 19-Jun-85  Major overhaul.
+             5(01)  1-May-87  Modified to output to terminals and disk files.
+             6.00   4-Oct-89  Publication Normalization card and continuation
+                              cards for DSID processing added to the program.
+             6.07  19-Jun-90  Minor corrections to improve consistency between
+                              various computers in spite of real number
+                              roundoff problems. IBM/PC Microsoft Fortran V5.0
+                              now can be used to create a correct executable.
+             6.14  29-Nov-93. Footnotes used on multiple column headings were
+                                suppressed if the first column it was used on
+                                did not exist. A problem only for N card
+                                generated footnotes of EC Decay datasets.
+                                (RRK)
+             6.20  22-Oct-96. Illegal column footnote when given as the final
+                                table comment caused the program to bomb for
+                                gamma tables with intensity flags given.
+             7.00  31-Mar-99. Uncertainties truncated in halflife field         
+             8.00  17-Jun-99. Y2K and removes prints codes from output.         
+             8.02  05-Jul-99. Attempt to distinguish between pre- and        
+                                post-Y2K                                        
+             8.05  16-Jul-99  Went into an infinite loop if PN record was    
+                                completely blank                                
+             8.10  15-Oct-99  A work around for display problem with the Digital
+                                Visual Fortran created. A command-line argument
+                                DVF version was added.
+
+
+                                        Disclaimer
+
+                  Neither  the  Brookhaven Science Associates  nor  the  US
+             Department  of  Energy  make  any  warranty  or  assume any legal
+             responsibility for the results produced by the program.
