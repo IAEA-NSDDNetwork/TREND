@@ -1,5 +1,9 @@
 # TREND
-Presents ENSDF data in a tabular form with optional screen display. TREND is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+Presents ENSDF data in a tabular form with optional screen display.
+
+TREND is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+
+Address any feedback to the Brookhaven National Nuclear Data Center  NNDC@BNL.GOV
 
 ## Disclaimer
 
